@@ -23,9 +23,15 @@
   {{ $styles := resources.Get "css/style.css" | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
+<<<<<<< HEAD
   {{ "<!--Favicon-->" | safeHTML }}
   <!--link rel="shortcut icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon"-->
   <link rel="icon" href="{{ `static/images/favicon.png` | absURL }} " type="image/x-icon">
+=======
+  <!--{{ "Favicon" | safeHTML }} FAVICON SÓ FUNCIONOU DEPOIS DE RETIRAR ESSAS LINHAS
+  <link rel="shortcut icon" href="{{ `images/favicon.ico` | absURL }} " type="image/png">
+  <link rel="icon" href="{{ `images/favicon.ico` | absURL }} " type="image/png">-->
+>>>>>>> 514663997a2c9f2b4f3ed985097e12ea333c28ce
 
 
 

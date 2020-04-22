@@ -1,11 +1,15 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Olá, bem vindo <br> ao PET Produção"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "O Programa de Educação Tutorial Engenharia de Produção Mecânica (PET Produção – UFC), foi criado no ano de 2011, 
+  visando desenvolver atividades acadêmicas articulando ensino, pesquisa e extensão com a finalidade de proporcionar melhoria 
+  da qualidade acadêmica do curso. O PET Produção conta com 18 bolsistas sob a tutoria do professor Anselmo Pitombeira e está 
+  realizando novas atividades como minicursos, exibição de filmes didáticos, desenvolvimento de jornais informativos, análise 
+  de livros e outras atividades voltadas à comunidade externa."
   button:
     enable : true
     label : "know more"

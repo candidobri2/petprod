@@ -78,11 +78,11 @@ preloader = "" # use png, jpg, svg or gif format
 
 # social site
 [[params.social]]
-URL = "#"
+URL = "https://pt-br.facebook.com/petprod.ufc/"
 icon = "ti-facebook"
 
 [[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/petproducaoufc/"
 icon = "ti-instagram"
 
 [[params.social]]

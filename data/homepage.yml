@@ -12,28 +12,28 @@ about:
   de livros e outras atividades voltadas à comunidade externa."
   button:
     enable : true
-    label : "know more"
+    label : "saiba mais"
     URL : "about"
 
 # skill
 skill:
   enable : true
-  title : "Skills"
+  title : "Impactos do PET Produção"
   item:
-    - title : "Web Design"
-      progress : "90%"
+    - title : "Pessoas"
+      progress : "1200"
       color : "#fdb157"
       
-    - title : "Logo Design"
-      progress : "60%"
+    - title : "Organizações"
+      progress : "10"
       color : "#9473e6"
       
-    - title : "After Effects"
-      progress : "80%"
+    - title : "Alunos"
+      progress : "5000"
       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
+    - title : "Produção Bibliográficas"
+      progress : "20"
       color : "#ffbcaa"
 
 # experience

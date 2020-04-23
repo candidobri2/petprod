@@ -83,18 +83,25 @@ service:
   title : "Conheça nossa cultura"
   item:
     - title : "Missão"
-      icon : "ti-palette"
-      content : "A busca constante pelo conhecimento"
+      icon : "ti-target"
+      content : "Desenvolver potenciais acadêmico e profissional dos integrantes do grupo e alunos de graduação por meio de atividades de **ensino, pesquisa e extensão**, proporcionando melhorias para a sociedade."
       highlighted : false
 
     - title : "Visão"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      icon : "ti-eye"
+      content : "Ser reconhecido como um **grupo de referência** na tríade – ensino, pesquisa e extensão – pela comunidade de Engenharia de Produção no estado do Ceará até 2021."
       highlighted : true
 
     - title : "Valores"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      icon : "ti-medall"
+      content : "
+      Brilho no olho                    
+      Busca constante pelo conhecimento  
+      Ser protagonista  
+      A genialidade está em não desistir   
+      Integridade      
+      Faço parte dessa história 
+      Unidos por um propósito"
       highlighted : false
 
 # portfolio

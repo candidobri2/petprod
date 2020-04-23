@@ -28,24 +28,33 @@ URL = "plugins/shuffle/shuffle.min.js"
 # menu
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Sobre"
 weight = 2
+
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio(Proje)"
+weight = 3
 
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 3
-
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
 weight = 4
 
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "time"
+name = "Nosso time"
 weight = 5
 
+[[menu.main]]
+URL = "curso"
+name = "O curso"
+weight = 6
+
+[[menu.main]]
+URL = "contact"
+name = "Contato"
+weight = 7
 
 # default parameters
 [params]

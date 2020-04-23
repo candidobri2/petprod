@@ -3,7 +3,7 @@ banner:
   title : "Olá, bem vindo <br> ao PET Produção"
 
 # about
-about:
+sobre:
   enable : true
   content : "O Programa de Educação Tutorial Engenharia de Produção Mecânica (PET Produção – UFC), foi criado no ano de 2011, 
   visando desenvolver atividades acadêmicas articulando ensino, pesquisa e extensão com a finalidade de proporcionar melhoria 
@@ -13,7 +13,7 @@ about:
   button:
     enable : true
     label : "saiba mais"
-    URL : "about"
+    URL : "sobre"
 
 # skill
 skill:
@@ -98,7 +98,7 @@ service:
       highlighted : false
 
 # portfolio
-portfolio:
+projetos:
   enable : true
   title : "Portfolio"
   item_show : 5

@@ -47,8 +47,8 @@
 <!-- /about -->
 
 <!-- Work Process -->
-{{ if .Site.Data.about.work_process.enable }}
-{{ with .Site.Data.about.work_process }}
+{{ if .Site.Data.sobre.work_process.enable }}
+{{ with .Site.Data.sobre.work_process }}
 <section class="section">
   <div class="container">
     <div class="row justify-content-around">
@@ -70,8 +70,8 @@
 <!-- ./Work Process -->
 
 <!-- team -->
-{{ if .Site.Data.about.team.enable }}
-{{ with .Site.Data.about.team }}
+{{ if .Site.Data.sobre.team.enable }}
+{{ with .Site.Data.sobre.team }}
 <section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
   <div class="container">
     <div class="row">
@@ -96,12 +96,12 @@
 {{ end }}
 <!-- /team -->
 
-{{ if .Site.Data.about.clients_logo_slider.enable }}
+{{ if .Site.Data.sobre.clients_logo_slider.enable }}
 <section class="section">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">{{ .Site.Data.about.clients_logo_slider.title | markdownify }}</h2>
+        <h2 class="section-title">{{ .Site.Data.sobre.clients_logo_slider.title | markdownify }}</h2>
       </div>
     </div>
     {{ partial "client-slider.html" . }}

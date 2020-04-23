@@ -27,13 +27,13 @@ URL = "plugins/shuffle/shuffle.min.js"
 
 # menu
 [[menu.main]]
-URL = "about"
-name = "Sobre"
+URL = "sobre"
+name = "Nossa história"
 weight = 2
 
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio(Proje)"
+URL = "projetos"
+name = "Projetos"
 weight = 3
 
 [[menu.main]]
@@ -52,7 +52,7 @@ name = "O curso"
 weight = 6
 
 [[menu.main]]
-URL = "contact"
+URL = "contato"
 name = "Contato"
 weight = 7
 

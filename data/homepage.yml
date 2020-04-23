@@ -98,7 +98,7 @@ service:
       highlighted : false
 
 # portfolio
-portfolio:
+projetos:
   enable : true
   title : "Portfolio"
   item_show : 5

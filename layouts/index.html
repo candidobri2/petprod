@@ -13,7 +13,7 @@
     
     <!-- IMAGEM DE FUNDO DA HOME -->
     <div class="layer-bg w-100">
-      <img class="img-fluid w-100" src="{{`images/illustrations/PETIANOS-1.jpg` | relURL}}" alt="bg-shape">
+      <img class="img-fluid w-100" src="{{`images/illustrations/PETIANOS-2.jpg` | relURL}}" alt="bg-shape">
     </div>
 
     <!-- IMAGENS INUTEIS DE FUNDO DA HOME
@@ -192,18 +192,18 @@
   {{ end }}
 
 
-  {{ if .Site.Data.homepage.portfolio.enable }}
+  {{ if .Site.Data.homepage.projetos.enable }}
   <!-- portfolio -->
   <section class="section">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="section-title">{{ .Site.Data.homepage.portfolio.title | markdownify }}</h2>
+          <h2 class="section-title">{{ .Site.Data.homepage.projetos.title | markdownify }}</h2>
         </div>
       </div>
       <div class="row shuffle-wrapper">
-        {{ $item:= .Site.Data.homepage.portfolio.item_show }}
-        {{ range first $item .Site.Data.portfolio.item }}
+        {{ $item:= .Site.Data.homepage.projetos.item_show }}
+        {{ range first $item .Site.Data.projetos.item }}
         <div class="col-lg-4 col-6 mb-4 shuffle-item">
           <div class="position-relative rounded hover-wrapper">
             <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">

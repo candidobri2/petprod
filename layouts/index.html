@@ -57,13 +57,13 @@
   </section>
   <!-- /hero area -->
 
-  {{ if .Site.Data.homepage.about.enable }}
+  {{ if .Site.Data.homepage.sobre.enable }}
   <!-- about -->
   <section class="section">
     <div class="container">
       <div class="row">
         <div class="col-lg-10 mx-auto text-center">
-          {{ with .Site.Data.homepage.about }}
+          {{ with .Site.Data.homepage.sobre }}
           <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
           {{ if .button.enable }}
           {{ with .button }}

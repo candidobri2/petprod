@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Olá, bem vindo <br> ao PET Produção"
+  title : "Olá, bem vindo </br> ao PET Produção"
 
 # about
 sobre:
@@ -35,6 +35,10 @@ skill:
     - title : "Produção Bibliográficas"
       progress : "20"
       color : "#ffbcaa"
+  button:
+    enable : true
+    label : "saiba mais"
+    URL : "projetos"
 
 # experience
 experience:
@@ -84,24 +88,26 @@ service:
   item:
     - title : "Missão"
       icon : "ti-target"
-      content : "Desenvolver potenciais acadêmico e profissional dos integrantes do grupo e alunos de graduação por meio de atividades de **ensino, pesquisa e extensão**, proporcionando melhorias para a sociedade."
+      content : "Desenvolver potenciais acadêmico e profissional dos integrantes do grupo e alunos de graduação por meio de atividades 
+      de **ensino, pesquisa e extensão**, proporcionando melhorias para a sociedade."
       highlighted : false
 
     - title : "Visão"
       icon : "ti-eye"
-      content : "Ser reconhecido como um **grupo de referência** na tríade – ensino, pesquisa e extensão – pela comunidade de Engenharia de Produção no estado do Ceará até 2021."
+      content : "Ser reconhecido como um **grupo de referência** na tríade – ensino, pesquisa e extensão – pela comunidade de Engenharia
+      de Produção no estado do Ceará até 2021."
       highlighted : true
 
     - title : "Valores"
       icon : "ti-medall"
       content : "
-      Brilho no olho                    
-      Busca constante pelo conhecimento  
-      Ser protagonista  
-      A genialidade está em não desistir   
-      Integridade      
-      Faço parte dessa história 
-      Unidos por um propósito"
+     Brilho no olho 
+     Busca constante pelo conhecimento
+     Ser protagonista
+     A genialidade está em não desistir
+     Integridade
+     Faço parte dessa história
+     Unidos por um propósito"
       highlighted : false
 
 # portfolio

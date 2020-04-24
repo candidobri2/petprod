@@ -13,7 +13,7 @@
     
     <!-- IMAGEM DE FUNDO DA HOME -->
     <div class="layer-bg w-100">
-      <img class="img-fluid w-100" src="{{`images/illustrations/PETIANOS-2.jpg` | relURL}}" alt="bg-shape">
+      <img class="img-fluid w-100" src="{{`images/illustrations/PETIANOS-4.png` | relURL}}" alt="bg-shape">
     </div>
 
     <!-- IMAGENS INUTEIS DE FUNDO DA HOME
@@ -96,6 +96,13 @@
             </div>
             <div class="card-footer bg-white">
               <h4 class="card-title">{{.title }} ({{.progress}})</h4>
+              <!-- LUTANDO PRA COLOCAR ESSE BOTÃO -->
+              {{ if .button.enable }}
+              {{ with .button }}
+               <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+               {{ end }}
+               {{ end }}
+
             </div>
           </div>
         </div>

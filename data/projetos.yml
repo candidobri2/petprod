@@ -1,7 +1,7 @@
 # portfolio item
 item:
   - title : "Portfolio Item"
-    image : "images/portfolio/item-1.png"
+    image : "images/portfolio/item-8.png"
     project_url : "http://examplesite.com"
     categories: ["design","development"]
       

@@ -35,14 +35,17 @@ skill:
     - title : "Produção Bibliográficas"
       progress : "20"
       color : "#ffbcaa"
+  
   button:
     enable : true
     label : "saiba mais"
     URL : "projetos"
+  
+  
 
 # experience
 experience:
-  enable : true
+  enable : false
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
@@ -62,7 +65,7 @@ experience:
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Education"
   item:
     - title : "Marters in UX Design"
@@ -113,14 +116,19 @@ service:
 # portfolio
 projetos:
   enable : true
-  title : "Portfolio"
-  item_show : 5
+  title : "Alguns dos nossos projetos"
+  item_show : 3
+  button:
+    enable : true
+    label : "Veja todos"
+    URL : "projetos"
+ 
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
   enable : true
-  title : "Testimonials"
+  title : "Fala, petiano!"
   item:
     - name : "Jesica Gomez"
       image : "images/testimonial/client-1.png"
@@ -139,7 +147,7 @@ testimonial:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"
@@ -174,5 +182,5 @@ clients_logo_slider:
 # blog
 blog:
   enable : true
-  title : "Blogs"
+  title : "News do blog"
   # blog post comes from "content/blog" folder

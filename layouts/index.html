@@ -96,13 +96,6 @@
             </div>
             <div class="card-footer bg-white">
               <h4 class="card-title">{{.title }} ({{.progress}})</h4>
-              <!-- LUTANDO PRA COLOCAR ESSE BOTÃO -->
-              {{ if .button.enable }}
-              {{ with .button }}
-               <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
-               {{ end }}
-               {{ end }}
-
             </div>
           </div>
         </div>
@@ -225,6 +218,18 @@
         </div>
         {{ end }}
       </div>
+      <!-- Bendito código do botão--Tem que colocar fora da primeira div row, mas dentro da container--> 
+        <div class="row">
+          <div class="col-12 text-center">
+            {{ with .Site.Data.homepage.projetos }}
+            {{ if .button.enable }}
+            {{ with .button }}
+            <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+            {{ end }}
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
     </div>
   </section>
   <!-- /portfolio -->

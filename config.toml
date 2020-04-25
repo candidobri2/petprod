@@ -77,7 +77,7 @@ copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothe
 
 # contact
 [params.contact]
-enable = true
+enable = false
 form_action = "#" # contact form works with : https://formspree.io
 
 # preloader

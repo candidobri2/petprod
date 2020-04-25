@@ -111,10 +111,10 @@ projetos:
   item_show : 3
   button:
     enable : true
-    label : "Veja todos"
+    label : "Conheça mais"
     URL : "projetos"
  
-  # portfolio item comes from 'data/portfolio.yml' item.
+  # portfolio item comes from 'data/projetos.yml' item.
 
 # testimonial
 testimonial:

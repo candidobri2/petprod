@@ -1,17 +1,17 @@
 # portfolio item
 item:
   - title : "Portfolio Item"
-    image : "images/portfolio/item-8.png"
+    image : "images/portfolio/semep.png"
     project_url : "http://examplesite.com"
     categories: ["design","development"]
       
   - title : "Portfolio Item"
-    image : "images/portfolio/item-2.png"
+    image : "images/portfolio/visita.png"
     project_url : "#"
     categories: ["branding"]
       
   - title : "Portfolio Item"
-    image : "images/portfolio/item-3.png"
+    image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
     categories: ["illustration"]
       

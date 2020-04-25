@@ -83,11 +83,11 @@
   {{ with .Site.Data.homepage.skill }}
   
   <!-- IMPACTOS -->
-  <section class="section">
+  <section class="section bg-primary position-relative testimonial-bg-shapes"> <!--section-->
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-title">{{ .title | markdownify }}</h2>
+          <h2 class="text-white section-title">{{ .title | markdownify }}</h2> <!--text-white-->
         </div>
         {{ range .item }}
 

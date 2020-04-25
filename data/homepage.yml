@@ -15,33 +15,25 @@ sobre:
     label : "saiba mais"
     URL : "sobre"
 
-# skill
+# IMPACTOS
 skill:
   enable : true
   title : "Impactos do PET Produção"
   item:
-    - title : "Pessoas"
-      progress : "1200"
-      color : "#fdb157"
-      
+    - title : "Pessoas Atingidas"
+      icon : "ti-user"
+      content : "1232"
+      highlighted : false
+
+    - title : "Publicações"
+      icon : "ti-pencil-alt"
+      content : "5234"
+      highlighted : true
+
     - title : "Organizações"
-      progress : "10"
-      color : "#9473e6"
-      
-    - title : "Alunos"
-      progress : "5000"
-      color : "#bdecf6"
-      
-    - title : "Produção Bibliográficas"
-      progress : "20"
-      color : "#ffbcaa"
-  
-  button:
-    enable : true
-    label : "saiba mais"
-    URL : "projetos"
-  
-  
+      icon : "ti-flag-alt"
+      content : "4533"
+      highlighted : false
 
 # experience
 experience:
@@ -84,7 +76,7 @@ education:
       year : "1998"
       academy : "Cardiff School"
 
-# service
+# CULTURA
 service:
   enable : true
   title : "Conheça nossa cultura"
@@ -92,25 +84,24 @@ service:
     - title : "Missão"
       icon : "ti-target"
       content : "Desenvolver potenciais acadêmico e profissional dos integrantes do grupo e alunos de graduação por meio de atividades 
-      de **ensino, pesquisa e extensão**, proporcionando melhorias para a sociedade."
+      de <b>ensino, pesquisa e extensão</b>, proporcionando melhorias para a sociedade."
       highlighted : false
 
     - title : "Visão"
       icon : "ti-eye"
-      content : "Ser reconhecido como um **grupo de referência** na tríade – ensino, pesquisa e extensão – pela comunidade de Engenharia
-      de Produção no estado do Ceará até 2021."
+      content : "Ser reconhecido como um <b>grupo de referência</b> na tríade – ensino, pesquisa e extensão – pela comunidade
+      de Engenharia de Produção no estado do Ceará até 2021."
       highlighted : true
 
     - title : "Valores"
       icon : "ti-medall"
-      content : "
-     Brilho no olho 
-     Busca constante pelo conhecimento
-     Ser protagonista
-     A genialidade está em não desistir
-     Integridade
-     Faço parte dessa história
-     Unidos por um propósito"
+      content : "<li>Brilho no olho</li>
+        <li>Busca constante pelo conhecimento</li>
+        <li>Ser protagonista</li>
+        <li>A genialidade está em não desistir</li>
+        <li>Integridade</li>
+        <li>Faço parte dessa história</li>
+        <li>Unidos por um propósito</li>"
       highlighted : false
 
 # portfolio

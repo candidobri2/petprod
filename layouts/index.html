@@ -81,7 +81,8 @@
 
   {{ if .Site.Data.homepage.skill.enable }}
   {{ with .Site.Data.homepage.skill }}
-  <!-- skills -->
+  
+  <!-- IMPACTOS -->
   <section class="section">
     <div class="container">
       <div class="row">
@@ -89,21 +90,27 @@
           <h2 class="section-title">{{ .title | markdownify }}</h2>
         </div>
         {{ range .item }}
-        <div class="col-lg-3 col-sm-6 mb-4">
-          <div class="card shadow text-center">
-            <div class="position-relative rounded-top progress-wrapper" data-color="{{.color}}">
-              <div class="wave" data-progress="{{.progress}}"></div>
-            </div>
-            <div class="card-footer bg-white">
-              <h4 class="card-title">{{.title }} ({{.progress}})</h4>
+
+        <div class="col-md-4 mb-4">
+          <div class="card {{if .highlighted }} active-bg-primary {{end}} hover-shadow shadow">
+            <div class="card-body text-center px-4 py-5">
+              <i class="{{.icon }} icon mb-5 d-inline-block"></i>
+              <h4 class="mb-4">{{.title}}</h4>      
+            <font size="5"><div class="contar"><p>{{.content | markdownify}}</p></div></font>
             </div>
           </div>
         </div>
         {{ end }}
       </div>
     </div>
+    <!--COUNT UP-->
+    <script type="text/javascript">
+      $(".contar").counterUp({delay:15,time:1000});
+    </script>
+    <!--COUNT UP-->
   </section>
-  <!-- /skills -->
+  <!-- /IMPACTOS -->
+
   {{ end }}
   {{ end }}
 
@@ -166,7 +173,7 @@
 
   {{ if .Site.Data.homepage.service.enable }}
   {{ with .Site.Data.homepage.service }}
-  <!-- services -->
+  <!-- CULTURA -->
   <section class="section">
     <div class="container">
       <div class="row">
@@ -179,7 +186,7 @@
             <div class="card-body text-center px-4 py-5">
               <i class="{{.icon }} icon mb-5 d-inline-block"></i>
               <h4 class="mb-4">{{.title}}</h4>
-              <p>{{.content | markdownify}}</p>
+              <p>{{ .content | safeHTML }}</p>
             </div>
           </div>
         </div>
@@ -187,7 +194,7 @@
       </div>
     </div>
   </section>
-  <!-- /services -->
+  <!-- /CULTURA -->
   {{ end }}
   {{ end }}
 

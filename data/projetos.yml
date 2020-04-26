@@ -1,16 +1,16 @@
 # portfolio item
 item:
-  - title : "Portfolio Item"
+  - title : "Seminário de Engenharia de Produção"
     image : "images/portfolio/semep.png"
     project_url : "http://examplesite.com"
     categories: ["design","development"]
       
-  - title : "Portfolio Item"
+  - title : "Visitas Técnicas"
     image : "images/portfolio/visita.png"
-    project_url : "#"
+    project_url : "http://examplesite.com"
     categories: ["branding"]
       
-  - title : "Portfolio Item"
+  - title : "Instituto Parque Universitário"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
     categories: ["illustration"]

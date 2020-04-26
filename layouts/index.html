@@ -90,7 +90,6 @@
           <h2 class="text-white section-title">{{ .title | markdownify }}</h2> <!--text-white-->
         </div>
         {{ range .item }}
-
         <div class="col-md-4 mb-4">
           <div class="card {{if .highlighted }} active-bg-primary {{end}} hover-shadow shadow">
             <div class="card-body text-center px-4 py-5">
@@ -200,7 +199,8 @@
 
 
   {{ if .Site.Data.homepage.projetos.enable }}
-  <!-- portfolio -->
+
+  <!-- portfolio (PROJETOS) -->
   <section class="section">
     <div class="container">
       <div class="row">
@@ -247,7 +247,7 @@
   {{ with .Site.Data.homepage.testimonial }}
 
 
-  <!-- testimonial -->
+  <!-- FALA PETIANO -->
   <section class="section bg-primary position-relative testimonial-bg-shapes">
     <div class="container">
       <div class="row">

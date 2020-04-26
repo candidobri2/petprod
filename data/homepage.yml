@@ -104,10 +104,10 @@ service:
         <li>Unidos por um propósito</li>"
       highlighted : false
 
-# portfolio
+# portfolio (PROJETOS)
 projetos:
   enable : true
-  title : "Alguns dos nossos projetos"
+  title : "Nossos projetos"
   item_show : 3
   button:
     enable : true
@@ -121,10 +121,11 @@ testimonial:
   enable : true
   title : "Fala, petiano!"
   item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Cândido"
+      image : "images/testimonial/candido.jpeg"
+      designation : "Desenvolver Web Senior"
+      content : "Lorem ipsum dolor sit amet, consectetur adipsegaranteisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+       magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
     - name : "Shirley Scot"
       image : "images/testimonial/client-1.png"

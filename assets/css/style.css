@@ -339,8 +339,9 @@ a:hover {
   font-family: bwnistaint-xbd !important
 }
 
+/* SOMBRA DAS CAIXAS */
 .shadow {
-  box-shadow: 0 18px 39.1px 6.9px rgba(224, 241, 255, .34) !important
+  box-shadow: 0 18px 39.1px 6.9px rgba(224, 241, 255, .25) !important
 }
 
 .bg-dark {
@@ -602,9 +603,9 @@ textarea.form-control {
 .hover-shadow {
   transition: .2s ease
 }
-
+/* INTENSIDADE DA SOMBRA AO PASSAR MOUSE POR CIMA */
 .hover-shadow:hover {
-  box-shadow: 0 18px 40px 8px rgba(224, 241, 255, .54) !important
+  box-shadow: 0 18px 40px 8px rgba(203, 213, 220, .45) !important
 }
 
 .hover-wrapper {

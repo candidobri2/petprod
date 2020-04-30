@@ -180,6 +180,12 @@ ul {
   margin: 0
 }
 
+.narrow {
+  width: 100px;
+  height: 150px;
+  margin-top: 10px;
+  }
+
 img {
   vertical-align: middle;
   border: 0
@@ -230,6 +236,10 @@ a:hover {
   background-size: cover;
   background-position: 50%;
   background-repeat: no-repeat
+}
+
+.cover {
+  object-fit: cover;
 }
 
 .overlay {

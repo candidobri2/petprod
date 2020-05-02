@@ -32,25 +32,47 @@
 <!-- /contact -->
 {{ end }}
 
-<!-- footer -->
+<!-- footer<img src="images/icons/plan.png"  height="20" width="20"> -->
+
 <footer class="bg-dark footer-section">
+    <div class="col-md-3">
+  <h2 class="text-white">&nbsp;&nbsp;&nbsp;Contato</h2>
+    </div>
   <div class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary">{{.Site.Params.email}}</p>
+    <div class="container"> <!--modificar class css-->
+      <div class="row"> 
+        <div class="col-md-3">
+
+          <h4 class="text-light"><i class="ti-email"></i>&nbsp;&nbsp;Email</h4>
+          
+          <font size="3" color="white">{{.Site.Params.email | safeHTML }}</font>
         </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Phone</h5>
-          <p class="text-white paragraph-lg font-secondary">{{.Site.Params.phone}}</p>
+        <div class="col-md-8">
+          <h4 class="text-light"><i class="ti-location-pin"></i>&nbsp;Endereço</h4>
+          <font size="3" color="white">{{.Site.Params.address | safeHTML }}</font>
         </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Address</h5>
-          <p class="text-white paragraph-lg font-secondary">{{.Site.Params.address}}</p>
-        </div>
+        <!--MAPA-->
+      <br></br>
+      <br></br>
+      <br></br>
+        <div class="col-12" id='mapDIV'>i</div>
+<script>
+      var map = L.map(document.getElementById('mapDIV'), {
+      center: [-3.74439, -38.5769],
+      zoom: 16,
+      });
+      var basemap = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+          });
+          basemap.addTo(map);
+      var earthquakeMarker = L.marker([-3.74439, -38.5769], 
+    {title: 'PET Produção'});
+    earthquakeMarker.bindPopup("Bloco 714 (1º andar), Centro de Tecnologia, Campus do Pici, Universidade Federal do Ceará, Fortaleza, CE");
+    earthquakeMarker.addTo(map);  
+</script>
+        <!--MAPA-->
       </div>
     </div>
+
   </div>
   <div class="border-top text-center border-dark py-5">
     <p class="mb-0 text-light">{{ .Site.Params.copyright | markdownify }}</p>

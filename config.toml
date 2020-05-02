@@ -63,16 +63,18 @@ logo = "images/logo-pet.png"
 # theme color
 theme_color = "#08829b" 
 # contact info
-phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
+# phone = ""
+email = "petprodufc714@gmail.com"
+address = "Bloco 714 (1º andar), Centro de Tecnologia, Campus do Pici, </br>Universidade Federal do Ceará, Fortaleza - CE Brasil 60.440-900"
+
+
 # meta description
 author = "PET Produção"
 description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "&copy; Desenvolvido por PET Engenharia de Produção UFC - 2020 - Tema de [Hugo](https://gethugothemes.com)"
 
 
 # contact

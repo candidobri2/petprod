@@ -121,7 +121,7 @@ testimonial:
   enable : true
   title : "Fala, petiano!"
   item:
-    - name : "Cândido"
+    - name : "Candido"
       image : "images/testimonial/candido.jpeg"
       designation : "Jogador de Free Fire"
       content : "Lorem ipsum dolor sit amet, consectetur adipsegaranteisicing elit, sed do eiusmod tempor incididunt ut labore et dolore

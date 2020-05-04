@@ -2,8 +2,8 @@
 item:
   - title : "Seminário de Engenharia de Produção"
     image : "images/portfolio/semep.png"
-    project_url : "http://examplesite.com"
-    categories: ["ensino"]
+    project_url : "http://localhost:1313/projetos/semep"
+    categories: ["extensão"]
       
   - title : "Visitas Técnicas"
     image : "images/portfolio/visita.png"

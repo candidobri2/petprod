@@ -1,20 +1,53 @@
+#Triade
+triade:
+  enable : true
+  title : "Tríade"
+  item:
+  - title : "Ensino"
+    icon : "ti-pencil"
+    content : "O pilar do ensino está relacionado a atividades que possibilitam a capacitação do estudante e o preparam para atuar no âmbito profissional. Palestras, monitorias e minicursos constituem as iniciativas do PET."
+    highlighted : true
+
+  - title : "Pesquisa"
+    icon : "ti-search"
+    content : "A pesquisa acadêmica consiste em atividades fundamentais para o enriquecimento do conhecimento dos estudantes e professores e para o crescimento do curso e da comunidade científica."
+    highlighted : true
+  - title : "Extensão"
+    icon : "ti-world"
+    content : "A extensão acadêmica é uma ação desenvolvida junto à sociedade, que proporciona a aproximação e a integração da comunidade universitária com o público externo, e garante a transmissão de conhecimentos e experiências."
+    highlighted : true
 # work process
 work_process:
   enable : true
-  title : "Work Process"
+  title : "Entenda nossos valores"
   item:
-  - title : "Research and Plan"
-    icon : "images/icons/plan.png"
+  - title : "Brilho no olho"
+    icon : "images/icons/brilho.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Design and Develop"
-    icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "Busca constante pelo conhecimento"
+    icon : "images/icons/conhecimento.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt"
     
-  - title : "Deliver"
-    icon : "images/icons/print.png"
+  - title : "Ser protagonista"
+    icon : "images/icons/protagonista.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
+  - title : "A genialidade está em não desistir"
+    icon : "images/icons/genio.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt"
+
+  - title : "Integridade"
+    icon : "images/icons/integridade.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - title : "Faço parte dessa história"
+    icon : "images/icons/historia.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - title : "Unidos por um propósito"
+    icon : "images/icons/unidos.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # team
 team:

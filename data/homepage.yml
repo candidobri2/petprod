@@ -141,35 +141,27 @@ testimonial:
 clients_logo_slider:
   enable : false
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
+    - logo : "images/clients-logo/ufc2.png"
+      URL : "http://www.ufc.br/"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+    - logo : "images/clients-logo/ufc6.png"
+      URL : "http://www.ufc.br/"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+    - logo : "images/clients-logo/ct2.png"
+      URL : "https://ct.ufc.br/"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
+    - logo : "images/clients-logo/nepen.png"
+      URL : "https://www.nepen.org.br/"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
+    - logo : "images/clients-logo/ipu.png"
+      URL : "https://www.institutoparqueuniversitario.org/"
       
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
+    - logo : "images/clients-logo/opl1.png"
+      URL : "http://www.opl.ufc.br/"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
+
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
+
 
 # blog
 blog:

@@ -5,7 +5,7 @@ triade:
   item:
   - title : "Ensino"
     icon : "ti-pencil"
-    content : "O pilar do ensino está relacionado a atividades que possibilitam a capacitação do estudante e o preparam para atuar no âmbito profissional. Palestras, monitorias e minicursos constituem as iniciativas do PET."
+    content : "O pilar do ensino está relacionado a atividades que possibilitam a **capacitação do estudante** e o preparam para atuar no âmbito profissional. Palestras, monitorias e minicursos constituem as iniciativas do PET."
     highlighted : true
 
   - title : "Pesquisa"

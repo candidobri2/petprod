@@ -3,117 +3,98 @@ item:
   - title : "Seminário de Engenharia de Produção"
     image : "images/portfolio/semep.png"
     project_url : "http://localhost:1313/projetos/semep"
-    categories: ["extensão"]
+    categories: ["ensino"]
       
   - title : "Visitas Técnicas"
     image : "images/portfolio/visita.png"
-    project_url : "http://examplesite.com"
-    categories: ["pesquisa"]
+    project_url : "http://localhost:1313/projetos/visitas"
+    categories: ["extensão"]
       
   - title : "Instituto Parque Universitário"
     image : "images/portfolio/ipu.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://localhost:1313/projetos/ipu"
     categories: ["extensão"]
-      
-  - title : "Monitorias"
-    image : "images/portfolio/semep.png"
-    project_url : "http://examplesite.com"
-    categories: ["ensino"]
-      
+          
   - title : "Ciclo de Minicursos"
     image : "images/portfolio/visita.png"
     project_url : "http://examplesite.com"
-    categories: ["pesquisa"]
+    categories: ["ensino"]
       
   - title : "Elaboração de Trabalhos Científicos"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    categories: ["pesquisa"]
   
   - title : "NEPEN"
     image : "images/portfolio/semep.png"
-    project_url : "http://examplesite.com"
-    categories: ["ensino"]
-      
-  - title : "Apoio aos professores do DEPRO"
-    image : "images/portfolio/visita.png"
-    project_url : "http://examplesite.com"
-    categories: ["pesquisa"]
+    project_url : "http://localhost:1313/projetos/nepen"
+    categories: ["extensão"]
       
   - title : "GEEP - Grupo de Estudo em Engenharia de Produção"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    categories: ["pesquisa"]
   
   - title : "Pró-Exacta"
     image : "images/portfolio/ipu.png"
-    project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    project_url : "http://localhost:1313/projetos/proexacta"
+    categories: ["extensão","ensino"]
 
   - title : "PET Auxilia"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    categories: ["ensino"]
 
   - title : "CT Quer Você"
     image : "images/portfolio/ipu.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://localhost:1313/projetos/ctquervoce"
     categories: ["extensão"]
     
   - title : "FalaPET"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    categories: ["ensino"]
 
   - title : "Feira das Profissões"
     image : "images/portfolio/ipu.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://localhost:1313/projetos/feira"
     categories: ["extensão"]
 
   - title : "Jornal do PET Produção"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    categories: ["extensão","ensino"]
 
   - title : "Melhoria de Processos"
     image : "images/portfolio/ipu.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://localhost:1313/projetos/melhoriaprocessos"
     categories: ["extensão"]
 
   - title : "PET Talk"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    categories: ["ensino"]
 
   - title : "Semana da Engenharia de Produção - SEP"
     image : "images/portfolio/ipu.png"
-    project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    project_url : "http://localhost:1313/projetos/sep"
+    categories: ["extensão","ensino"]
 
   - title : "Pré-Engenharia"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    categories: ["extensão","ensino"]
 
   - title : "Semana de Treinamento e Integração - STI"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
-    categories: ["extensão"]
+    categories: ["ensino","pesquisa"]
 
   - title : "Programa de Tutoria"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
-    categories: ["extensão"]
-
-  - title : "Instituto Parque Universitário"
-    image : "images/portfolio/ipu.png"
-    project_url : "http://examplesite.com"
-    categories: ["extensão"]
-
-  - title : "Instituto Parque Universitário"
-    image : "images/portfolio/ipu.png"
-    project_url : "http://examplesite.com"
-    categories: ["extensão"]    
+    categories: ["ensino"]
+    
 # client logo slider
 clients_logo_slider:
   enable : true

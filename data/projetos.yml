@@ -12,47 +12,93 @@ item:
       
   - title : "Instituto Parque Universitário"
     image : "images/portfolio/ipu.png"
+<<<<<<< HEAD
     project_url : "http://localhost:1313/projetos/ipu"
     categories: ["extensão"]
           
   - title : "Ciclo de Minicursos"
     image : "images/portfolio/visita.png"
     project_url : "http://examplesite.com"
+=======
+    project_url : "http://localhost:1313/projetos/instituto"
+    categories: ["extensão"]
+      
+  - title : "Monitorias"
+    image : "images/portfolio/semep.png"
+    project_url : "http://localhost:1313/projetos/monitorias"
+    categories: ["ensino"]
+      
+  - title : "Ciclo de Minicursos"
+    image : "images/portfolio/visita.png"
+    project_url : "http://localhost:1313/projetos/minicursos"
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
     categories: ["ensino"]
       
   - title : "Elaboração de Trabalhos Científicos"
     image : "images/portfolio/ipu.png"
+<<<<<<< HEAD
     project_url : "http://examplesite.com"
+=======
+    project_url : "http://localhost:1313/projetos/cientifico"
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
     categories: ["pesquisa"]
   
   - title : "NEPEN"
     image : "images/portfolio/semep.png"
     project_url : "http://localhost:1313/projetos/nepen"
     categories: ["extensão"]
+<<<<<<< HEAD
+=======
       
-  - title : "GEEP - Grupo de Estudo em Engenharia de Produção"
+  - title : "Apoio aos professores do DEPRO"
+    image : "images/portfolio/visita.png"
+    project_url : "http://localhost:1313/projetos/apoioaosprof"
+    categories: ["ensino"]
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
+      
+  - title : "GEEP - Grupo de Estudo em Eng de Produção"
     image : "images/portfolio/ipu.png"
+<<<<<<< HEAD
     project_url : "http://examplesite.com"
+=======
+    project_url : "http://localhost:1313/projetos/geep"
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
     categories: ["pesquisa"]
   
   - title : "Pró-Exacta"
     image : "images/portfolio/ipu.png"
     project_url : "http://localhost:1313/projetos/proexacta"
+<<<<<<< HEAD
     categories: ["extensão","ensino"]
 
   - title : "PET Auxilia"
     image : "images/portfolio/ipu.png"
     project_url : "http://examplesite.com"
+=======
+    categories: ["ensino"]
+
+  - title : "PET Auxilia"
+    image : "images/portfolio/ipu.png"
+    project_url : "http://localhost:1313/projetos/petaux"
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
     categories: ["ensino"]
 
   - title : "CT Quer Você"
     image : "images/portfolio/ipu.png"
+<<<<<<< HEAD
     project_url : "http://localhost:1313/projetos/ctquervoce"
+=======
+    project_url : "http://localhost:1313/projetos/ctquervc"
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
     categories: ["extensão"]
     
   - title : "FalaPET"
     image : "images/portfolio/ipu.png"
+<<<<<<< HEAD
     project_url : "http://examplesite.com"
+=======
+    project_url : "http://localhost:1313/projetos/falapet"
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
     categories: ["ensino"]
 
   - title : "Feira das Profissões"
@@ -62,22 +108,41 @@ item:
 
   - title : "Jornal do PET Produção"
     image : "images/portfolio/ipu.png"
+<<<<<<< HEAD
     project_url : "http://examplesite.com"
     categories: ["extensão","ensino"]
 
   - title : "Melhoria de Processos"
     image : "images/portfolio/ipu.png"
     project_url : "http://localhost:1313/projetos/melhoriaprocessos"
+=======
+    project_url : "http://localhost:1313/projetos/jornal"
+    categories: ["ensino"]
+
+  - title : "Aulões"
+    image : "images/portfolio/ipu.png"
+    project_url : "http://localhost:1313/projetos/auloes"
+    categories: ["ensino"]
+
+  - title : "Melhoria de Processos"
+    image : "images/portfolio/ipu.png"
+    project_url : "http://localhost:1313/projetos/melhoria"
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
     categories: ["extensão"]
 
   - title : "PET Talk"
     image : "images/portfolio/ipu.png"
+<<<<<<< HEAD
     project_url : "http://examplesite.com"
+=======
+    project_url : "http://localhost:1313/projetos/pettalk"
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
     categories: ["ensino"]
 
   - title : "Semana da Engenharia de Produção - SEP"
     image : "images/portfolio/ipu.png"
     project_url : "http://localhost:1313/projetos/sep"
+<<<<<<< HEAD
     categories: ["extensão","ensino"]
 
   - title : "Pré-Engenharia"
@@ -95,6 +160,29 @@ item:
     project_url : "http://examplesite.com"
     categories: ["ensino"]
     
+=======
+    categories: ["extensão"]
+
+  - title : "Pré-Engenharia"
+    image : "images/portfolio/ipu.png"
+    project_url : "http://localhost:1313/projetos/preeng"
+    categories: ["ensino"]
+
+  - title : "Semana de Treinamento e Integração - STI"
+    image : "images/portfolio/ipu.png"
+    project_url : "http://localhost:1313/projetos/sti"
+    categories: ["ensino"]
+
+  - title : "Programa de Tutoria"
+    image : "images/portfolio/ipu.png"
+    project_url : "http://localhost:1313/projetos/tutoria"
+    categories: ["ensino"]   
+
+  - title : "PET Propaga"
+    image : "images/portfolio/ipu.png"
+    project_url : "http://localhost:1313/projetos/petpropaga"
+    categories: ["extensão"] 
+>>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58
 # client logo slider
 clients_logo_slider:
   enable : true

@@ -1,11 +1,4 @@
 ---
-<<<<<<< HEAD
-title: "Feira das Profissões"
-date: 2018-05-04T12:14:34+06:00
-image: "images/portfolio/semep.png"
-description: "This is a meta description"
----
-=======
 title: "Seminário de Engenharia de Produção - SemEP"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
@@ -24,4 +17,3 @@ Duas palestras integram a programação do seminário. Na edição de 2019, o Se
 
 
 
->>>>>>> 8f425d04cf5306f76fb10802b4036813aceacc58

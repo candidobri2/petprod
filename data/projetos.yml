@@ -101,7 +101,7 @@ item:
     categories: ["ensino"]   
 
   - title : "PET Propaga"
-    image : "images/portfolio/ipu.png"
+    image : "images/portfolio/item-8.png"
     project_url : "http://localhost:1313/projetos/petpropaga"
     categories: ["extensão"] 
 

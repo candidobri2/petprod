@@ -14,18 +14,7 @@ item:
     image : "images/portfolio/ipu.png"
     project_url : "http://localhost:1313/projetos/ipu"
     categories: ["extensão"]
-          
-  - title : "Ciclo de Minicursos"
-    image : "images/portfolio/visita.png"
-    project_url : "http://examplesite.com"
-    project_url : "http://localhost:1313/projetos/instituto"
-    categories: ["extensão"]
-      
-  - title : "Monitorias"
-    image : "images/portfolio/semep.png"
-    project_url : "http://localhost:1313/projetos/monitorias"
-    categories: ["ensino"]
-      
+            
   - title : "Ciclo de Minicursos"
     image : "images/portfolio/visita.png"
     project_url : "http://localhost:1313/projetos/minicursos"
@@ -80,16 +69,6 @@ item:
     image : "images/portfolio/ipu.png"
     project_url : "http://localhost:1313/projetos/jornal"
     categories: ["extensão","ensino"]
-
-  - title : "Melhoria de Processos"
-    image : "images/portfolio/ipu.png"
-    project_url : "http://localhost:1313/projetos/melhoriaprocessos"
-    categories: ["ensino"]
-
-  - title : "Aulões"
-    image : "images/portfolio/ipu.png"
-    project_url : "http://localhost:1313/projetos/auloes"
-    categories: ["ensino"]
 
   - title : "Melhoria de Processos"
     image : "images/portfolio/ipu.png"

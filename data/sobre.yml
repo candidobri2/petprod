@@ -49,23 +49,30 @@ work_process:
     icon : "images/icons/unidos.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
+#Movimento PET
+pet:
+  enable: true
+  title: "Mas o que é PET?"
 # team
 team:
-  enable: false
-  title : "My Team"
+  enable: true
+  title : "Faço parte dessa história"
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
+    - title : "2012"
+      image : "images/team/pet-2012.jpg"
+      designation : ""
       
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
+    - title : "2015"
+      image : "images/team/pet-2015.jpg"
+      designation : ""
       
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
-
+    - title : "2018"
+      image : "images/team/pet-2018.png"
+      designation : ""
+  button:
+    enable : true
+    label : "Petianos Egressos"
+    URL : "egressos"
 
 # client logo slider
 clients_logo_slider:

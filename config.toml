@@ -52,7 +52,7 @@ name = "O curso"
 weight = 6
 
 [[menu.main]]
-URL = "contato"
+URL = "http://localhost:1313/#contato-id"
 name = "Contato"
 weight = 7
 

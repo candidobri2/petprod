@@ -31,7 +31,9 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        {{ .Content }}
+        <div style="text-align: justify;">
+            {{.Content }}
+            </div>
       </div>
       <div class="col-md-4 text-center drag-lg-top">
         <div class="shadow-down mb-4">
@@ -95,7 +97,7 @@
 <!-- team -->
 {{ if .Site.Data.sobre.team.enable }}
 {{ with .Site.Data.sobre.team }}
-<section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
+<section class="section bg-cover" data-background="{{`images/backgrounds/bg_gm.png`|relURL}}">
   <div class="container">
     
     <div class="row">

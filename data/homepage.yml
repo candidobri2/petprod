@@ -143,14 +143,11 @@ clients_logo_slider:
   item:
     - logo : "images/clients-logo/ufc2.png"
       URL : "http://www.ufc.br/"
-      
-    - logo : "images/clients-logo/ufc6.png"
-      URL : "http://www.ufc.br/"
-      
+
     - logo : "images/clients-logo/ct2.png"
       URL : "https://ct.ufc.br/"
       
-    - logo : "images/clients-logo/nepen.png"
+    - logo : "images/clients-logo/nepen-gm.png"
       URL : "https://www.nepen.org.br/"
       
     - logo : "images/clients-logo/ipu.png"
@@ -158,6 +155,9 @@ clients_logo_slider:
       
     - logo : "images/clients-logo/opl1.png"
       URL : "http://www.opl.ufc.br/"
+
+    - logo : "images/clients-logo/ufc6.png"
+      URL : "http://www.ufc.br/"
       
 
       

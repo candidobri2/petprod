@@ -6,11 +6,9 @@
   <section class="section">
     <div class="container">
       <div class="row">
-        <div style="text-align: justify;">
         {{ range .Data.Pages }}
         {{ .Render "post" }}
         {{ end }}
-      </div>
     </div>
   </section>
   <!-- /blog -->

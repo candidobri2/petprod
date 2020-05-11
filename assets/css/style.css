@@ -883,3 +883,8 @@ blockquote {
   font-weight: 700
 }
 
+.div-em-colunas {
+    -webkit-column-count:2; /* Chrome, Safari, Opera */
+    -moz-column-count:2;    /* Firefox */
+    column-count:2;         /* padrão */
+}

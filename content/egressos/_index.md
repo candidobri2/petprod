@@ -4,21 +4,6 @@ description: "This is meta description."
 draft: false
 ---
 
-### Tutores
-
----
-
-* [Rogério Teixeira Mâsih](http://lattes.cnpq.br/0287587032901286)
-
-* [Heráclito Lopes Jaguaribe Pontes](http://lattes.cnpq.br/5012570076716704)
-
-* [Anselmo Pitombeira Neto](http://lattes.cnpq.br/5661587413564713)
-
-
-### Petianos Egressos
-
----
-
 * Adriana Farias Melo
 
 * Adriel Guimarães Barbosa

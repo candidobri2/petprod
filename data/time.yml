@@ -1,4 +1,4 @@
-# team
+# Petianos Atuais
 team:
   enable: true
   title : "My Team"
@@ -55,34 +55,34 @@ egressos:
   title : "My Team"
   team_member:
     - title : "2011"
-      image : "images/team/pet-2012.jpg"
+      image : "images/team/pet1.jpg"
       designation : ""
       
     - title : "2012"
-      image : "images/team/pet-2015.jpg"
+      image : "images/team/pet2.jpg"
       designation : ""
       
     - title : "2013"
-      image : "images/team/pet-2018.png"
+      image : "images/team/pet3.jpg"
       designation : ""
     
     
     - title : "2014"
-      image : "images/team/pet-2015.jpg"
+      image : "images/team/pet4.jpg"
       designation : ""
       
     - title : "2015"
-      image : "images/team/pet-2018.png"
+      image : "images/team/pet5.jpg"
       designation : ""
       
     - title : "2016"
-      image : "images/team/pet-2012.jpg"
+      image : "images/team/pet6.png"
       designation : ""
     
     - title : "2017"
-      image : "images/team/pet-2018.png"
+      image : "images/team/pet7.png"
       designation : ""
       
     - title : "2018"
-      image : "images/team/pet-2012.jpg"
+      image : "images/team/pet8.jpg"
       designation : ""

@@ -59,15 +59,15 @@ team:
   title : "Faço parte dessa história"
   team_member:
     - title : "2012"
-      image : "images/team/pet-2012.jpg"
+      image : "images/team/pet1.jpg"
       designation : ""
       
     - title : "2015"
-      image : "images/team/pet-2015.jpg"
+      image : "images/team/pet5.jpg"
       designation : ""
       
     - title : "2018"
-      image : "images/team/pet-2018.png"
+      image : "images/team/pet7.png"
       designation : ""
   button:
     enable : true

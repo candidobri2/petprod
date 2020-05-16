@@ -72,7 +72,7 @@ address = "Bloco 714 (1º andar), Centro de Tecnologia, Campus do Pici, </br>Uni
 author = "PET Produção"
 description = "This is meta description"
 # google analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "UA-166865610-1" # Your ID
 # copyright
 copyright = "&copy; Desenvolvido por PET Engenharia de Produção UFC - 2020 - Tema de [Hugo](https://gethugothemes.com)"
 

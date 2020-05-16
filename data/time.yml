@@ -3,52 +3,79 @@ team:
   enable: true
   title : "My Team"
   team_member:
-    - title : "Jack Schenziwe"
+    - title : "Prof. Anselmo Pitombeira"
       image : "images/team/member-1.png"
-      designation : "Project Manager"
+      designation : "Tutor"
       
-    - title : "Julias Carlie"
+    - title : "Adriano Neto"
       image : "images/team/member-2.png"
-      designation : "Web Developer"
+      designation : "Coordenador Geral"
       
-    - title : "John Doe"
+    - title : "Carlos Heitor"
       image : "images/team/member-3.png"
-      designation : "Designer"
+      designation : "Coordenador de Gestão Interna"
     
     
-    - title : "Jack Schenziwe"
+    - title : "Lorran Maciel"
       image : "images/team/member-1.png"
-      designation : "Project Manager"
+      designation : "Coordenador de Marketing"
       
-    - title : "Julias Carlie"
+    - title : "Lucas Farias"
       image : "images/team/member-2.png"
-      designation : "Web Developer"
+      designation : "Coordenador de Pesquisa e Ensino"
       
-    - title : "John Doe"
+    - title : "Mauro Vítor"
       image : "images/team/member-3.png"
-      designation : "Designer"
+      designation : "Coordenador de Extensão"
     
-    - title : "Jack Schenziwe"
+    - title : "Ana Luiza"
       image : "images/team/member-1.png"
-      designation : "Project Manager"
+      designation : "Assessora de Marketing"
       
-    - title : "Julias Carlie"
+    - title : "Camila Pará"
       image : "images/team/member-2.png"
-      designation : "Web Developer"
+      designation : "Assessora de Extensão"
       
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
-    
-    
-    - title : "Julias Carlie"
+    - title : "Candido Brito"
       image : "images/team/member-2.png"
-      designation : "Web Developer"
-      
-    - title : "John Doe"
+      designation : "Assessora de Pesquisa e Ensino"
+
+    - title : "Edgar Queiroz"
       image : "images/team/member-3.png"
-      designation : "Designer"
+      designation : "Assessor de Pesquisa e Ensino"
     
+    
+    - title : "Gabriel Mota"
+      image : "images/team/member-2.png"
+      designation : "Assessor de Pesquisa e Ensino"
+      
+    - title : "Jair Sampaio"
+      image : "images/team/member-3.png"
+      designation : "Assessor de Marketing"
+    
+    - title : "Lucas Fernandes"
+      image : "images/team/member-3.png"
+      designation : "Assessor de Gestão Interna"
+
+    - title : "Naiarlisson Fernandes"
+      image : "images/team/member-3.png"
+      designation : "Assessor de Marketing"
+
+    - title : "Pedro Lucas"
+      image : "images/team/member-3.png"
+      designation : "Assessor de Pesquisa e Ensino"
+
+    - title : "Rebeka Parente"
+      image : "images/team/member-2.png"
+      designation : "Assessora de Extensão"
+
+    - title : "Samuel Fernandes"
+      image : "images/team/member-2.png"
+      designation : "Assessor de Gestão Interna"
+
+    - title : "Vinícius Campos"
+      image : "images/team/member-2.png"
+      designation : "Assessor da Geral"
 #Equipes egressas
 egressos:
   enable: true

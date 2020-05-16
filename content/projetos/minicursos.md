@@ -5,11 +5,18 @@ image: "images/portfolio/semep.png"
 description: "Meta"
 --- 
 
-O _Seminário de Engenharia de Produção (SemEP)_ é um evento promovido pelo PET Produção no primeiro semestre de cada ano, nele alguns profissionais do cenário de Engenharia de Produção no estado do Ceará falam sobre assuntos como o ambiente do mercado, técnicas, novas tecnologias e novidades do setor. O evento acontece normalmente no Auditório Cândido Pamplona, do Centro de Tecnologia (Campus do Pici Prof. Prisco Bezerra).
+O Pet Produção deseja realmente desenvolver os potenciais acadêmico e profissional de todos,
+sejam estas pessoas discentes da comunidade acadêmica da UFC ou não, mas que, assim como nós,
+estão nessa constante busca pelo conhecimento.
 
-##### Programação
+Nesse sentido, um de nossos projetos consiste no desenvolvimento de minicursos, quando são
+transmitidos os conhecimentos de importantes ferramentas do ramo da engenharia, mas que
+normalmente não são oferecidas em sala de aula. Esses minicursos são desenvolvidos por
+professores conceituados da UFC, empresas que buscam fomentar a educação profissional ou pelos
+próprios Petianos.
 
-Duas palestras integram a programação do seminário. Na edição de 2019, o SemEP contou com a participação do gerente do Departamento de Melhoria de Processos e Inovações da empresa Água de Coco, André Lima. Além de Cristiano Oliveira, Diretor de Projetos e Operações do Grupo Portfolio formado em Engenharia de Produção Mecânica pela UFC, que falou sobre o poder do storytelling.
+Dentre os minicursos que já ocorreram, podemos citar o “Excel Intermediário”, “Logística Reversa”,
+“Design thinking” e “Transformando as organizações”.
 
 
 

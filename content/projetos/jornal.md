@@ -5,11 +5,19 @@ image: "images/portfolio/semep.png"
 description: "Meta"
 --- 
 
-O _Seminário de Engenharia de Produção (SemEP)_ é um evento promovido pelo PET Produção no primeiro semestre de cada ano, nele alguns profissionais do cenário de Engenharia de Produção no estado do Ceará falam sobre assuntos como o ambiente do mercado, técnicas, novas tecnologias e novidades do setor. O evento acontece normalmente no Auditório Cândido Pamplona, do Centro de Tecnologia (Campus do Pici Prof. Prisco Bezerra).
+Ao fim de todo semestre letivo, o PET Produção elabora um jornal que contém todas as atividades desenvolvidas ao longo do semestre pelos petianos.
+O jornal é enviado a todos os professores do departamento de Engenharia de Produção, bem como disponibilizado no site do PET Produção, e é um meio importante de documentar o impacto de seus projetos e de esclarecer o que é feito pelo PET.
 
-##### Programação
+##### Leia todas as edições do Jornal PET Produção
 
-Duas palestras integram a programação do seminário. Na edição de 2019, o SemEP contou com a participação do gerente do Departamento de Melhoria de Processos e Inovações da empresa Água de Coco, André Lima. Além de Cristiano Oliveira, Diretor de Projetos e Operações do Grupo Portfolio formado em Engenharia de Produção Mecânica pela UFC, que falou sobre o poder do storytelling.
+* [Jornal PET Produção - 2019.1](https://drive.google.com/file/d/1x6eNYcbYfcyTrhyDKU7JLUkVxaQnlRWg/view)
+* [Jornal PET Producao – 2018.2 - Tem que colocar no drive](http://www.petprod.ufc.br/wp-content/uploads/2018/12/Jornal-PET-Producao-2018.2.pdf)
+* [Jornal PET Producao – 2018.1]
+* [Jornal PET Producao – 2017.2]
+* [Jornal PET Producao – 2017.1]
+* [Jornal PET Producao – 2016]
+* [Jornal PET Producao – 2015]
+* [Jornal PET Producao – 2014]
 
 
 

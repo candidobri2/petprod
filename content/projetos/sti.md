@@ -5,14 +5,17 @@ image: "images/portfolio/semep.png"
 description: "Meta"
 --- 
 
-O _Seminário de Engenharia de Produção (SemEP)_ é um evento promovido pelo PET Produção no primeiro semestre de cada ano, nele alguns profissionais do cenário de Engenharia de Produção no estado do Ceará falam sobre assuntos como o ambiente do mercado, técnicas, novas tecnologias e novidades do setor. O evento acontece normalmente no Auditório Cândido Pamplona, do Centro de Tecnologia (Campus do Pici Prof. Prisco Bezerra).
+A Semana de Treinamento e Integração é um evento interno anual do PET Produção, o objetivo de tal semana é
+oferecer aos integrantes do PET capacitação em ferramentas, como o Latex e o Bizagi, que são de
+extrema significância na vida acadêmica e no currículo de um profissional, e conhecimento sobre o
+funcionamento do programa de PET, visando que os membros tenham as melhores condições e
+meios possíveis para realizarem projetos com excelência e relevância social.
 
-##### Programação
-
-Duas palestras integram a programação do seminário. Na edição de 2019, o SemEP contou com a participação do gerente do Departamento de Melhoria de Processos e Inovações da empresa Água de Coco, André Lima. Além de Cristiano Oliveira, Diretor de Projetos e Operações do Grupo Portfolio formado em Engenharia de Produção Mecânica pela UFC, que falou sobre o poder do storytelling.
-
-
-
+Além disso, a STI fornece uma experiência única para os petianos, visto que é a
+primeira interação dos novos integrantes com o grupo inteiro, proporcionando que todos possam se
+familiarizar com a missão do programa e com seus companheiros de PET.
+Alguns dos treinamentos que já foram feitos nesse evento são: Excel, LateX, Bizagi, Illustrator, escrita
+científica e Microsoft Visio.
 
 
 

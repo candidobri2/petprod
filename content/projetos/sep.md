@@ -5,11 +5,7 @@ image: "images/portfolio/semep.png"
 description: "This is a meta description"
 ---
 
-O _Seminário de Engenharia de Produção (SemEP)_ é um evento promovido pelo PET Produção no primeiro semestre de cada ano, nele alguns profissionais do cenário de Engenharia de Produção no estado do Ceará falam sobre assuntos como o ambiente do mercado, técnicas, novas tecnologias e novidades do setor. O evento acontece normalmente no Auditório Cândido Pamplona, do Centro de Tecnologia (Campus do Pici Prof. Prisco Bezerra).
-
-##### Programação
-
-Duas palestras integram a programação do seminário. Na edição de 2019, o SemEP contou com a participação do gerente do Departamento de Melhoria de Processos e Inovações da empresa Água de Coco, André Lima. Além de Cristiano Oliveira, Diretor de Projetos e Operações do Grupo Portfolio formado em Engenharia de Produção Mecânica pela UFC, que falou sobre o poder do storytelling.
+A _Semana de Engenharia de Produção - SEP_ é um evento anual que ocorre normalmente no segundo semestre letivo do ano e tem por objetivo promover um ambiente de integração acadêmica voltado para a abordagem de temas atuais sobre a Engenharia de Produção. Normalmente, os estudantes participam de minicursos, workshops, mesas redondas e visitas técnicas que visam proporcionar aos estudantes contato prático com os conceitos vistos em sala de aula, bem como ir além dos conteúdos já conhecidos, apresentado-os novas tendências, rumos do Mercado e áreas de atuação para o estudante de Engenharia, principalmente os graduandos em Engenharia de Produção.
 
 
 

@@ -6,10 +6,22 @@ description: "This is a meta description"
 ---
 
 
-O _Seminário de Engenharia de Produção (SemEP)_ é um evento promovido pelo PET Produção no primeiro semestre de cada ano, nele alguns profissionais do cenário de Engenharia de Produção no estado do Ceará falam sobre assuntos como o ambiente do mercado, técnicas, novas tecnologias e novidades do setor. O evento acontece normalmente no Auditório Cândido Pamplona, do Centro de Tecnologia (Campus do Pici Prof. Prisco Bezerra).
+Com certeza já passou pela cabeça do estudante os seguintes pensamentos, inclusive
+na sua: “Onde vou usar essa matéria na prática?” ou “Por que a gente tem que estudar
+isso?”. Diversas vezes, aprendemos um conteúdo, mas não sabemos onde e como
+aplicá-lo, já que a teoria, por si só, não consegue transmitir, apenas quando atrelada à prática.
+Diante disso, o PET Produção-UFC busca, por meio das visitas técnicas, suprir essas
+lacunas.
 
-##### Programação
+Assim, as _Visitas Técnicas_ são realizadas com o objetivo de complementar as aulas
+teóricas, possibilitando aos discentes um momento de conhecer a realidade de um
+Engenheiro de Produção em diversos ambientes de trabalho. A realização desta
+atividade é de suma importância, visto que nela é possível conhecer profissionais
+atuantes no mercado de trabalho, a rotina da profissão, além de permitir uma visão
+mais detalhada sobre o funcionamento e a dinâmica de diversas organizações em que,
+futuramente, poderão trabalhar.
 
-Duas palestras integram a programação do seminário. Na edição de 2019, o SemEP contou com a participação do gerente do Departamento de Melhoria de Processos e Inovações da empresa Água de Coco, André Lima. Além de Cristiano Oliveira, Diretor de Projetos e Operações do Grupo Portfolio formado em Engenharia de Produção Mecânica pela UFC, que falou sobre o poder do storytelling.
+##### Visitas Feitas
 
+(ADICIONAR FOTOS DE VISITAS TÉCINAS SE POSSÍVEL COMO UMA PEQUENA DESCRIÇÃO OU APENAS O LOCAL)
 

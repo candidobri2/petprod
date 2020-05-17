@@ -64,7 +64,9 @@
       <div class="row">
         <div class="col-lg-10 mx-auto text-center">
           {{ with .Site.Data.homepage.sobre }}
+          <div style="text-align: center;">
           <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
+        </div>
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
@@ -104,7 +106,7 @@
     </div>
     <!--COUNT UP-->
     <script type="text/javascript">
-      $(".contar").counterUp({delay:15,time:1000});
+      $(".contar").counterUp({delay:15,time:2500});
     </script>
     <!--COUNT UP-->
   </section>

@@ -23,24 +23,61 @@ testimonial:
       designation : "CEO, Funder"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
 
+    - name : "Engenharia de Operações e Processos de Produção"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Engenharia da Qualidade"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
+
+    - name : "Engenharia do Produto"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Engenharia Organizacional"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
+
+    - name : "Engenharia Econômica"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Engenharia da Sustentabilidade"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
+
+    - name : "Educação em Engenharia de Produção"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
 clients_logo_slider:
   enable : true
   title : "Conheça as entidades do curso"
   item :
-    - logo : "images/clients-logo/ct2.png"
-      URL : "http://www.ufc.br/"
+    - logo : "images/clients-logo/gee.png"
+      URL : "https://gee.ufc.br/"
 
-    - logo : "images/clients-logo/ct2.png"
-      URL : "https://ct.ufc.br/"
+    - logo : "images/clients-logo/depro.png"
+      URL : "https://producao.ufc.br/"
       
-    - logo : "images/clients-logo/nepen-gm.png"
-      URL : "https://www.nepen.org.br/"
+    - logo : "images/clients-logo/ot.png"
+      URL : "http://www.ot.ufc.br/"
       
-    - logo : "images/clients-logo/nepen-gm.png"
-      URL : "https://www.institutoparqueuniversitario.org/"
-      
-    - logo : "images/clients-logo/nepen-gm.png"
+    - logo : "images/clients-logo/opl.png"
       URL : "http://www.opl.ufc.br/"
+      
+    - logo : "images/clients-logo/caepro.png"
+      URL : "https://www.instagram.com/caepro.ufc/?hl=pt-br"
 
-    - logo : "images/clients-logo/ct2.png"
-      URL : "http://www.ufc.br/"
+    - logo : "images/clients-logo/proativa.png"
+      URL : "https://proativajr.com/"
+    
+    - logo : "images/clients-logo/cemp.png"
+      URL : "http://www.cemp.ufc.br/"

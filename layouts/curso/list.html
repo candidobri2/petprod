@@ -48,8 +48,8 @@
           {{ range .item }}
           <!-- slider-item -->
           <div class="text-center testimonial-content">
+            <h4 class="section-title text-white mb-5">{{.name }}</h4>
             <p class="text-white mb-4">{{.content | markdownify}}</p>
-            <h4 class="text-white">{{.name }}</h4>
           </div>
           {{ end }}
         </div>

@@ -5,58 +5,110 @@ testimonial:
     - name : "Pesquisa Operacional"
       image : "images/testimonial/candido.jpeg"
       designation : "Jogador de Free Fire"
-      content : " THE BEST AREA Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.   Lorem  Lorem Lorem ipsum dolor sit amet, consectetur adipsegaranteisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-       magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content :
+            ""
       
     - name : "Engenharia do Trabalho"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : ""
       
     - name : "Logística"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
+      content : ""
 
     - name : "Engenharia de Operações e Processos de Produção"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : ""
       
     - name : "Engenharia da Qualidade"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
+      content : ""
 
     - name : "Engenharia do Produto"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : "A engenharia do produto abrange, dentro da engenharia de produção, o conceito de desenvolvimento
+                de produtos. Tal desenvolvimento é caracterizado por ser a área que cuida de todos os estudos e
+                pesquisa sobre criação, adaptação, melhorias e aprimoramento dos produtos produzidos pela
+                empresa. Portanto, tem como objetivo fornecer um produto ou serviço singular, de qualidade e que
+                atenda as expectativas e necessidades do mercado consumidor.
+                As subáreas são: 
+                <br>
+                <br>
+                • Gestão do Desenvolvimento de Produto: Consiste em garantir que o produto consiga
+                realizar os objetivos esperados. Portanto, ela é responsável pelo processo, planejamento,
+                organização, decisão e ação na elaboração do projeto.
+                <br>
+                <br>
+                • Processo de Desenvolvimento do Produto: Essa área é focada na estratégia de mercado, ou
+                seja, em transformar a necessidade do cliente em um produto concreto. Além disso, tem
+                como objetivo elaborar o produto dentro do orçamento disponível para tal.
+                <br>
+                <br>
+                • Planejamento e Processo do Produto: Visa estabelecer, de forma organizada e elaborada, o
+                projeto do produto, ou seja, apontar qual seria o começo, o meio e fim do processo, com
+                atenção, sempre, ao orçamento do projeto."
       
     - name : "Engenharia Organizacional"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
+      content : "A Engenharia Organizacional é a área da Engenharia de Produção responsável pela fluidez dos 
+      processos de um negócio, responsável por elaborar e acompanhar o planejamento em níveis estratégicos, 
+      táticos e operacionais de modo a tornar as organizações sustentáveis do ponto de vista da gestão. 
+      Além disso, podemos citar sua preocupação com a avaliação do desempenho, gestão do conhecimento, do 
+      empreendedorismo, de projetos, dos sistemas de informações e dos arranjos produtivos. 
+      <br>
+      <br>
+      Podemos afirmar, por isso, que essa seja, talvez, a área da Engenharia de Produção que mais se aproxima de 
+      conteúdos vistos em um curso de administração de empresas. 
+A diferenciação consiste nas habilidades dos profissionais. O profissional de engenharia é mais orientado a processos e raciocínios-lógico matemáticos, 
+o que muitas vez o torna mais sistemático, o que não impede, porém, sua tendência para resolução de problemas organizacionais complexos. 
+<br>
+<br>
+Desse modo, podemos afirmar, que a Engenharia Organizacional é uma área voltada para Gestão, por isso é importante que o profissional que pretenda seguir nessa área esteja antenado às novidades no que tange ao tratamento com pessoas, e novas abordagens e oportunidades do mercado. É fundamental procurar ser muito bem informado para um bom desempenho na Engenharia Organizacional."
 
     - name : "Engenharia Econômica"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : "Segmento da Engenharia de produção que atua no setor econômico, ajudando fundações - sejam estas privadas ou públicas - a se tornarem competitivas em seu mercado atuante. Utiliza-se principalmente de ferramentas matemáticas para embasar a tomada de decisões, que vão desde a formulação dos melhores preços, avaliação dos custos de produção, até os investimentos e riscos envolvidos no negócio. Suas análises também levam em consideração os fatores micro e macroeconômicos, que causam as mudanças nos valores dos recursos durante o tempo.
+                <br>
+                <br>
+                Subdivide-se em Gestão Econômica, Gestão de Custos, Gestão de Investimentos e Gestão de Riscos."
       
     - name : "Engenharia da Sustentabilidade"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
+      content : ""
 
     - name : "Educação em Engenharia de Produção"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e Lorem"
+      content : "Sendo uma das dez áreas a qual se subdivide a Engenharia de Produção, 
+      a Educação em Engenharia de Produção é sem dúvidas o alicerce para qualquer graduando 
+      ou pós-graduando nesse ramo da engenharia. No Brasil, o ensino em Engenharia de Produção 
+      foi introduzido apenas em 1957 na Escola Politécnica da Universidade Federal de São Paulo, e, 
+      desde então, com a crescente demanda pela síntese de novos cursos e a formação de novos 
+      profissionais focados na Engenharia de Produção, tornou-se uma das mais promissoras áreas para 
+      poder se especializar.
+      <br>
+      <br>
+      O profissional que atua com especialização na Educação em Engenharia de Produção, é encarregado de 
+      ministrar cursos, treinamentos ou difundir técnicas desde universidades até redes de empresas e comunidades. 
+      Além disso, torna-se parte dos pilares universitários como o Ensino e a Pesquisa, tornando-se responsável 
+      pela formação de novas gerações de engenheiros com máxima capacitação, e também contribui ao mundo acadêmico, 
+      expandindo a Engenharia de Produção, por meio de estudos e pesquisas que agregam valor ao curso em geral.
+      <br>
+      <br>
+      Portanto, em síntese a Educação em Engenharia de Produção é uma área em que ocorre um processo contínuo e 
+      participativo, pois o profissional deve estar sempre em constante capacitação e procurando sempre contribuir 
+      com seus estudos de volta para o curso. As instituições de ensino devem ter grande responsabilidade ao atribuir 
+      novos educadores em Engenharia de Produção em seus meios acadêmicos, pois é por meio desses profissionais que os 
+      alunos de uma Universidade possam sempre se sentir encorajados, confiando em seu potencial para que, no futuro, 
+      se formarem, tornando-se referência no mundo como Engenheiros de Produção."
 clients_logo_slider:
   enable : true
   title : "Conheça as entidades do curso"

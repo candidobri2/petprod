@@ -288,7 +288,9 @@ a:hover {
 .text-light {
   color: #999 !important
 }
-
+.text-test {
+  color: #ffffff !important 
+}
 .mb-10 {
   margin-bottom: 10px !important
 }

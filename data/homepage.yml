@@ -123,7 +123,8 @@ testimonial:
       image : "images/testimonial/candido.jpeg"
       designation : "Jogador de Free Fire"
       content : "Lorem ipsum dolor sit amet, consectetur adipsegaranteisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-       magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+       magna aliqua. 
+       Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
     - name : "Shirley Scot"
       image : "images/testimonial/client-1.png"

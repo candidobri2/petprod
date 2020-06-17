@@ -3,6 +3,7 @@ title: "PET Auxilia"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "Meta"
+type: "post_projetos"
 --- 
 
 O PET Auxilia é um projeto desenvolvido pelo PET Produção, tendo como foco os alunos do curso de bacharelado de Engenharia de Produção Mecânica da UFC (Universidade Federal do Ceará), que visa, por meio de vídeo aulas, esclarecer e expandir acerca dos conteúdos abordados nas salas de aula do campus. O conteúdo é inteiramente produzido por bolsistas do PET e disponibilizado na plataforma do Youtube.

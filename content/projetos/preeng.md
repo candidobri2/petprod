@@ -3,6 +3,7 @@ title: "Pré-Engenharia"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "Meta"
+type: "post_projetos"
 --- 
 
 O Curso Pré-Engenharia, organizado anualmente pelos programas PET do Centro de Tecnologia

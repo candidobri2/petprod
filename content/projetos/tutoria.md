@@ -3,6 +3,7 @@ title: "Programa de Tutoria"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "Meta"
+type: "post_projetos"
 --- 
 
 Durante a cadeira de Introdução à Engenharia de Produção Mecânica, a qual faz parte da

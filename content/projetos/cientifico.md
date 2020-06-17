@@ -3,6 +3,7 @@ title: "Elaboração de Artigos Científicos"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "Meta"
+type: "post_projetos"
 --- 
 
 O programa PET (Programa de Educação Tutorial) existe em diversas universidades pelo país

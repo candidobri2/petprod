@@ -3,6 +3,7 @@ title: "Semana de Treinamento e Integração"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "Meta"
+type: "post_projetos"
 --- 
 
 A Semana de Treinamento e Integração é um evento interno anual do PET Produção, o objetivo de tal semana é

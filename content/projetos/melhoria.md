@@ -3,6 +3,7 @@ title: "Melhoria de Processos"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "Meta"
+type: "post_projetos"
 --- 
 
 Utilizando o software Bizagi Modeler, o projeto _Melhoria de Processos_, aplicado no Centro de

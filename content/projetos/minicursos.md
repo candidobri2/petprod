@@ -3,6 +3,7 @@ title: "Ciclo de Minicursos"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "Meta"
+type: "post_projetos"
 --- 
 
 O Pet Produção deseja realmente desenvolver os potenciais acadêmico e profissional de todos,

@@ -3,6 +3,7 @@ title: "CT Quer Você"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "This is a meta description"
+type: "post_projetos"
 ---
 
 Anualmente acontece o "O CT Quer Você" evento o qual o PET Produção sempre tem o prazer de participar, explicando mais sobre o curso de Engenharia de Produção para estudantes do ensino médio. O evento é realizado pelo Centro de Tecnologia da Universidade Federal do Ceará, contando também com a participação do CAEPRO e da Proativa Jr.

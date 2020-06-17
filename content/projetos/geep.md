@@ -3,6 +3,7 @@ title: "Grupo de Estudos Em Engenharia de Produção - GEEP"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "Meta"
+type: "post_projetos"
 --- 
 
 O GEEP (Grupo de Estudos em Engenharia de Produção) é um projeto, no qual a comissão de Pesquisa&Ensino é responsável, que tem como objetivo incentivar os integrantes em um estudo de áreas do curso de Engenharia de Produção. Dessa forma, são selecionados temas centrais para o semestre e os integrantes da comissão se dividem de acordo com os temas para fazerem apresentações para os petianos, sendo aberto as apresentações para alunos da graduação que desejem conhecer mais sobre aquele tema em destaque.

@@ -3,6 +3,7 @@ title: "Instituto Parque Universitário"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "This is a meta description"
+type: "post_projetos"
 ---
 
 Finalizado em 2019.1, o projeto que durou 2 anos na _Associação dos Moradores do

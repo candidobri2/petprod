@@ -3,6 +3,7 @@ title: "Jornal do PET Produção"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/semep.png"
 description: "Meta"
+type: "post_projetos"
 --- 
 
 Ao fim de todo semestre letivo, o PET Produção elabora um jornal que contém todas as atividades desenvolvidas ao longo do semestre pelos petianos.

@@ -5,28 +5,92 @@ testimonial:
     - name : "Pesquisa Operacional"
       image : "images/testimonial/candido.jpeg"
       designation : "Jogador de Free Fire"
-      content :
-            ""
+      content : "Uma das inúmeras áreas que um Engenheiro de Produção pode seguir é a Pesquisa Operacional, 
+      também conhecida como PO, que consiste em um método científico voltado para a solução de problemas reais, 
+      tendo como foco a tomada de decisões e a construção de sistemas mais produtivos. 
+      <br>
+      Essa área, portanto, é largamente usada por empresas para identificarem soluções para problemas complexos
+      com ajuda de fórmulas, cálculos e programas computacionais que otimizam resultados e aumentam o 
+      desempenho corporativo. Sendo assim, a PO demanda uma interação natural entre as áreas de 
+      administração, engenharias, computação e matemática.
+      <br>
+      <br>
+       Agora, vamos imaginar o seguinte cenário: 
+      você é dono de uma empresa de transportes e precisa definir a melhor rota para realizar as entregas, 
+      no menor tempo possível e otimizando os gastos com combustível. Agora é com você, o que fazer? 
+      <br>
+      Pois bem, a PO será sua grande aliada para te guiar nessa tomada de decisão. Nesse sentido, a 
+      Pesquisa Operacional vai considerar todas as opções disponíveis, prever todos os resultados possíveis 
+      e estimar os riscos. Incrível, não? E digo mais, o campo da PO fornece uma abordagem mais poderosa 
+      para a tomada de decisão do que ferramentas comuns, se tornando, assim, um método analítico 
+      impressionante na solução de problemas."
       
     - name : "Engenharia do Trabalho"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : ""
+      content : "É a área da engenharia de produção a qual se atribui a administração do processo produtivo 
+      e das pessoas nele envolvidas, de maneira segura e adaptada às necessidades e capacidades dos seus 
+      membros. 
+      <br>
+      <br>
+      Ela é responsável por proporcionar a melhor qualidade da produção e por garantir a segurança 
+      no trabalho à mão de obra, além de aperfeiçoar a relação homem-máquina com os demais componentes do 
+      processo de produção. 
+      <br>
+      <br>
+      Sendo dividida em 4 subáreas: 1. Projeto e Organização do Trabalho; 2. Ergonomia; 3. 
+      Sistemas de Gestão de Higiene e Segurança do Trabalho; 4. Gestão de Riscos de Acidentes do Trabalho"
       
     - name : "Logística"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : ""
+      content : "A Logística é a área da Engenharia de Produção que visa garantir à organização uma vantagem 
+      competitiva no seu ramo, objetivando lucratividade e satisfação do cliente, mediante melhorias em sua
+       produtividade. Apesar dessa área não ter sido interligada à estratégia da organização desde seu 
+       surgimento, com as necessidades que foram aparecendo, como exigências de mercado ou de clientes, 
+       a Logística tornou-se encarregada desde a etapa de compras até a distribuição para os clientes. 
+       <br>
+       <br>
+       Dessa forma, sendo uma forte estratégia competitiva para uma organização, a Logística atua em 
+       diversas partes do processo até que ele seja concluído, seja no transporte, no abastecimento, 
+       na armazenagem ou no controle do produto/serviço da organização, essa área estará responsável 
+       por garantir uma redução de custos e a satisfação dos clientes. Pode-se dividir a área nas 
+       seguintes subáreas: 
+      <br>
+       ● Gestão da Cadeia de Suprimentos; ● Gestão de Estoque; ● Logística Empresarial; 
+       ● Transportes modais e intermodais; ● Logística Humanitária;"
 
     - name : "Engenharia de Operações e Processos de Produção"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : ""
+      content : "A Engenharia de Operações e Processos da Produção é a área 
+      que mais está atrelada ao sistema de produção. Comumente aplicada ao 
+      chão de fábrica, essa engenharia é a base do sistema produtivo e cuida 
+      do <b>planejamento</b> (o que será produzido, como vai se dar essa produção, 
+      verificar a demanda, etc), <b>controle</b> (peridiocidade da compra da matéria prima, 
+      controle da quantidade de produto final produzida, etc), <b>manutenção</b> (Manutenção de maquinário) e 
+      <b>otimização</b> (Melhor Layout, redução de gargalos, etc) do sistema que cria e entrega o produto.
+      <br>
+      <br>
+      Suas sub-áreas são: - Gestão de Sistemas de Produção e Operações - 
+      Planejamento, Programação e Controle da Produção - Gestão da Manutenção - 
+      Projeto de Fábrica e de Instalações Industriais: organização industrial, layout/arranjo físico - 
+      Processos Produtivos Discretos e Contínuos: procedimentos, métodos e sequências - Engenharia de Métodos"
       
     - name : "Engenharia da Qualidade"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : ""
+      content : "A engenharia da qualidade é uma área da engenharia de produção que planeja, 
+      controla e melhora, continuamente, o sistema de qualidade de uma organização. Ela é responsável 
+      por garantir que as normas na produção de bens e/ou serviços sejam cumpridas, satisfazendo, assim, 
+      as expectativas dos clientes para os produtos da organização. Para realizar isso, ela utiliza várias 
+      ferramentas, por exemplo, coleta de dados, ao aplicar questionários com os clientes, e cálculos 
+      estatísticos.
+      <br>
+      <br>
+      <b>São sub-áreas da engenharia de qualidade</b> Gestão de Sistemas da Qualidade; 
+      Planejamento e Controle da Qualidade; Normalização, Auditoria e Certificação para a Qualidade; 
+      Organização Metrológica da Qualidade; Confiabilidade de Processos e Produtos"
 
     - name : "Engenharia do Produto"
       image : "images/testimonial/client-1.png"
@@ -82,7 +146,32 @@ Desse modo, podemos afirmar, que a Engenharia Organizacional é uma área voltad
     - name : "Engenharia da Sustentabilidade"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : ""
+      content : "A Engenharia de Produção, originada a partir do princípio da produção enxuta, a qual 
+      busca executar o processo da forma mais eficiente, eficaz e efetiva possível – a partir da eliminação
+      dos desperdícios e do consumo de uma quantidade ínfima dos recursos disponíveis – já é sustentável 
+      por nascença. 
+      <br>
+      Dentre as responsabilidades de um engenheiro de produção, estão inclusas: Tratamento
+      e destinação correta dos resíduos do sistema produtivo;  Planejamento e utilização consciente 
+      dos recursos naturais; assim como o Desenvolvimento de um sistema que seja capaz de atender ao
+      tripé da sustentabilidade: ser economicamente viável, ser socialmente justo e, principalmente, ser 
+      ecologicamente correto.
+      <br>
+      <br>
+      Na atualidade, a principal forma de atuação, quando nos referimos área da Sustentabilidade, para 
+      o Engenheiro de Produção, tem sido a de auxiliar as indústrias na transição para modelo de 
+      consumo/produção do século XXI – dado que a grande maioria dessas corporações ainda se encontra 
+      inserida no formato visto durante o século XX. 
+      <br>
+      <br>
+      Esse modelo, que pretere a busca de uma produção mais
+      barata, e passa a considerar os impactos ambientais, econômicos e sociais da fabricação como pontos 
+      pertinentes, atrai a nova onda de consumidores que passou a levar em conta a presença de uma 
+      política de sustentabilidade como pré-requisito para a compra de um produto. Nesse momento, a 
+      presença de um Engenheiro de Produção no ambiente industrial se torna algo imprescindível, em 
+      parte pelo seu conhecimento acerca de estratégias e ferramentas que possam aumentar a produtividade, 
+      reduzindo os desperdícios, mas principalmente pela sua conduta sustentável que leva em conta, também,
+      os aspectos social e ambiental da cadeia produtiva."
 
     - name : "Educação em Engenharia de Produção"
       image : "images/testimonial/client-1.png"
@@ -109,6 +198,7 @@ Desse modo, podemos afirmar, que a Engenharia Organizacional é uma área voltad
       novos educadores em Engenharia de Produção em seus meios acadêmicos, pois é por meio desses profissionais que os 
       alunos de uma Universidade possam sempre se sentir encorajados, confiando em seu potencial para que, no futuro, 
       se formarem, tornando-se referência no mundo como Engenheiros de Produção."
+
 clients_logo_slider:
   enable : true
   title : "Conheça as entidades do curso"

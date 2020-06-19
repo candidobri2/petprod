@@ -52,9 +52,16 @@ name = "O curso"
 weight = 6
 
 [[menu.main]]
+URL = "noticias"
+name = "Notícias"
+weight = 7
+
+[[menu.main]]
 URL = "http://localhost:1313/#contato-id"
 name = "Contato"
-weight = 7
+weight = 8
+
+
 
 # default parameters
 [params]

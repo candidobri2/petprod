@@ -6,7 +6,7 @@ description: "Meta"
 type: "post_projetos"
 --- 
 
-Ao fim de todo semestre letivo, o PET Produção elabora um jornal que contém todas as atividades desenvolvidas ao longo do semestre pelos petianos.
+**Ao fim de todo semestre letivo**, o PET Produção elabora um jornal que contém todas as atividades desenvolvidas ao longo do semestre pelos petianos.
 O jornal é enviado a todos os professores do departamento de Engenharia de Produção, bem como disponibilizado no site do PET Produção, e é um meio importante de documentar o impacto de seus projetos e de esclarecer o que é feito pelo PET.
 
 ##### Leia todas as edições do Jornal PET Produção

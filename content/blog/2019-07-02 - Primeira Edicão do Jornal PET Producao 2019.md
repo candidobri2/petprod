@@ -7,6 +7,8 @@ description: "This is meta description."
 draft: false
 ---
 
-Na primeira edição de 2019, o Jornal do PET Engenharia de Produção Mecânica traz para você todas as novidades sobre as atividades de destaque desempenhadas pelos petianos no primeiro semestre de 2019. O projeto de mapeamento de processos no HGF, Projeto Instituto Parque Universitário, os principais eventos e visitas técnicas realizados pelo PET este semestre, e muito mais. Boa leitura!!!
+Na primeira edição de 2019, o Jornal do PET Engenharia de Produção Mecânica traz para você todas as novidades sobre as atividades de destaque desempenhadas pelos petianos no primeiro semestre de 2019. O projeto de 
+mapeamento de processos no HGF, Projeto Instituto Parque Universitário, os principais eventos e visitas técnicas realizados pelo PET este semestre, e muito mais. Boa leitura!!!
 
 > [Jornal PET Produção 2019 – 1ª edição](https://drive.google.com/file/d/1x6eNYcbYfcyTrhyDKU7JLUkVxaQnlRWg/view?usp=sharing)
+

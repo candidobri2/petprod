@@ -1,7 +1,7 @@
 # portfolio item
 item:
   - title : "Seminário de Engenharia de Produção"
-    image : "images/portfolio/SEMEP.png"
+    image : "images/portfolio/semep.png"
     project_url : "http://localhost:1313/projetos/semep"
     categories: ["ensino"]
     autor: "José Candido"
@@ -12,7 +12,7 @@ item:
     categories: ["extensão"]
       
   - title : "Instituto Parque Universitário"
-    image : "images/portfolio/IPU.png"
+    image : "images/portfolio/ipu.png"
     project_url : "http://localhost:1313/projetos/ipu"
     categories: ["extensão"]
             

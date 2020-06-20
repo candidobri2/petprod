@@ -896,3 +896,11 @@ blockquote {
   height: 280px;
   object-fit: cover;
 }
+
+.img-ajustar2 {
+  max-width:45%;
+  max-height:45%;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+}

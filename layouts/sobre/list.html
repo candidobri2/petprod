@@ -40,8 +40,6 @@
           <img src="{{.Params.author_image | absURL }}" alt="author"
             class="img-fluid w-100 rounded-lg border-thick border-white">
         </div>
-        <img src="{{.Params.author_signature | absURL }}" alt="signature" class="img-fluid">
-        <h4>{{ .Site.Params.Author }}</h4>
       </div>
     </div>
   </div>
@@ -60,7 +58,7 @@
       {{ range .item }}
       <div class="{{if .highlighted }} active-bg-primary {{end}} col-lg-3 col-md-4 text-center pt-3 hover-shadow">
         <i class="{{.icon }} icon mb-5 d-inline-block"></i>
-        <h4 class="mb-4">{{ .title }}</h4>
+        <h4 class="mb-4 section-title">{{ .title | markdownify }}</h4>
         <p>{{ .content | markdownify }}</p>
       </div>
       {{ end }}
@@ -72,8 +70,8 @@
 <!-- ./Fim Triade -->
 
 <!-- Valores -->
-{{ if .Site.Data.sobre.work_process.enable }}
-{{ with .Site.Data.sobre.work_process }}
+{{ if .Site.Data.sobre.valores.enable }}
+{{ with .Site.Data.sobre.valores }}
 <section class="section">
   <div class="container">
     <div class="row justify-content-around">

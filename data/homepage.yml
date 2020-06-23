@@ -163,7 +163,7 @@ clients_logo_slider:
 
 
 # blog
-blog:
+noticias:
   enable : true
   title : "News do blog"
   # blog post comes from "content/blog" folder

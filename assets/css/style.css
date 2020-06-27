@@ -229,7 +229,13 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
+  color: #08829b;
   font-family: bwnistaint-xbd
+}
+
+.section-title-azul {
+  color: #08829b;
+
 }
 
 .bg-cover {

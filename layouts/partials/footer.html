@@ -36,20 +36,24 @@
 
 <footer class="bg-dark footer-section">
     <div class="col-md-3">
-  <h2 id="contato-id" class="text-white">&nbsp;&nbsp;&nbsp;Contato</h2>
+  <h2 id="contato-id" class="text-white col-12 text-center">Contato</h2>
     </div>
   <div class="section">
     <div class="container"> <!--modificar class css-->
       <div class="row"> 
         <div class="col-md-3">
 
-          <h4 class="text-light"><i class="ti-email"></i>&nbsp;&nbsp;Email</h4>
+          <h4 class="text-light ti-email">&nbsp;Email</h4>
           
           <font size="3" color="white">{{.Site.Params.email | safeHTML }}</font>
         </div>
         <div class="col-md-8">
-          <h4 class="text-light"><i class="ti-location-pin"></i>&nbsp;Endereço</h4>
+          <h4 class="text-light ti-location-pin">&nbsp;Endereço</h4>
           <font size="3" color="white">{{.Site.Params.address | safeHTML }}</font>
+        </div>
+        <div class="row">
+        <a href="https://www.instagram.com/petproducaoufc/"><h4 class="text-light ti-facebook"></h4></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.facebook.com/petprod.ufc"><h4 class="text-light ti-instagram"></h4></a>
         </div>
         <!--MAPA-->
       <br></br>

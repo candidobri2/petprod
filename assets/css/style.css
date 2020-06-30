@@ -357,6 +357,10 @@ a:hover {
   font-family: bwnistaint-xbd !important
 }
 
+.text-option {
+  font-family: helvetica
+}
+
 /* SOMBRA DAS CAIXAS */
 .shadow {
   box-shadow: 0 18px 39.1px 6.9px rgba(224, 241, 255, .25) !important
@@ -475,7 +479,7 @@ textarea.form-control {
 
 .hero-area {
   padding: 250px 0 200px;
-  position: relative
+  position: relative;
 }
 
 @media(max-width:767px) {

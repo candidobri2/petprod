@@ -93,13 +93,19 @@ service:
 
     - title : "Valores"
       icon : "ti-medall"
-      content : "<li>Brilho no olho</li>
-        <li>Busca constante pelo conhecimento</li>
-        <li>Ser protagonista</li>
-        <li>A genialidade está em não desistir</li>
-        <li>Integridade</li>
-        <li>Faço parte dessa história</li>
-        <li>Unidos por um propósito</li>"
+      content : "* Brilho no olho 
+
+        * Busca constante pelo conhecimento
+
+        * Ser protagonista 
+        
+        * A genialidade está em não desistir
+
+        * Integridade
+
+        * Faço parte dessa história
+
+        * Unidos por um propósito"
       highlighted : false
 
 # portfolio (PROJETOS)

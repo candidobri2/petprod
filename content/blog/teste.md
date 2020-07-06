@@ -1,18 +1,19 @@
 ---
-title: "Post Teste"
-authors: ["Gabriel Mota"]
+title: "A SEP Virtual foi um sucesso!"
+author: ["Gabriel Mota"]
 date: 2019-04-19T12:14:34+06:00
-image: "images/blog/ciclo1.png"
+image: "images/blog/sep-2015.jpg"
 description: "This is meta description."
-draft: false
 type: post_blog
+
 ---
 
  É claro que a adoção de políticas descentralizadoras causa impacto indireto na reavaliação das novas proposições. No mundo atual, o aumento do diálogo entre os diferentes setores produtivos assume importantes posições no estabelecimento dos modos de operação convencionais. Evidentemente, o comprometimento entre as equipes possibilita uma melhor visão global do levantamento das variáveis envolvidas. Por outro lado, o entendimento das metas propostas nos obriga à análise dos índices pretendidos. As experiências acumuladas demonstram que a determinação clara de objetivos facilita a criação do orçamento setorial.
 
 
-![Sem nada](/images/blog/ciclo1.png#center)
-{{< figure src="/images/blog/ciclo1.png#center" height="500px" width="500px" >}}
+
+{{< figure src="/images/blog/ciclo1.png#center" height="400px" width="400px" >}} 
+
 
 {{< instagram B-5HIbwFZIw >}}
 

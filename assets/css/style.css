@@ -922,10 +922,14 @@ blockquote {
   object-fit: cover;
 }  
 
-.img-center {
-    display: block;
-    margin: 0 auto;
+.img-blog {
+  max-width:90%;
+  max-height:60%;
+  width: auto;
+  height: auto;
+  object-fit: cover;
 }
+
 
 img[src$='#center']
 {

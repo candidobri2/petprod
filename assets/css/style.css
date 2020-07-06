@@ -914,3 +914,26 @@ blockquote {
   height: auto;
   object-fit: cover;
 }
+
+.img-ajustar-card {
+  max-width: 100%;
+  width: 260px;
+  height: 160px;
+  object-fit: cover;
+}  
+
+.img-center {
+    display: block;
+    margin: 0 auto;
+}
+
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
+
+}

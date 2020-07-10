@@ -40,21 +40,24 @@
     </div>
   <div class="section">
     <div class="container"> <!--modificar class css-->
-      <div class="row"> 
-        <div class="col-md-3">
+      <div class="row">
 
+        <div class="col-md-1" style="display:flex; text-align:center;">
+        <a class="col-md-0" href="https://www.facebook.com/petprod.ufc"><h4 class="text-light ti-facebook"></h4></a>
+        <a class="col-md-3" href="https://www.instagram.com/petproducaoufc/"><h4 class="text-light ti-instagram"></h4></a>
+       
+        </div>
+
+        <div class="col-md-3">
           <h4 class="text-light ti-email">&nbsp;Email</h4>
-          
           <font size="3" color="white">{{.Site.Params.email | safeHTML }}</font>
         </div>
+
         <div class="col-md-8">
           <h4 class="text-light ti-location-pin">&nbsp;Endereço</h4>
           <font size="3" color="white">{{.Site.Params.address | safeHTML }}</font>
         </div>
-        <div class="row">
-        <a href="https://www.instagram.com/petproducaoufc/"><h4 class="text-light ti-facebook"></h4></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.facebook.com/petprod.ufc"><h4 class="text-light ti-instagram"></h4></a>
-        </div>
+
         <!--MAPA-->
       <br></br>
       <br></br>

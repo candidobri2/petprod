@@ -146,22 +146,22 @@ testimonial:
 clients_logo_slider:
   enable : false
   item:
-    - logo : "images/clients-logo/ufc2.png"
+    - logo : "images/clients-logo/ufc2-color.png"
       URL : "http://www.ufc.br/"
 
     - logo : "images/clients-logo/ct2.png"
       URL : "https://ct.ufc.br/"
       
-    - logo : "images/clients-logo/nepen-gm.png"
+    - logo : "images/clients-logo/nepen-color.png"
       URL : "https://www.nepen.org.br/"
       
-    - logo : "images/clients-logo/ipu.png"
+    - logo : "images/clients-logo/ipu-color.png"
       URL : "https://www.institutoparqueuniversitario.org/"
       
-    - logo : "images/clients-logo/opl1.png"
+    - logo : "images/clients-logo/opl.png"
       URL : "http://www.opl.ufc.br/"
 
-    - logo : "images/clients-logo/ufc6.png"
+    - logo : "images/clients-logo/ufc6-color.png"
       URL : "http://www.ufc.br/"
       
 

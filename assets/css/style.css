@@ -180,6 +180,12 @@ ul {
   margin: 0
 }
 
+.li1{
+  display: inline;
+  padding: 2px 10px
+  
+}
+
 .narrow {
   width: 100px;
   height: 150px;
@@ -938,6 +944,12 @@ img[src$='#center']
                             whatever floats your boat, but keep the
                             horizontal 'auto' for this to work */
     /* whatever else styles you fancy here */
+}
+
+@media(max-width:380px) {
+  .fonte-banner {
+    font-size: 10px;
+  }
 }
 
 }

@@ -12,8 +12,7 @@ type: post_blog
 
 
 
-{{< figure src="/images/blog/ciclo1.png#center" height="400px" width="400px" >}} 
-
+{{< figure src="/images/blog/ciclo1.png#center" height="600px" width="600px" >}} 
 
 {{< instagram B-5HIbwFZIw >}}
 

@@ -6,28 +6,11 @@ team:
     - title : "Prof. Anselmo Pitombeira"
       image : "images/team/member-1.png"
       designation : "Tutor"
-      
+    
     - title : "Adriano Neto"
       image : "images/team/member-2.png"
       designation : "Coordenador Geral"
-      
-    - title : "Carlos Heitor"
-      image : "images/team/member-3.png"
-      designation : "Coordenador de Gestão Interna"
-    
-    
-    - title : "Lorran Maciel"
-      image : "images/team/member-1.png"
-      designation : "Coordenador de Marketing"
-      
-    - title : "Lucas Farias"
-      image : "images/team/member-2.png"
-      designation : "Coordenador de Pesquisa e Ensino"
-      
-    - title : "Mauro Vítor"
-      image : "images/team/member-3.png"
-      designation : "Coordenador de Extensão"
-    
+
     - title : "Ana Luiza"
       image : "images/team/member-1.png"
       designation : "Assessora de Marketing"
@@ -37,13 +20,16 @@ team:
       designation : "Assessora de Extensão"
       
     - title : "Candido Brito"
-      image : "images/team/negoney.jpg"
-      designation : "Assessora de Pesquisa e Ensino"
+      image : "images/team/candido2.jpg"
+      designation : "Assessor de Pesquisa e Ensino"
+
+    - title : "Carlos Heitor"
+      image : "images/team/member-3.png"
+      designation : "Coordenador de Gestão Interna"
 
     - title : "Edgar Queiroz"
       image : "images/team/member-3.png"
       designation : "Assessor de Pesquisa e Ensino"
-    
     
     - title : "Gabriel Mota"
       image : "images/team/member-2.png"
@@ -53,10 +39,22 @@ team:
       image : "images/team/member-3.png"
       designation : "Assessor de Marketing"
     
+    - title : "Lorran Maciel"
+      image : "images/team/member-1.png"
+      designation : "Coordenador de Marketing"
+
+    - title : "Lucas Farias"
+      image : "images/team/member-2.png"
+      designation : "Coordenador de Pesquisa e Ensino"  
+
     - title : "Lucas Fernandes"
       image : "images/team/member-3.png"
       designation : "Assessor de Gestão Interna"
 
+    - title : "Mauro Vítor"
+      image : "images/team/member-3.png"
+      designation : "Coordenador de Extensão"
+      
     - title : "Naiarlisson Fernandes"
       image : "images/team/member-3.png"
       designation : "Assessor de Marketing"

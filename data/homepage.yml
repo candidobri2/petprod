@@ -125,22 +125,58 @@ testimonial:
   enable : true
   title : "Fala, petiano!"
   item:
-    - name : "Candido"
-      image : "images/testimonial/candido.jpeg"
-      designation : "Jogador de Free Fire"
-      content : "Lorem ipsum dolor sit amet, consectetur adipsegaranteisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-       magna aliqua. 
-       Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Ana Luiza Pinheiro"
+      image : "images/testimonial/Ana Luiza Pinheiro.jpg"
+      designation : "Analista Financeira na Cervejaria Ambev"
+      content : "O PET sem dúvidas foi uma das experiências mais enriquecedoras que a Universidade pôde me oferecer.
+      Foi como Petiana que tive meu primeiro contato efetivo com as áreas da engenharia de produção, atuei em projetos
+      diversos, tive meu primeiro contato com o mercado de trabalho, desenvolvi habilidades pessoais e profissionais,
+      conheci amigos que levo pra vida e me descobri engenheira de produção por amor. Hoje posso afirmar que o PET
+      contribuiu para a minha inserção profissional na maior cervejaria do mundo."
       
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Rafael Henrique"
+      image : "images/testimonial/Rafael Henrique.jpg"
+      designation : "Estagiário de Supply Chain na Pague Menos"
+      content : "O PET me deixou robusto para o mercado de trabalho. Executar projetos, trabalhar em equipe, fazer
+      apresentações em público e demonstrar resultado são algumas das habilidades que me foram exigidas e eu já
+      tinha essa experiência. Isso sem contar o clima de amizade e a união da equipe. Sou extremamente grato ao
+      PET por ter me capacitado e me proporcionar conhecer pessoas maravilhosas. A organização e os membros têm
+      um lugar especial no meu coração, amo muito vocês.❤️"
       
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Joab da Silva Alves"
+      image : "images/testimonial/Joab Alves.jpg"
+      designation : "Estagiário de Excelência Operacional na Aeris Energy"
+      content : "A minha passagem no PET foi bastante marcante para minha vida pessoal e profissional. Através dele
+      eu consegui desenvolver diversas competências em mim, como trabalho em equipe, comunicação e liderança. Também
+      a partir dele que eu conheci melhor a Engenharia de Produção ao me envolver nos diversos projetos internos e
+      externos que o Programa oferece. Com certeza, a maior e melhor experiência que eu poderia ter vivido dentro
+      da Universidade. Sou muito grato por tudo que aprendi e compartilhei ao longo dessa trajetória como petiano."
+    
+    - name : "Paloma Lucena Costa"
+      image : "images/testimonial/Paloma Costa.png"
+      designation : "CEO da Beez - Agência de Marketing Digital"
+      content : "O PET foi muito edificante. Tive a honra de entrar no primeiro semestre e ao longo dos anos consegui
+      fazer vários artigos, o que me ajudou bastante na vida acadêmica. Logo após, por conta do PET, consegui um 
+      estágio em uma empresa em que aprendi bastante sobre a transformação digital e fez com que fosse a ponte para
+      empreender. A corrente do PET é tão forte que hoje posso contribuir ainda mais por ter alguns ex petianos de
+      outros cursos na minha equipe. Fico bastante feliz quando vejo alguma postagem do Pet e como ele só está
+      evoluindo ao longo do tempo. Parabéns, petianos!"
+
+    - name : "Marcelo Gomes Fossile"
+      image : "images/testimonial/Marcelo Fossile.png"
+      designation : "Assistente de Compras no Grupo Meia Sola"
+      content : "O PET foi a minha grande experiência na Universidade. A partir do programa eu consegui entender melhor
+      quais áreas da Engenharia de Produção mais me agradam. Desenvolvi muito minhas habilidades, desde projetos de
+      ensino e extensão como as Monitorias e o Pró-Exactas, como em projetos de Pesquisa e grupos de estudo.
+      Além disso, conheci pessoas incríveis e pude compartilhar bastante conhecimento."
+
+    - name : "Lillyan Alves"
+      image : "images/testimonial/Lillyan Oliveira.jpg"
+      designation : "Estagiaria de Logística na Gocase Brasil"
+      content : "Existe uma vida acadêmica antes do PET e após. O Programa muda completamente o rumo de sua carreira, e,
+      pode apostar, para melhor! Vivenciei coisas incríveis, conheci pessoas maravilhosas e tive oportunidades de
+      contribuir com pessoas/projetos externos à universidade. Tudo isso em um curto intervalo de tempo. É uma
+      experiência intensa e muito recompensadora!"
 
 # client logo slider
 clients_logo_slider:
@@ -149,10 +185,10 @@ clients_logo_slider:
     - logo : "images/clients-logo/ufc2-color.png"
       URL : "http://www.ufc.br/"
 
-    - logo : "images/clients-logo/ct2.png"
+    - logo : "images/clients-logo/ct-color.png"
       URL : "https://ct.ufc.br/"
       
-    - logo : "images/clients-logo/nepen-color.png"
+    - logo : "images/clients-logo/nepen-color2.png"
       URL : "https://www.nepen.org.br/"
       
     - logo : "images/clients-logo/ipu-color.png"

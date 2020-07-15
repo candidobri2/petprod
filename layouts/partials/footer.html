@@ -44,25 +44,20 @@
 
         <div class="col-md-1" style="display:flex; text-align:center;">
         <a class="col-md-0" href="https://www.facebook.com/petprod.ufc"><h4 class="text-light ti-facebook"></h4></a>
-        <a class="col-md-3" href="https://www.instagram.com/petproducaoufc/"><h4 class="text-light ti-instagram"></h4></a>
-       
+        <a class="col-md-5" href="https://www.instagram.com/petproducaoufc/"><h4 class="text-light ti-instagram"></h4></a>
         </div>
 
-        <div class="col-md-3">
-          <h4 class="text-light ti-email">&nbsp;Email</h4>
-          <font size="3" color="white">{{.Site.Params.email | safeHTML }}</font>
-        </div>
-
-        <div class="col-md-8">
-          <h4 class="text-light ti-location-pin">&nbsp;Endereço</h4>
-          <font size="3" color="white">{{.Site.Params.address | safeHTML }}</font>
-        </div>
-
+        <div class="col-md-0" style="display:flex; text-align:justify;">
+          <a class="col-md-3"> <h4 class="text-light ti-email">&nbsp;Email</h4>
+          <font size="3" color="white">{{.Site.Params.email | safeHTML }}</font></a>
+        
+          <a class="col-md-6"> <h4 class="text-light ti-location-pin">&nbsp;Endereço</h4>
+          <font size="3" color="white">{{.Site.Params.address | safeHTML }}</font></a>
+          </div>
         <!--MAPA-->
       <br></br>
       <br></br>
-      <br></br>
-        <div class="col-12" id='mapDIV'>i</div>
+        <div style="display:block;" id='mapDIV'></div>
 <script>
       var map = L.map(document.getElementById('mapDIV'), {
       center: [-3.74439, -38.5769],

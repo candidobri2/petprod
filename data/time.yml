@@ -8,7 +8,7 @@ team:
       designation : "Tutor"
     
     - title : "Adriano Neto"
-      image : "images/team/member-2.png"
+      image : "images/team/adriano.png"
       designation : "Coordenador Geral"
 
     - title : "Ana Luiza"
@@ -16,7 +16,7 @@ team:
       designation : "Assessora de Marketing"
       
     - title : "Camila Pará"
-      image : "images/team/member-2.png"
+      image : "images/team/camila.png"
       designation : "Assessora de Extensão"
       
     - title : "Candido Brito"
@@ -36,11 +36,11 @@ team:
       designation : "Assessor de Pesquisa e Ensino"
       
     - title : "Jair Sampaio"
-      image : "images/team/member-3.png"
+      image : "images/team/member-2.png"
       designation : "Assessor de Marketing"
     
     - title : "Lorran Maciel"
-      image : "images/team/member-1.png"
+      image : "images/team/lorran.png"
       designation : "Coordenador de Marketing"
 
     - title : "Lucas Farias"
@@ -52,11 +52,11 @@ team:
       designation : "Assessor de Gestão Interna"
 
     - title : "Mauro Vítor"
-      image : "images/team/member-3.png"
+      image : "images/team/maurao.png"
       designation : "Coordenador de Extensão"
       
     - title : "Naiarlisson Fernandes"
-      image : "images/team/member-3.png"
+      image : "images/team/member-2.png"
       designation : "Assessor de Marketing"
 
     - title : "Pedro Lucas"
@@ -64,11 +64,11 @@ team:
       designation : "Assessor de Pesquisa e Ensino"
 
     - title : "Rebeka Parente"
-      image : "images/team/member-2.png"
+      image : "images/team/rebeka.png"
       designation : "Assessora de Extensão"
 
     - title : "Samuel Fernandes"
-      image : "images/team/member-2.png"
+      image : "images/team/samuel.png"
       designation : "Assessor de Gestão Interna"
 
     - title : "Vinícius Campos"

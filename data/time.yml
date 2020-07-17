@@ -4,7 +4,7 @@ team:
   title : "My Team"
   team_member:
     - title : "Prof. Anselmo Pitombeira"
-      image : "images/team/member-1.png"
+      image : "images/team/anselmo.png"
       designation : "Tutor"
     
     - title : "Adriano Neto"
@@ -56,7 +56,7 @@ team:
       designation : "Coordenador de Extensão"
       
     - title : "Naiarlisson Fernandes"
-      image : "images/team/member-2.png"
+      image : "images/team/nai.png"
       designation : "Assessor de Marketing"
 
     - title : "Pedro Lucas"

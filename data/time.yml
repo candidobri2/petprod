@@ -12,7 +12,7 @@ team:
       designation : "Coordenador Geral"
 
     - title : "Ana Luiza"
-      image : "images/team/member-1.png"
+      image : "images/team/luiza.jpg"
       designation : "Assessora de Marketing"
       
     - title : "Camila Pará"
@@ -72,7 +72,7 @@ team:
       designation : "Assessor de Gestão Interna"
 
     - title : "Vinícius Campos"
-      image : "images/team/member-2.png"
+      image : "images/team/vinishow.png"
       designation : "Assessor da Geral"
 #Equipes egressas
 egressos:

@@ -104,9 +104,9 @@ URL = "https://www.instagram.com/petproducaoufc/"
 icon = "ti-instagram"
 
 [[params.social]]
-URL = "#"
+URL = "https://www.youtube.com/channel/UCCHhMa5d70H0yUTB6fQ8nPg"
 icon = "ti-youtube"
 
 [[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
+URL = "https://www.linkedin.com/company/petproducaoufc/"
+icon = "ti-linkedin"

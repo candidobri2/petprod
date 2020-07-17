@@ -97,11 +97,6 @@ item:
     project_url : "http://localhost:1313/projetos/tutoria"
     categories: ["ensino"]   
 
-  - title : "PET Propaga"
-    image : "images/portfolio/item-8.png"
-    project_url : "http://localhost:1313/projetos/petpropaga"
-    categories: ["extensão"] 
-
 # client logo slider
 clients_logo_slider:
   enable : true

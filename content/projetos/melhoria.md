@@ -1,7 +1,7 @@
 ---
 title: "Melhoria de Processos"
 date: 2018-05-04T12:14:34+06:00
-image: "images/portfolio/semep.png"
+image: "images/portfolio/melhoria-processos.png"
 description: "Meta"
 type: "post_projetos"
 --- 

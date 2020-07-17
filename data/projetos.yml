@@ -12,7 +12,7 @@ item:
     categories: ["extensão"]
       
   - title : "Instituto Parque Universitário"
-    image : "images/portfolio/ipu.png"
+    image : "images/portfolio/ipu.jpg"
     project_url : "http://localhost:1313/projetos/ipu"
     categories: ["extensão"]
             
@@ -68,7 +68,7 @@ item:
     categories: ["extensão","ensino"]
 
   - title : "Melhoria de Processos"
-    image : "images/portfolio/melhoria-processos.jpg"
+    image : "images/portfolio/melhoria-processos.png"
     project_url : "http://localhost:1313/projetos/melhoria"
     categories: ["extensão"]
 

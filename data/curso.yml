@@ -38,8 +38,11 @@ testimonial:
       processo de produção. 
       <br>
       <br>
-      Sendo dividida em 4 subáreas: 1. Projeto e Organização do Trabalho; 2. Ergonomia; 3. 
-      Sistemas de Gestão de Higiene e Segurança do Trabalho; 4. Gestão de Riscos de Acidentes do Trabalho"
+      Sendo dividida em 4 subáreas: 
+      <br>● Projeto e Organização do Trabalho; 
+      <br>● Ergonomia; 
+      <br>● Sistemas de Gestão de Higiene e Segurança do Trabalho; 
+      <br>● Gestão de Riscos de Acidentes do Trabalho."
       
     - name : "Logística"
       image : "images/testimonial/client-1.png"
@@ -54,11 +57,14 @@ testimonial:
        Dessa forma, sendo uma forte estratégia competitiva para uma organização, a Logística atua em 
        diversas partes do processo até que ele seja concluído, seja no transporte, no abastecimento, 
        na armazenagem ou no controle do produto/serviço da organização, essa área estará responsável 
-       por garantir uma redução de custos e a satisfação dos clientes. Pode-se dividir a área nas 
-       seguintes subáreas: 
+       por garantir uma redução de custos e a satisfação dos clientes.
       <br>
-       ● Gestão da Cadeia de Suprimentos; ● Gestão de Estoque; ● Logística Empresarial; 
-       ● Transportes modais e intermodais; ● Logística Humanitária;"
+      <br>Pode-se dividir a área nas seguintes subáreas:
+      <br>● Gestão da Cadeia de Suprimentos;
+      <br>● Gestão de Estoque;
+      <br>● Logística Empresarial;
+      <br>● Transportes modais e intermodais;
+      <br>● Logística Humanitária."
 
     - name : "Engenharia de Operações e Processos de Produção"
       image : "images/testimonial/client-1.png"
@@ -66,16 +72,19 @@ testimonial:
       content : "A Engenharia de Operações e Processos da Produção é a área 
       que mais está atrelada ao sistema de produção. Comumente aplicada ao 
       chão de fábrica, essa engenharia é a base do sistema produtivo e cuida 
-      do <b>planejamento</b> (o que será produzido, como vai se dar essa produção, 
-      verificar a demanda, etc), <b>controle</b> (peridiocidade da compra da matéria prima, 
-      controle da quantidade de produto final produzida, etc), <b>manutenção</b> (Manutenção de maquinário) e 
-      <b>otimização</b> (Melhor Layout, redução de gargalos, etc) do sistema que cria e entrega o produto.
+      do <b>planejamento</b> - o que será produzido, como vai se dar essa produção, 
+      verificar a demanda -, <b>controle</b> - periodicidade da compra da matéria-prima, 
+      controle da quantidade de produto final -, <b>manutenção</b> de maquinário e 
+      <b>otimização</b> de layout, além de redução de gargalos do sistema que cria e entrega o produto.
       <br>
       <br>
-      Suas sub-áreas são: - Gestão de Sistemas de Produção e Operações - 
-      Planejamento, Programação e Controle da Produção - Gestão da Manutenção - 
-      Projeto de Fábrica e de Instalações Industriais: organização industrial, layout/arranjo físico - 
-      Processos Produtivos Discretos e Contínuos: procedimentos, métodos e sequências - Engenharia de Métodos"
+      Suas sub-áreas são:
+      <br>● Gestão de Sistemas de Produção e Operações;
+      <br>● Planejamento, Programação e Controle da Produção;
+      <br>● Gestão da Manutenção;
+      <br>● Projeto de Fábrica e de Instalações Industriais: organização industrial, layout/arranjo físico;
+      <br>● Processos Produtivos Discretos e Contínuos: procedimentos, métodos e sequências;
+      <br>● Engenharia de Métodos."
       
     - name : "Engenharia da Qualidade"
       image : "images/testimonial/client-1.png"
@@ -88,9 +97,13 @@ testimonial:
       estatísticos.
       <br>
       <br>
-      <b>São sub-áreas da engenharia de qualidade</b> Gestão de Sistemas da Qualidade; 
-      Planejamento e Controle da Qualidade; Normalização, Auditoria e Certificação para a Qualidade; 
-      Organização Metrológica da Qualidade; Confiabilidade de Processos e Produtos"
+      Suas sub-áreas são
+      <br>● Gestão de Sistemas da Qualidade; 
+      <br>● Planejamento e Controle da Qualidade;
+      <br>● Normalização;
+      <br>● Auditoria e Certificação para a Qualidade; 
+      <br>● Organização Metrológica da Qualidade;
+      <br>● Confiabilidade de Processos e Produtos."
 
     - name : "Engenharia do Produto"
       image : "images/testimonial/client-1.png"
@@ -103,17 +116,17 @@ testimonial:
                 As subáreas são: 
                 <br>
                 <br>
-                • Gestão do Desenvolvimento de Produto: Consiste em garantir que o produto consiga
+                ● <b>Gestão do Desenvolvimento de Produto:</b> Consiste em garantir que o produto consiga
                 realizar os objetivos esperados. Portanto, ela é responsável pelo processo, planejamento,
                 organização, decisão e ação na elaboração do projeto.
                 <br>
                 <br>
-                • Processo de Desenvolvimento do Produto: Essa área é focada na estratégia de mercado, ou
+                ● <b>Processo de Desenvolvimento do Produto:</b> Essa área é focada na estratégia de mercado, ou
                 seja, em transformar a necessidade do cliente em um produto concreto. Além disso, tem
                 como objetivo elaborar o produto dentro do orçamento disponível para tal.
                 <br>
                 <br>
-                • Planejamento e Processo do Produto: Visa estabelecer, de forma organizada e elaborada, o
+                ● <b>Planejamento e Processo do Produto:</b> Visa estabelecer, de forma organizada e elaborada, o
                 projeto do produto, ou seja, apontar qual seria o começo, o meio e fim do processo, com
                 atenção, sempre, ao orçamento do projeto."
       
@@ -130,18 +143,27 @@ testimonial:
       Podemos afirmar, por isso, que essa seja, talvez, a área da Engenharia de Produção que mais se aproxima de 
       conteúdos vistos em um curso de administração de empresas. 
 A diferenciação consiste nas habilidades dos profissionais. O profissional de engenharia é mais orientado a processos e raciocínios-lógico matemáticos, 
-o que muitas vez o torna mais sistemático, o que não impede, porém, sua tendência para resolução de problemas organizacionais complexos. 
+o que o torna mais sistemático, não impedindo, porém, sua tendência para resolução de problemas organizacionais complexos. 
 <br>
 <br>
-Desse modo, podemos afirmar, que a Engenharia Organizacional é uma área voltada para Gestão, por isso é importante que o profissional que pretenda seguir nessa área esteja antenado às novidades no que tange ao tratamento com pessoas, e novas abordagens e oportunidades do mercado. É fundamental procurar ser muito bem informado para um bom desempenho na Engenharia Organizacional."
+Desse modo, podemos afirmar, que a Engenharia Organizacional é uma área voltada para Gestão, por isso é importante
+que o profissional que pretenda seguir nessa área esteja antenado às novidades no que tange ao tratamento com pessoas, e novas abordagens e oportunidades do mercado. 
+É fundamental procurar ser muito bem informado para um bom desempenho na Engenharia Organizacional."
 
     - name : "Engenharia Econômica"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Segmento da Engenharia de produção que atua no setor econômico, ajudando fundações - sejam estas privadas ou públicas - a se tornarem competitivas em seu mercado atuante. Utiliza-se principalmente de ferramentas matemáticas para embasar a tomada de decisões, que vão desde a formulação dos melhores preços, avaliação dos custos de produção, até os investimentos e riscos envolvidos no negócio. Suas análises também levam em consideração os fatores micro e macroeconômicos, que causam as mudanças nos valores dos recursos durante o tempo.
+      content : "Segmento da Engenharia de produção que atua no setor econômico, ajudando organizações - sejam estas privadas
+       ou públicas - a se tornarem competitivas em seu mercado atuante. Utiliza-se principalmente de ferramentas matemáticas
+       para embasar a tomada de decisões, que vão desde a formulação dos melhores preços, avaliação dos custos de produção,
+      até os investimentos e riscos envolvidos no negócio. Suas análises também consideram os fatores micro e
+      macroeconômicos, que causam as mudanças nos valores dos recursos durante o tempo.
                 <br>
-                <br>
-                Subdivide-se em Gestão Econômica, Gestão de Custos, Gestão de Investimentos e Gestão de Riscos."
+        <br>Subdivide-se em:
+        <br>● Gestão Econômica;
+        <br>● Gestão de Custos;
+        <br>● Gestão de Investimentos;
+        <br>● Gestão de Riscos."
       
     - name : "Engenharia da Sustentabilidade"
       image : "images/testimonial/client-1.png"
@@ -151,27 +173,23 @@ Desse modo, podemos afirmar, que a Engenharia Organizacional é uma área voltad
       dos desperdícios e do consumo de uma quantidade ínfima dos recursos disponíveis – já é sustentável 
       por nascença. 
       <br>
-      Dentre as responsabilidades de um engenheiro de produção, estão inclusas: Tratamento
-      e destinação correta dos resíduos do sistema produtivo;  Planejamento e utilização consciente 
-      dos recursos naturais; assim como o Desenvolvimento de um sistema que seja capaz de atender ao
+      <br>
+      Dentre as responsabilidades de um engenheiro de produção, estão inclusas: 
+      <br>Tratamento e destinação correta dos resíduos do sistema produtivo;
+      <br>Planejamento e utilização consciente dos recursos naturais;
+      <br>Desenvolvimento de um sistema que seja capaz de atender ao
       tripé da sustentabilidade: ser economicamente viável, ser socialmente justo e, principalmente, ser 
       ecologicamente correto.
       <br>
       <br>
-      Na atualidade, a principal forma de atuação, quando nos referimos área da Sustentabilidade, para 
-      o Engenheiro de Produção, tem sido a de auxiliar as indústrias na transição para modelo de 
-      consumo/produção do século XXI – dado que a grande maioria dessas corporações ainda se encontra 
-      inserida no formato visto durante o século XX. 
-      <br>
-      <br>
       Esse modelo, que pretere a busca de uma produção mais
       barata, e passa a considerar os impactos ambientais, econômicos e sociais da fabricação como pontos 
-      pertinentes, atrai a nova onda de consumidores que passou a levar em conta a presença de uma 
+      pertinentes, atrai a nova onda de consumidores que passou a considerar a presença de uma 
       política de sustentabilidade como pré-requisito para a compra de um produto. Nesse momento, a 
       presença de um Engenheiro de Produção no ambiente industrial se torna algo imprescindível, em 
       parte pelo seu conhecimento acerca de estratégias e ferramentas que possam aumentar a produtividade, 
-      reduzindo os desperdícios, mas principalmente pela sua conduta sustentável que leva em conta, também,
-      os aspectos social e ambiental da cadeia produtiva."
+      reduzindo os desperdícios, mas principalmente pela sua conduta sustentável e seus aspectos sociais e
+       ambientais da cadeia produtiva."
 
     - name : "Educação em Engenharia de Produção"
       image : "images/testimonial/client-1.png"

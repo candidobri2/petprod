@@ -1,7 +1,7 @@
 ---
 title: "Jornal do PET Produção"
 date: 2018-05-04T12:14:34+06:00
-image: "images/portfolio/semep.png"
+image: "images/portfolio/Jornal.png"
 description: "Meta"
 type: "post_projetos"
 --- 
@@ -11,17 +11,15 @@ O jornal é enviado a todos os professores do departamento de Engenharia de Prod
 
 ##### Leia todas as edições do Jornal PET Produção
 
-* [Jornal PET Produção - 2019.1](https://drive.google.com/file/d/1x6eNYcbYfcyTrhyDKU7JLUkVxaQnlRWg/view)
-* [Jornal PET Producao – 2018.2 - Tem que colocar no drive](http://www.petprod.ufc.br/wp-content/uploads/2018/12/Jornal-PET-Producao-2018.2.pdf)
-* [Jornal PET Producao – 2018.1]
-* [Jornal PET Producao – 2017.2]
-* [Jornal PET Producao – 2017.1]
-* [Jornal PET Producao – 2016]
-* [Jornal PET Producao – 2015]
-* [Jornal PET Producao – 2014]
-
-
-
+* [Jornal PET Produção - 2019.2](https://drive.google.com/file/d/1z0nWNlTGqwSk2c22kVNEJjCMgc8M-VnI/view?usp=sharing)
+* [Jornal PET Produção - 2019.1](https://drive.google.com/file/d/1CilLI8CRe9x_45CkKpwk9Yd3xbUk1Nt0/view?usp=sharing)
+* [Jornal PET Producao – 2018.2](https://drive.google.com/file/d/1_r8lhB9XGuIfSyBmjwuTYV1DzBJx47VD/view?usp=sharing)
+* [Jornal PET Producao – 2018.1](https://drive.google.com/file/d/1UrlmGpUl52OjmSEZjd2v04Jhn2P5FFCw/view?usp=sharing)
+* [Jornal PET Producao – 2017.2](https://drive.google.com/file/d/1_k0pIwACIbvUxQ1z58xAofMK_8sdUTev/view?usp=sharing)
+* [Jornal PET Producao – 2017.1](https://drive.google.com/file/d/1hc75Nd48YWZoobF2kGx2BSXF7rBO-hVE/view?usp=sharing)
+* [Jornal PET Producao – 2016](https://drive.google.com/file/d/1-HS-PVbQXFDsjImsZJ7tKkJnmYQo1pGR/view?usp=sharing)
+* [Jornal PET Producao – 2015](https://drive.google.com/file/d/1rqDPtnWOkubw20EaFSJl46hRWC1I6eyx/view?usp=sharing)
+* [Jornal PET Producao – 2014](https://drive.google.com/file/d/1MoqloVWxBFlm6gaDgIptzoF8_zdqLc31/view?usp=sharing)
 
 
 

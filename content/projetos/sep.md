@@ -1,7 +1,7 @@
 ---
 title: "Semana de Engenharia de Produção - SEP"
 date: 2018-05-04T12:14:34+06:00
-image: "images/portfolio/semep.png"
+image: "images/portfolio/SEP.png"
 description: "This is a meta description"
 type: "post_projetos"
 ---

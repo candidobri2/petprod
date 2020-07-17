@@ -92,7 +92,7 @@
   {{ end }}
   {{ end }}
 
-  <!-- Fim IMPACTO DO PET PRODUÇÃO -->
+  <!- Fim IMPACTO DO PET PRODUÇÃO -->
 
   
 <!-- Últimas notícias -->
@@ -132,7 +132,7 @@
             <div class="card-body text-center px-4 py-5">
               <i class="{{.icon }} icon mb-5 d-inline-block"></i>
               <h4 class="section-title mb-4">{{.title}}</h4>
-              <p>{{ .content | markdownify }}</p>
+              <p>{{ .content | safeHTML }}</p>
             </div>
           </div>
         </div>

@@ -6,9 +6,9 @@ author_image : "images/about/prod.png"
 author_signature : "images/about/signature.png"
 --- 
 
-O Curso de Engenharia de Produção Mecânica da UFC foi criado em 1998. Atualmente, é oferecido nos períodos vespertino e noturno, com 60 vagas/ano cada. A graduação é ofertada em 10 semestres e integra a unidade acadêmica Centro de Tecnologia, no Campus do Pici em **Fortaleza**, além disso há também no Campus de **Russas** o curso ofertado como Engenharia de Produção. Enquanto a **Engenharia de Produção** é conhecida como *Engenharia Plena*. A Engenharia de Produção **Mecânica** apresenta escopo mais abrangente com maior ênfase em conhecimentos técnicos em mecânica, as principais *ênfases* são em Mecânica, Civil, Elétrica e Agroindustrial.
+O Curso de Engenharia de Produção Mecânica da UFC foi criado em 1998. Atualmente, é oferecido nos períodos vespertino e noturno, com 60 vagas/ano cada. A graduação é ofertada em 10 semestres e integra a unidade acadêmica Centro de Tecnologia, no Campus do Pici em **Fortaleza**, além disso, há também no Campus de **Russas** o curso ofertado como Engenharia de Produção. Enquanto a **Engenharia de Produção** é conhecida como *Engenharia Plena*. A Engenharia de Produção **Mecânica** apresenta escopo mais abrangente com maior ênfase em conhecimentos técnicos em mecânica, as principais *ênfases* são em Mecânica, Civil, Elétrica e Agroindustrial.
 
-O Departamento de Engenharia de Produção Mecânica é parte do Centro de Tecnologia da UFC e está localizado no *Bloco 714 do Campus do Pici*, e apresenta um [Corpo Docente](https://producao.ufc.br/corpo-docente/ "Clique e conheça seus professores!") altamente qualificado, compostos por mestres e doutores com alta experiência profissional. A principal entidade do curso no Brasil é a [Associação Brasileira de Engenharia de Produção](http://www.abepro.org.br/ "Clique e conheça o site da ABEPRO!") (ABEPRO) trata-se de uma instituição representativa de docentes, discentes e profissionais de Engenharia de Produção. A associação atua há mais de 30 anos assumindo as funções: de esclarecer o papel do Engenheiro de Produção na sociedade e em seu mercado de atuação, ser interlocutor junto às instituições governamentais relacionadas à organização e avaliação de cursos (MEC e INEP) e de fomento (CAPES, CNPq, etc), assim como em organizações privadas, junto ao CREA, CONFEA, dentre outras organizações não governamentais que tratam a pesquisa, o ensino e a extensão da engenharia.
+O Departamento de Engenharia de Produção Mecânica (DEPRO) é parte do Centro de Tecnologia da UFC e está localizado no *Bloco 714 do Campus do Pici*, e apresenta um [Corpo Docente](https://producao.ufc.br/corpo-docente/ "Clique e conheça seus professores!") altamente qualificado, compostos por mestres e doutores com alta experiência profissional. Ao nível nacional, a principal entidade do curso é a [Associação Brasileira de Engenharia de Produção](http://www.abepro.org.br/ "Clique e conheça o site da ABEPRO!") (ABEPRO) trata-se de uma instituição representativa de docentes, discentes e profissionais de Engenharia de Produção. A associação atua há mais de 30 anos assumindo as funções: de esclarecer o papel do Engenheiro de Produção na sociedade e em seu mercado de atuação, ser interlocutor junto às instituições governamentais relacionadas à organização e avaliação de cursos (MEC e INEP) e de fomento (CAPES, CNPq, etc), assim como em organizações privadas, junto ao CREA, CONFEA, dentre outras organizações não governamentais que tratam a pesquisa, o ensino e a extensão da engenharia.
 Na página da ABEPRO você encontra as informações que verá a seguir resumidas, além de informações adicionais sobre a profissão e sua regulamentação.
 
 #### O que o Engenheiro de Produção Mecânica faz?
@@ -19,9 +19,10 @@ Na página da ABEPRO você encontra as informações que verá a seguir resumida
 
 #### O que estuda?
 
-Na imagem abaixo você encontra a **Grade Curricular** do curso. Caso queira ver mais detalhadamente as disciplinas ofertadas clique na imagem e você será redirecionado para o site da UFC.
+Na imagem abaixo você encontra a **Grade Curricular** do curso. Caso queira ver mais detalhadamente as disciplinas ofertadas [clique aqui](https://producao.ufc.br/graduacao/estrutura-curricular/ "Vai lá da uma olhadinha mas volta aqui ;)") e você será redirecionado para o site do DEPRO - Departamento de Engenharia de Produção Mecânica.
 
-[![Grade](grade-curricular.jpg)](https://producao.ufc.br/graduacao/estrutura-curricular/ "Vai lá da uma olhadinha mas volta aqui ;)")
+{{< figure src="/images/blog/grade-curricular.jpg#center" height="125%" width="125%" >}}
+
 
 #### Mercado de Trabalho
 

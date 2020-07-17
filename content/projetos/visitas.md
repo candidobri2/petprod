@@ -1,7 +1,7 @@
 ---
 title: "Visitas Técnicas"
 date: 2018-05-04T12:14:34+06:00
-image: "images/portfolio/semep.png"
+image: "images/portfolio/Visita-Tecnica.png"
 description: "This is a meta description"
 type: "post_projetos"
 ---
@@ -22,7 +22,6 @@ atuantes no mercado de trabalho, a rotina da profissão, além de permitir uma v
 mais detalhada sobre o funcionamento e a dinâmica de diversas organizações em que,
 futuramente, poderão trabalhar.
 
-##### Visitas Feitas
-
-(ADICIONAR FOTOS DE VISITAS TÉCINAS SE POSSÍVEL COMO UMA PEQUENA DESCRIÇÃO OU APENAS O LOCAL)
+#### Visita Feita a Fábrica Fortaleza - M Dias Branco
+{{< figure src="/images/portfolio/vt_mdias.png#center" height="100%" width="100%" >}}
 

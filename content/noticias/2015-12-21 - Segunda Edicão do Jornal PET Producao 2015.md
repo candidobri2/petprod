@@ -1,6 +1,6 @@
 ---
-title: "PETProd lança 2ª Edição do Jornal – Ano 2015"
-authors: ["Candido Brito"]
+title: "Segunda Edição do Jornal PET Produção 2015"
+authors: ["Gabriel Mota"]
 date: 2015-12-21T18:14:34+06:00
 image: "images/blog/jornal-2015.png"
 description: "This is meta description."
@@ -12,4 +12,4 @@ Convidamos todos para compartilhar do nosso trabalho!
  
 A equipe PETProd deseja um Feliz Natal e um Ano Novo repleto de realizações!
 
-LEIA A VERSÃO COMPLETA:  Jornal do PETProd 2015
+> [Jornal PET Produção 2015 – 2ª edição](https://drive.google.com/file/d/1rqDPtnWOkubw20EaFSJl46hRWC1I6eyx/view?usp=sharing)

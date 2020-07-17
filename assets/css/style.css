@@ -4,9 +4,10 @@ PROJECT: Project Name
 VERSION: Versoin Number
 -------------------------------------------------------------------*/
 @import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";
+@import "https://fonts.googleapis.com/css?family=Aguafina Script";
 
 @font-face {
-  font-family: bwnistaint-xbd;
+  font-family: bwnistaint-xbd; /*FONTE BASE - NÃO MEXER*/
   src: url(../fonts/BwNistaInt-xBd.woff) format("woff");
   font-style: normal;
   font-display: swap
@@ -14,7 +15,7 @@ VERSION: Versoin Number
 
 body {
   line-height: 1.2;
-  font-family: roboto, sans-serif;
+  font-family: roboto, sans-serif; /*FONTE DA PARTE RESTANTE*/
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #4c4c4c
@@ -25,7 +26,7 @@ p {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: roboto, sans-serif
+  font-family: roboto, sans-serif; /*FONTE DA MAIOR PARTE*/
 }
 
 h1,
@@ -35,7 +36,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
+  font-family: playfair display, serif; /*FONTE DOS TÍTULOS BÁSICOS COMO DAS GUIAS "NOSSA HISTÓRIA"*/
   line-height: 1.2
 }
 
@@ -87,7 +88,7 @@ h6,
 
 .btn {
   font-size: 22px;
-  font-family: playfair display, serif;
+  font-family: playfair display, serif; /*FONTE DOS BOTÕES*/
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -236,7 +237,7 @@ a:hover {
 .section-title {
   margin-bottom: 80px;
   color: #08829b;
-  font-family: bwnistaint-xbd
+  font-family: bwnistaint-xbd /*FONTE DO TÍTULOS TIPO OS HOME*/
 }
 
 .section-title-azul {
@@ -356,15 +357,15 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: playfair display, serif !important
+  font-family: playfair display, serif !important /*FONTE DO TEXTINHO INICIAL DA HOME*/
 }
 
 .font-tertiary {
-  font-family: bwnistaint-xbd !important
+  font-family: bwnistaint-xbd !important /*FONTE DO "OLA BEM VINDO" e TÍTULOS DE CADA GUIA*/
 }
 
 .text-option {
-  font-family: helvetica
+  font-family: "Arial" /*NÃO USADA*/
 }
 
 /* SOMBRA DAS CAIXAS */
@@ -470,7 +471,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
-  font-family: bwnistaint-xbd;
+  font-family: bwnistaint-xbd; /*FONTE DOS MENUS DEFINITIVO*/
   text-transform: uppercase;
   padding: 15px
 }
@@ -950,6 +951,10 @@ img[src$='#center']
   .fonte-banner {
     font-size: 10px;
   }
+}
+
+.fonte-nova {
+  font-family: "Aguafina Script";
 }
 
 }

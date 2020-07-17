@@ -15,5 +15,5 @@ Se prepara aí que tem novidade! O PET Produção irá ofertar 3 minicursos (com
 
 MAAAS PERAÍ! Acha que acabou? Nós também teremos o combo com os 3 minicursos apenas pelo valor de R$ 22,00! As inscrições podem ser feitas pelo link que está na nossa bio e o pagamento pode ser realizado até dia 17, das 10 às 16h, na sala do PET!
 
-![Testando 123](/images/portfolio/minicursos.png)
+{{< figure src="/images/portfolio/minicursos.png#center" height="100%" width="100%" >}}
 

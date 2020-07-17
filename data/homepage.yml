@@ -6,7 +6,7 @@ banner:
 sobre:
   enable : true
   content : "O Programa de Educação Tutorial Engenharia de Produção Mecânica (PET Produção – UFC), foi criado no ano de 2011, 
-  visando desenvolver atividades acadêmicas articulando ensino, pesquisa e extensão com a finalidade de proporcionar melhoria 
+  objetivando desenvolver atividades acadêmicas articulando ensino, pesquisa e extensão com a finalidade de proporcionar melhoria 
   da qualidade acadêmica do curso. O PET Produção conta com 18 bolsistas sob a tutoria do professor Anselmo Pitombeira."
   button:
     enable : true
@@ -93,19 +93,14 @@ service:
 
     - title : "Valores"
       icon : "ti-medall"
-      content : "* Brilho no olho 
-
-        * Busca constante pelo conhecimento
-
-        * Ser protagonista 
-        
-        * A genialidade está em não desistir
-
-        * Integridade
-
-        * Faço parte dessa história
-
-        * Unidos por um propósito"
+      content : "
+         ▪ Brilho no olho 
+</br>▪ Busca constante pelo conhecimento
+</br>▪ Ser protagonista 
+</br>▪ A genialidade está em não desistir
+</br>▪ Integridade
+</br>▪ Faço parte dessa história
+</br>▪ Unidos por um propósito"
       highlighted : false
 
 # portfolio (PROJETOS)
@@ -147,10 +142,10 @@ testimonial:
       image : "images/testimonial/Joab Alves.jpg"
       designation : "Estagiário de Excelência Operacional na Aeris Energy"
       content : "A minha passagem no PET foi bastante marcante para minha vida pessoal e profissional. Através dele
-      eu consegui desenvolver diversas competências em mim, como trabalho em equipe, comunicação e liderança. Também
-      a partir dele que eu conheci melhor a Engenharia de Produção ao me envolver nos diversos projetos internos e
-      externos que o Programa oferece. Com certeza, a maior e melhor experiência que eu poderia ter vivido dentro
-      da Universidade. Sou muito grato por tudo que aprendi e compartilhei ao longo dessa trajetória como petiano."
+      eu consegui desenvolver diversas competências, como trabalho em equipe, comunicação e liderança. Também
+      a partir do programa conheci melhor a Engenharia de Produção ao me envolver nos diversos projetos internos e
+      externos. Com certeza, a maior e melhor experiência que eu poderia ter vivido dentro
+      da Universidade. Sou muito grato por tudo que aprendi e compartilhei ao longo dessa trajetória como Petiano."
     
     - name : "Paloma Lucena Costa"
       image : "images/testimonial/Paloma Costa.png"

@@ -28,15 +28,15 @@ team:
       designation : "Coordenador de Gestão Interna"
 
     - title : "Edgar Queiroz"
-      image : "images/team/member-3.png"
+      image : "images/team/edgar.png"
       designation : "Assessor de Pesquisa e Ensino"
     
     - title : "Gabriel Mota"
-      image : "images/team/member-2.png"
+      image : "images/team/gabriel.png"
       designation : "Assessor de Pesquisa e Ensino"
       
     - title : "Jair Sampaio"
-      image : "images/team/member-2.png"
+      image : "images/team/jair.png"
       designation : "Assessor de Marketing"
     
     - title : "Lorran Maciel"
@@ -48,7 +48,7 @@ team:
       designation : "Coordenador de Pesquisa e Ensino"  
 
     - title : "Lucas Fernandes"
-      image : "images/team/member-3.png"
+      image : "images/team/lucasfer.png"
       designation : "Assessor de Gestão Interna"
 
     - title : "Mauro Vítor"

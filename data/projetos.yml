@@ -32,7 +32,7 @@ item:
     categories: ["extensão"]
       
       
-  - title : "GEEP - Grupo de Estudo em Eng de Produção"
+  - title : "GEEP - Grupo de Estudo em Engenharia de Produção"
     image : "images/portfolio/GEEP.jpeg"
     project_url : "http://localhost:1313/projetos/geep"
     categories: ["pesquisa"]

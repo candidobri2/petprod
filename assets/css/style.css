@@ -89,6 +89,7 @@ h6,
 .btn {
   font-size: 22px;
   font-family: playfair display, serif; /*FONTE DOS BOTÕES*/
+  white-space: normal !important;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -97,6 +98,7 @@ h6,
   position: relative;
   z-index: 1;
   transition: .2s ease
+
 }
 
 .btn:focus {

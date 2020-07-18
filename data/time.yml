@@ -79,15 +79,15 @@ egressos:
   enable: true
   title : "My Team"
   team_member:
-    - title : "2011"
+    - title : "2014"
       image : "images/team/pet1.jpg"
       designation : ""
       
-    - title : "2012"
+    - title : "2014"
       image : "images/team/pet2.jpg"
       designation : ""
       
-    - title : "2013"
+    - title : "2015"
       image : "images/team/pet3.jpg"
       designation : ""
     
@@ -96,7 +96,7 @@ egressos:
       image : "images/team/pet4.jpg"
       designation : ""
       
-    - title : "2015"
+    - title : "2016"
       image : "images/team/pet5.jpg"
       designation : ""
       

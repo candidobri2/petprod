@@ -239,7 +239,7 @@ a:hover {
 .section-title {
   margin-bottom: 80px;
   color: #08829b;
-  font-family: bwnistaint-xbd /*FONTE DO TÍTULOS TIPO OS HOME*/
+  font-family: bwnistaint-xbd /*FONTE DO TÍTULOS DA HOME*/
 }
 
 .section-title-azul {
@@ -955,8 +955,18 @@ img[src$='#center']
   }
 }
 
-.fonte-nova {
-  font-family: "Aguafina Script";
+.fonte-rodape {
+  margin-bottom: 20px;
+  color: #08829b;
+  font-family: bwnistaint-xbd
+}
+
+.esp-rodape {
+  margin-bottom: 10px;
+}
+
+.esp-rodape2 {
+  margin-bottom: 15px;
 }
 
 }

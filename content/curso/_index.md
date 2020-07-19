@@ -21,7 +21,7 @@ Na página da ABEPRO você encontra as informações que verá a seguir resumida
 
 Na imagem abaixo você encontra a **Grade Curricular** do curso. Caso queira ver mais detalhadamente as disciplinas ofertadas [clique aqui](https://producao.ufc.br/graduacao/estrutura-curricular/ "Vai lá da uma olhadinha mas volta aqui ;)") e você será redirecionado para o site do DEPRO - Departamento de Engenharia de Produção Mecânica.
 
-{{< figure src="/images/blog/grade-curricular.jpg#center" height="100%" width="100%" >}}
+{{< figure src="/images/about/grade-curricular.jpg#center" height="100%" width="100%" >}}
 
 
 #### Mercado de Trabalho

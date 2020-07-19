@@ -18,7 +18,7 @@
     <div class="row">
       <div class="col-md-8">
         <div style="text-align: justify;">
-            <h1 class="fonte-nova">{{ .Content | safeHTML }}</h1>
+            <h1>{{ .Content | safeHTML }}</h1>
             </div>
       </div>
       <div class="col-md-4 text-center drag-lg-top">
@@ -50,7 +50,7 @@
           <div class="text-center testimonial-content">
             <h4 class="section-title text-white mb-5">{{.name }}</h4>
             	<div style="text-align: justify;">
-            <p class="text-white mb-4">{{.content | safeHTML}}</p>
+            <p class="text-white col">{{.content | safeHTML}}</p>
             	</div>
           </div>
           {{ end }}

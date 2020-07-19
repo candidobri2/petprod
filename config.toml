@@ -57,7 +57,7 @@ name = "Notícias"
 weight = 7
 
 [[menu.main]]
-URL = "http://localhost:1313/#contato-id"
+URL = "http://localhost:1313/#contato"
 name = "Contato"
 weight = 8
 

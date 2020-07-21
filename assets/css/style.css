@@ -917,10 +917,16 @@ blockquote {
 .img-ajustar {
   max-width: 100%;
   width: 371px;
-  height: 280px;
+  height: 371px;
   object-fit: cover;
 }
 
+.img-ajustar1 {
+  max-width: 100%;
+  width: 371px;
+  height: 280px;
+  object-fit: cover;
+}
 .img-ajustar2 {
   max-width:45%;
   max-height:45%;

@@ -38,7 +38,7 @@
         <div class="col-lg-10 mx-auto text-center">
           {{ with .Site.Data.homepage.sobre }}
           <div style="text-align: center;">
-          <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
+          <h4 class="card-title">{{.content | markdownify}}</h4>
         </div>
           {{ if .button.enable }}
           {{ with .button }}

@@ -5,6 +5,10 @@ VERSION: Versoin Number
 -------------------------------------------------------------------*/
 @import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";
 @import "https://fonts.googleapis.com/css?family=Aguafina Script";
+@import "https://fonts.googleapis.com/css?family=Archivo Black";
+@import "https://fonts.googleapis.com/css?family=Volkhov";
+@import "https://fonts.googleapis.com/css?family=Unna";
+@import "https://fonts.googleapis.com/css?family=Palanquin Dark";
 
 @font-face {
   font-family: bwnistaint-xbd; /*FONTE BASE - NÃO MEXER*/
@@ -36,7 +40,8 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif; /*FONTE DOS TÍTULOS BÁSICOS COMO DAS GUIAS "NOSSA HISTÓRIA"*/
+  opacity: 85%;
+  font-family: "Palanquin Dark"; /*FONTE DOS TÍTULOS BÁSICOS COMO DAS GUIAS "NOSSA HISTÓRIA"*/
   line-height: 1.2
 }
 

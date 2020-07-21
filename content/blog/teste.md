@@ -5,6 +5,7 @@ date: 2019-04-19T12:14:34+06:00
 image: "images/blog/sep-2015.jpg"
 description: "This is meta description."
 type: post_blog
+draft: true
 
 ---
 

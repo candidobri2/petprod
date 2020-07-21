@@ -22,3 +22,5 @@ retorno inimaginável. Gostaria de saber mais sobre o 5S? O Guia do Programa
 assim a implementação deste Programa tão importante.
 
 Acesse o guia completo e entenda mais do assunto [clicando aqui!](https://drive.google.com/file/d/1SYWQ-8LNN3F5vB_PGoi0IpnpTsLd_Thp/view?usp=sharing)
+
+[{{< figure src="/images/blog/5s.png#center" target="_blank" height="25%" width="25%" >}}](https://drive.google.com/file/d/1SYWQ-8LNN3F5vB_PGoi0IpnpTsLd_Thp/view?usp=sharing) 

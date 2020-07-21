@@ -16,3 +16,5 @@ Muitas Micro e Pequenas Empresas enfrentam problemas como falta de capital, apes
 A gestão financeira é muito importante para a organização de qualquer empresa que deseja ser bem sucedida. Isso porque ela permite a boa administração dos recursos financeiros, trazendo fortalecimento para as operações, e assim, o crescimento da empresa.
 
 Acesse o guia completo e entenda mais do assunto [clicando aqui!](https://drive.google.com/file/d/1fssEFlUo2mlu5sDIMc1OYWxp7i9KOrzC/view?usp=sharing)
+
+[{{< figure src="/images/blog/gestao_financeira.png#center" height="25%" width="25%" >}}](https://drive.google.com/file/d/1fssEFlUo2mlu5sDIMc1OYWxp7i9KOrzC/view?usp=sharing) 

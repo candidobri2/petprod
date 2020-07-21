@@ -23,3 +23,5 @@ de Recursos Humanos na sua organização, além de dicas para organizar um bom p
 seletivo.
 
 Acesse o guia completo e entenda mais do assunto [clicando aqui!](https://drive.google.com/file/d/1r5MxSRUVx5mDeJ0I_-2k0R4-MhqXFbTw/view?usp=sharing)
+
+[{{< figure src="/images/blog/rh.png#center" height="25%" width="25%" >}}](https://drive.google.com/file/d/1r5MxSRUVx5mDeJ0I_-2k0R4-MhqXFbTw/view?usp=sharing) 

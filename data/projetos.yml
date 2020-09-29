@@ -3,17 +3,20 @@ item:
   - title : "Seminário de Engenharia de Produção"
     image : "images/portfolio/semep.png"
     project_url : "semep"
+    project_url2 : "projetos/semep"
     categories: ["ensino"]
     autor: "José Candido"
       
   - title : "Visitas Técnicas"
     image : "images/portfolio/Visita-Tecnica.png"
     project_url : "visitas"
+    project_url2 : "projetos/visitas"
     categories: ["extensão"]
       
   - title : "Instituto Parque Universitário"
     image : "images/portfolio/ipu.jpg"
     project_url : "ipu"
+    project_url2 : "projetos/ipu"
     categories: ["extensão"]
             
   - title : "Ciclo de Minicursos"

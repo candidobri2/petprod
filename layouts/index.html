@@ -179,10 +179,10 @@
         <div class="col-lg-4 col-12 mb-4 shuffle-item">
           <div class="position-relative rounded hover-wrapper">
             <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
-            {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
+            {{ if and ( ne .project_url "" ) ( ne .project_url "/projetos" ) }}
             <div class="hover-overlay">
               <div class="hover-content">
-                <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">{{.title}}</a>
+                <a class="btn btn-light btn-sm" href="{{ .project_url2 | safeURL }}">{{.title}}</a>
               </div>
             </div>
             {{ end }}

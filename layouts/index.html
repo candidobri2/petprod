@@ -29,6 +29,8 @@
   </section>
   <!-- Fim Banner Principal -->
 
+
+
   <!-- Textinho Resumo Sobre -->
   {{ if .Site.Data.homepage.sobre.enable }}
   
@@ -95,6 +97,22 @@
   <!- Fim IMPACTO DO PET PRODUÇÃO -->
 
   
+<!--PETCast-->
+{{ if .Site.Data.homepage.podcast.enable }}
+<section class="section bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .Site.Data.homepage.podcast.title | markdownify }}</h2>
+      </div>
+    </div>
+    {{ partial "client-slider2.html" . }}
+  </div>
+</section>
+{{ end }}
+<!--FIM PETCAST-->
+
+
 <!-- Últimas notícias -->
   {{ if .Site.Data.homepage.noticias.enable }}
   

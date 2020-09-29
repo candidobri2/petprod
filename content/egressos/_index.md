@@ -30,6 +30,7 @@ draft: false
 * Ícaro Azevedo Lima
 * Íkaro Gabriel Cavalcante Monteiro Pinheiro 
 * Ivna Praciano Fernandes Teixeira
+* Jair Sampaio de Aquino Neto
 * Joab da Silva Alves
 * João Paulo Lemos Benevides
 * João Victor de Sousa Luna

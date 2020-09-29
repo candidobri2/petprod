@@ -7,7 +7,7 @@ sobre:
   enable : true
   content : "O Programa de Educação Tutorial Engenharia de Produção Mecânica (PET Produção – UFC), foi criado no ano de 2011, 
   objetivando desenvolver atividades acadêmicas articulando ensino, pesquisa e extensão com a finalidade de proporcionar melhoria 
-  da qualidade acadêmica do curso. O PET Produção conta com 18 bolsistas sob a tutoria do professor Anselmo Pitombeira."
+  da qualidade acadêmica do curso. O PET Produção conta com 16 bolsistas sob a tutoria do professor Anselmo Pitombeira."
   button:
     enable : true
     label : "saiba mais"
@@ -192,10 +192,28 @@ clients_logo_slider:
     - logo : "images/clients-logo/opl.png"
       URL : "http://www.opl.ufc.br/"
 
+    - logo : "images/clients-logo/interpet.png"
+      URL : "https://www.instagram.com/interpetceara/"
 
-      
 
+podcast:
+  enable : true
+  title : "Escute o PETCast Produção"
+  item:
+    - logo : "images/petcast/capa.jpeg"
+      URL : "https://open.spotify.com/show/2GZf80sg6O26P597TxssvB?si=uyJ2gh9cRtibuBAKn_rlVQ"
+    
+    - logo : "images/petcast/economia.png"
+      URL : "https://open.spotify.com/episode/1Kaibruq0oOTczRfuYTfHy?si=i97yB-XWTpWFUqO4ULrTgw"
+
+    - logo : "images/petcast/mesa.jpeg"
+      URL : "https://open.spotify.com/episode/6L1PNR15lJ9v4tVIzqWfPN?si=hzRjonDzR567OTrUJln3Jw"
+
+    - logo : "images/petcast/pesquisa.jpeg"
+      URL : "https://open.spotify.com/episode/3YnVy7461ZJEugiFtASUH6?si=Wtq4tSfLSjSKS4bmCPuTIA"
       
+    - logo : "images/petcast/hanna.png"
+      URL : "https://open.spotify.com/episode/0a3ED4S2xhLeiDLfPM763t?si=_21AioAGTuqE6cqfvVcZBg"
 
 
 # blog

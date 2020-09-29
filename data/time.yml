@@ -34,11 +34,7 @@ team:
     - title : "Gabriel Mota"
       image : "images/team/gabriel.png"
       designation : "Assessor de Pesquisa e Ensino"
-      
-    - title : "Jair Sampaio"
-      image : "images/team/jair.png"
-      designation : "Assessor de Marketing"
-    
+          
     - title : "Lorran Maciel"
       image : "images/team/lorran.png"
       designation : "Coordenador de Marketing"

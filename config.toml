@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "http://www.petprod.ufc.br"
 languageCode = "pt-br"
 summaryLength = "10"
 theme = "kross-hugo"

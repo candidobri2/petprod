@@ -2,99 +2,99 @@
 item:
   - title : "Seminário de Engenharia de Produção"
     image : "images/portfolio/semep.png"
-    project_url : "http://localhost:1313/projetos/semep"
+    project_url : "semep"
     categories: ["ensino"]
     autor: "José Candido"
       
   - title : "Visitas Técnicas"
     image : "images/portfolio/Visita-Tecnica.png"
-    project_url : "http://localhost:1313/projetos/visitas"
+    project_url : "visitas"
     categories: ["extensão"]
       
   - title : "Instituto Parque Universitário"
     image : "images/portfolio/ipu.jpg"
-    project_url : "http://localhost:1313/projetos/ipu"
+    project_url : "ipu"
     categories: ["extensão"]
             
   - title : "Ciclo de Minicursos"
     image : "images/portfolio/minicursos.png"
-    project_url : "http://localhost:1313/projetos/minicursos"
+    project_url : "minicursos"
     categories: ["ensino"]
       
   - title : "Elaboração de Trabalhos Científicos"
     image : "images/portfolio/elaboracao-cientifico.png"
-    project_url : "http://localhost:1313/projetos/cientifico"
+    project_url : "cientifico"
     categories: ["pesquisa"]
   
   - title : "NEPEN"
     image : "images/portfolio/NEPEN.png"
-    project_url : "http://localhost:1313/projetos/nepen"
+    project_url : "nepen"
     categories: ["extensão"]
       
       
   - title : "GEEP - Grupo de Estudo em Engenharia de Produção"
     image : "images/portfolio/GEEP.jpeg"
-    project_url : "http://localhost:1313/projetos/geep"
+    project_url : "geep"
     categories: ["pesquisa"]
   
-  - title : "Pró-Exacta"
+  - title : "Pró-ExaCTa"
     image : "images/portfolio/proexacta.png"
-    project_url : "http://localhost:1313/projetos/proexacta"
+    project_url : "proexacta"
     categories: ["extensão","ensino"]
 
   - title : "PET Auxilia"
     image : "images/portfolio/PET-Auxilia.jpeg"
-    project_url : "http://localhost:1313/projetos/petaux"
+    project_url : "petaux"
     categories: ["ensino"]
 
   - title : "CT Quer Você"
     image : "images/portfolio/ct-quer-vc.jpeg"
-    project_url : "http://localhost:1313/projetos/ctquervoce"
+    project_url : "ctquervoce"
     categories: ["extensão"]
     
   - title : "FalaPET"
     image : "images/portfolio/FalaPET.jpeg"
-    project_url : "http://localhost:1313/projetos/falapet"
+    project_url : "falapet"
     categories: ["ensino"]
 
   - title : "Feira das Profissões"
     image : "images/portfolio/Feira.png"
-    project_url : "http://localhost:1313/projetos/feira"
+    project_url : "feira"
     categories: ["extensão"]
 
   - title : "Jornal do PET Produção"
     image : "images/portfolio/Jornal.png"
-    project_url : "http://localhost:1313/projetos/jornal"
+    project_url : "jornal"
     categories: ["extensão","ensino"]
 
   - title : "Melhoria de Processos"
     image : "images/portfolio/melhoria-processos.png"
-    project_url : "http://localhost:1313/projetos/melhoria"
+    project_url : "melhoria"
     categories: ["extensão"]
 
-  - title : "PET Talk"
+  - title : "PETalk"
     image : "images/portfolio/PETalk.png"
-    project_url : "http://localhost:1313/projetos/pettalk"
+    project_url : "pettalk"
     categories: ["ensino"]
 
   - title : "Semana da Engenharia de Produção - SEP"
     image : "images/portfolio/SEP.png"
-    project_url : "http://localhost:1313/projetos/sep"
+    project_url : "sep"
     categories: ["extensão","ensino"]
 
   - title : "Pré-Engenharia"
     image : "images/portfolio/PreEng.jpeg"
-    project_url : "http://localhost:1313/projetos/preeng"
+    project_url : "preeng"
     categories: ["ensino"]
 
   - title : "Semana de Treinamento e Integração - STI"
     image : "images/portfolio/STI.png"
-    project_url : "http://localhost:1313/projetos/sti"
+    project_url : "sti"
     categories: ["ensino"]
 
   - title : "Programa de Tutoria"
     image : "images/portfolio/Tutoria.png"
-    project_url : "http://localhost:1313/projetos/tutoria"
+    project_url : "tutoria"
     categories: ["ensino"]   
 
 # client logo slider

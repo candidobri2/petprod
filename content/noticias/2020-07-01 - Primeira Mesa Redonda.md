@@ -13,6 +13,5 @@ O evento contou com a partipação de investidores, doutores e mestres em econom
 
 🚀 Tudo isso para ajudar a sanar dúvidas e para debatermos um pouco sobre os Impactos da Pandemia no Cenário Econômico Brasileiro! Fique atento no nosso instagram para participar das próximas!!
 
- {{< instagram CCPVbvKFrSs >}}
  
 

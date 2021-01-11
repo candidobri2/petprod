@@ -16,5 +16,5 @@ Apenas dessa forma, seremos capazes de participar efetivamente da luta pela reiv
 
 O link de acesso aos dados da pesquisa se encontram na nossa bio do Instagram. (Disponibilizaremos um link na nossa BIO para auxiliá-los a encontrar informações sobre protestos e formas de ajudar o movimento e os seus protestantes.) #vidasnegrasimportam
 
-{{< instagram CBrL-6mlKea >}}
+
 

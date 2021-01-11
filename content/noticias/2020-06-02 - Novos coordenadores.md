@@ -11,5 +11,5 @@ O PET Produção tem o orgulho de apresentar, e de parabenizar, os coordenadores
 
 Congratulações pela escolha deste novo desafio de liderança, será um excelente semestre e de significativo aprendizado.
 
-{{< instagram B-GBZPfFbZz >}}
+
 

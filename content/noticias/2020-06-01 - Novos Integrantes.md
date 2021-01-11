@@ -13,5 +13,5 @@ Agradecemos a todos os inscritos no Processo Seletivo pela sua participação e 
 
 Vocês agora fazem parte da experiência mais completa da Universidade! Venham com tudo!
 
-{{< instagram B9-SLjYFBnE >}}
+
 

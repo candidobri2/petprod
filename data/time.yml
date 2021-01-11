@@ -6,70 +6,65 @@ team:
     - title : "Prof. Anselmo Pitombeira"
       image : "images/team/anselmo.png"
       designation : "Tutor"
+
+    - title : "Vinícius Campos"
+      image : "images/team/vinishow.png"
+      designation : "Coordenador Geral"
+
+    - title : "Rebeka Parente"
+      image : "images/team/rebeka.png"
+      designation : "Assessora da Coordenação Geral"
+
+
+    - title : "Pedro Lucas"
+      image : "images/team/pl.png"
+      designation : "Coordenador de Gestão Interna"
     
     - title : "Adriano Neto"
       image : "images/team/adriano.png"
-      designation : "Coordenador Geral"
+      designation : "Assessor de Gestão Interna"
 
+    - title : "Mauro Vítor"
+      image : "images/team/maurao.png"
+      designation : "Assessor de Gestão Interna"
+   
     - title : "Ana Luiza"
       image : "images/team/luiza.jpg"
-      designation : "Assessora de Marketing"
+      designation : "Coordenadora de Marketing"
+    
+    - title : "Edgar Queiroz"
+      image : "images/team/edgar.png"
+      designation : "Assessor de Marketing"
       
+    - title : "Lucas Farias"
+      image : "images/team/lucasfarias.png"
+      designation : "Assessor de Marketing"  
+
     - title : "Camila Pará"
       image : "images/team/camila.png"
-      designation : "Assessora de Extensão"
+      designation : "Coordenadora de Pesquisa e Ensino"
       
     - title : "Candido Brito"
       image : "images/team/candido2.jpg"
       designation : "Assessor de Pesquisa e Ensino"
 
-    - title : "Carlos Heitor"
-      image : "images/team/ch.png"
-      designation : "Coordenador de Gestão Interna"
-
-    - title : "Edgar Queiroz"
-      image : "images/team/edgar.png"
+    - title : "Naiarlisson Fernandes"
+      image : "images/team/nai.png"
       designation : "Assessor de Pesquisa e Ensino"
     
+    - title : "Samuel Fernandes"
+      image : "images/team/samuel.png"
+      designation : "Coordenador de Extensão"
+
     - title : "Gabriel Mota"
       image : "images/team/gabriel.png"
-      designation : "Assessor de Pesquisa e Ensino"
-          
-    - title : "Lorran Maciel"
-      image : "images/team/lorran.png"
-      designation : "Coordenador de Marketing"
-
-    - title : "Lucas Farias"
-      image : "images/team/lucasfarias.png"
-      designation : "Coordenador de Pesquisa e Ensino"  
+      designation : "Assessor de Extensão"          
 
     - title : "Lucas Fernandes"
       image : "images/team/lucasfer.png"
-      designation : "Assessor de Gestão Interna"
-
-    - title : "Mauro Vítor"
-      image : "images/team/maurao.png"
-      designation : "Coordenador de Extensão"
+      designation : "Assessor de Extensão"
       
-    - title : "Naiarlisson Fernandes"
-      image : "images/team/nai.png"
-      designation : "Assessor de Marketing"
 
-    - title : "Pedro Lucas"
-      image : "images/team/pl.png"
-      designation : "Assessor de Pesquisa e Ensino"
-
-    - title : "Rebeka Parente"
-      image : "images/team/rebeka.png"
-      designation : "Assessora de Extensão"
-
-    - title : "Samuel Fernandes"
-      image : "images/team/samuel.png"
-      designation : "Assessor de Gestão Interna"
-
-    - title : "Vinícius Campos"
-      image : "images/team/vinishow.png"
-      designation : "Assessor da Geral"
 #Equipes egressas
 egressos:
   enable: true

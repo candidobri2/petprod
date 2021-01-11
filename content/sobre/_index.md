@@ -8,7 +8,7 @@ draft: false
 
 O Programa de Educação Tutorial Engenharia de Produção Mecânica (PET Produção – UFC), foi criado no ano de 2011 com a seleção de quatro alunos sob a tutoria do professor [Rogério Teixeira Mâsih](http://lattes.cnpq.br/0287587032901286), e logo após mantido pelo professor [Heráclito Lopes Jaguaribe Pontes](http://lattes.cnpq.br/5012570076716704) até 2019. O programa objetiva desenvolver atividades acadêmicas articulando ensino, pesquisa e extensão com a finalidade de proporcionar melhoria da qualidade acadêmica do curso.
 
-Atualmente, o PET Produção conta com 16 bolsistas sob a tutoria do professor [Anselmo Pitombeira Neto](http://lattes.cnpq.br/5661587413564713) e realiza diversas atividades como minicursos para graduação, organizações de evento como a Semana de Engenharia de Produção (SEP), elaboração de conteúdo para comunidade, vídeo aulas no YouTube, aulões e monitoria, além do desenvolvimento de jornais informativos, análise de livros e outras atividades voltadas à comunidade externa.
+Atualmente, o PET Produção conta com mais de 10 bolsistas sob a tutoria do professor [Anselmo Pitombeira Neto](http://lattes.cnpq.br/5661587413564713) e realiza diversas atividades como minicursos para graduação, organizações de evento como a Semana de Engenharia de Produção (SEP), elaboração de conteúdo para comunidade, vídeo aulas no YouTube, aulões e monitoria, além do desenvolvimento de jornais informativos, análise de livros e outras atividades voltadas à comunidade externa.
 
 #### Movimento PET
 

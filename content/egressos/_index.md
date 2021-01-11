@@ -14,6 +14,7 @@ draft: false
 * Bárbara Monteiro de Paula 
 * Breno Welton Matias de Sousa 
 * Byanca Pinheiro Augusto 
+* Carlos Heitor 
 * Carolina Rodrigues Silva 
 * Cícero Giácomo Rodrigues Pinheiro 
 * Daniel Farias Barreto de Moura 
@@ -46,6 +47,7 @@ draft: false
 * Leonardo Carneiro Andrade
 * Levi Ribeiro de Abreu 	
 * Lívia Rodrigues Barreto 
+* Lorran Maciel
 * Luana Kist Alves 
 * Lucas Calixto Braga 
 * Lucas Viana Beltrão de Araújo 

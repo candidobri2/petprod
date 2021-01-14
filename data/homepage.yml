@@ -203,14 +203,14 @@ podcast:
     - logo : "images/petcast/capa.jpeg"
       URL : "https://open.spotify.com/show/2GZf80sg6O26P597TxssvB?si=uyJ2gh9cRtibuBAKn_rlVQ"
     
-    - logo : "images/petcast/economia.png"
-      URL : "https://open.spotify.com/episode/1Kaibruq0oOTczRfuYTfHy?si=i97yB-XWTpWFUqO4ULrTgw"
+###    - logo : "images/petcast/economia.png"
+###    URL : "https://open.spotify.com/episode/1Kaibruq0oOTczRfuYTfHy?si=i97yB-XWTpWFUqO4ULrTgw"
 
-    - logo : "images/petcast/economia-pratica.jpg"
-      URL : "https://open.spotify.com/episode/2bGu6pHTkL3VsEhcauIZ0n?si=Sjc51Ay6SzKjA5qhuXZoNA"
+###    - logo : "images/petcast/economia-pratica.jpg"
+###      URL : "https://open.spotify.com/episode/2bGu6pHTkL3VsEhcauIZ0n?si=Sjc51Ay6SzKjA5qhuXZoNA"
 
-    - logo : "images/petcast/mesa.jpeg"
-      URL : "https://open.spotify.com/episode/6L1PNR15lJ9v4tVIzqWfPN?si=hzRjonDzR567OTrUJln3Jw"
+###    - logo : "images/petcast/mesa.jpeg"
+###      URL : "https://open.spotify.com/episode/6L1PNR15lJ9v4tVIzqWfPN?si=hzRjonDzR567OTrUJln3Jw"
 
     - logo : "images/petcast/pesquisa.jpeg"
       URL : "https://open.spotify.com/episode/3YnVy7461ZJEugiFtASUH6?si=Wtq4tSfLSjSKS4bmCPuTIA"
@@ -218,6 +218,23 @@ podcast:
     - logo : "images/petcast/hanna.png"
       URL : "https://open.spotify.com/episode/0a3ED4S2xhLeiDLfPM763t?si=_21AioAGTuqE6cqfvVcZBg"
 
+    - logo : "images/petcast/heraclito.webp"
+      URL : "https://open.spotify.com/episode/0gsGxgJiCV9vNfLrREr4KC?si=nSqJfLGdSEiXaT5cg_C2HQ"
+
+    - logo : "images/petcast/jorge.png"
+      URL : "https://open.spotify.com/episode/3M1FXiW5YjmtXXQeY4oJSI?si=pQlC-AU2RWqOLsQ5OR8k-A"
+      
+    - logo : "images/petcast/sergio_elias.webp"
+      URL : "https://open.spotify.com/episode/0EYt6kHmpO2GbkYUPLicR3?si=Bek6oKK5R3a28QgmHJlYrA"
+
+    - logo : "images/petcast/bruno_arruda.jpeg"
+      URL : "https://open.spotify.com/episode/2bkw4YenCEBsthKXnOaCz9?si=m5Y6mkxoQB2IDOd37uViSw"
+
+    - logo : "images/petcast/alysson.webp"
+      URL : "https://open.spotify.com/episode/7L4o4RouUtPT7Gv3vmIXEy?si=aK0sO1JbSwm1tbUB7W5Yeg"
+
+    - logo : "images/petcast/felipe.png"
+      URL : "https://open.spotify.com/episode/2iVaY2MqusYobATbBThw24?si=ni8_VHoFTpqZ6wtDqPSClw"
 
 # blog
 noticias:

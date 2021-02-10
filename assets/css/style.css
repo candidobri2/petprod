@@ -208,7 +208,7 @@ img {
 a,
 a:hover,
 a:focus {
-  text-decoration: none
+  text-decoration: none  
 }
 
 a,
@@ -779,7 +779,7 @@ blockquote {
 }
 
 .content strong {
-  font-family: playfair display, serif;
+  font-family: bwnistaint-xbd !important;
   font-size: 15px;
   font-weight: 400;
   color: #000;

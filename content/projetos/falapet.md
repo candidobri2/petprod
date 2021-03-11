@@ -2,7 +2,7 @@
 title: "FalaPET"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/FalaPET.jpeg"
-description: "Meta"
+description: "o FalaPET busca o desenvolvimento dessas competências por meio de apresentações sobre diversos temas que além do desenvolvimento pessoal"
 type: "post_projetos"
 --- 
 

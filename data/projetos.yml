@@ -33,7 +33,16 @@ item:
     image : "images/portfolio/NEPEN.png"
     project_url : "nepen"
     categories: ["extensão"]
-      
+
+  - title : "PETCast Produção"
+    image : "images/portfolio/petcast.png"
+    project_url : "petcast"
+    categories: ["extensão"]
+
+  - title : "OnePage"
+    image : "images/portfolio/onepage.png"
+    project_url : "onepage"
+    categories: ["ensino"]      
       
   - title : "GEEP - Grupo de Estudo em Engenharia de Produção"
     image : "images/portfolio/GEEP.jpeg"
@@ -75,10 +84,10 @@ item:
     project_url : "melhoria"
     categories: ["extensão"]
 
-  - title : "PETalk"
-    image : "images/portfolio/PETalk.png"
-    project_url : "pettalk"
-    categories: ["ensino"]
+  - title : "Estudos de Caso"
+    image : "images/portfolio/estudo-de-caso.png"
+    project_url : "estudos-de-caso"
+    categories: ["pesquisa"]
 
   - title : "Semana da Engenharia de Produção - SEP"
     image : "images/portfolio/SEP.png"
@@ -100,6 +109,10 @@ item:
     project_url : "tutoria"
     categories: ["ensino"]   
 
+  - title : "PET Propaga"
+    image : "images/portfolio/pet-propaga.png"
+    project_url : "petpropaga"
+    categories: ["extensão"]
 # client logo slider
 clients_logo_slider:
   enable : true

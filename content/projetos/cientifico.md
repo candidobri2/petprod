@@ -2,7 +2,9 @@
 title: "Elaboração de Artigos Científicos"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/elaboracao-cientifico.png"
-description: "Meta"
+description: "A fim de
+fomentar o pilar da pesquisa, é dever de todo petiano do PET Produção – UFC, durante seu
+período de atuação, transformar suas atividades desenvolvidas em trabalhos científicos"
 type: "post_projetos"
 --- 
 

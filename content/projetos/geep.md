@@ -2,7 +2,7 @@
 title: "Grupo de Estudos Em Engenharia de Produção - GEEP"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/GEEP.jpeg"
-description: "Meta"
+description: "são selecionados temas centrais para o semestre e os integrantes da comissão se dividem de acordo com os temas para fazerem apresentações para os petianos, sendo aberto as apresentações para alunos da graduação que desejem conhecer mais sobre aquele tema em destaque."
 type: "post_projetos"
 --- 
 

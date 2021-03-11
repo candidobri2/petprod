@@ -2,7 +2,7 @@
 title: "Jornal do PET Produção"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/Jornal.png"
-description: "Meta"
+description: "o PET Produção elabora um jornal que contém todas as atividades desenvolvidas ao longo do semestre pelos petianos"
 type: "post_projetos"
 --- 
 

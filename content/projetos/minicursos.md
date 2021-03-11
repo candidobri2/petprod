@@ -2,7 +2,9 @@
 title: "Ciclo de Minicursos"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/minicursos.png"
-description: "Meta"
+description: "consiste no desenvolvimento de minicursos, quando são
+transmitidos os conhecimentos de importantes ferramentas do ramo da engenharia, mas que
+normalmente não são oferecidas em sala de aula"
 type: "post_projetos"
 --- 
 

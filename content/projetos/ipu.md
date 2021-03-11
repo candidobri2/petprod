@@ -2,7 +2,9 @@
 title: "Instituto Parque Universitário"
 date: 2018-05-04T12:14:34+06:00
 image: "images/portfolio/ipu.jpg"
-description: "This is a meta description"
+description: "Finalizado em 2019.1, o projeto que durou 2 anos na Associação dos Moradores do
+Parque Universitário teve como intuito principal o desenvolvimento de um setor de
+captação de recursos da instituição."
 type: "post_projetos"
 ---
 

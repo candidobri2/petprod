@@ -79,7 +79,7 @@ address = "Bloco 714 (1º andar), Centro de Tecnologia, Campus do Pici, Universi
 author = "PET Produção"
 description = "Programa de Educação Tutorial do curso de Engenharia de Produção Mecânica da UFC"
 # google analytics
-google_analytics_id = "G-XQRNWXV249" # Your ID
+google_analytics_id = "UA-174155419-1" # Your ID
 # copyright
 copyright = "&copy; Desenvolvido por PET Engenharia de Produção UFC - 2020 - Tema de [Hugo](https://gethugothemes.com)"
 

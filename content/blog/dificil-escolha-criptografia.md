@@ -3,7 +3,7 @@ title: "A difícil escolha: Implementar ou não a criptografia de ponta-a-ponta 
 date: 2021-02-25T18:00:00+06:00
 author: "Rebeka Parente"
 image: "images/blog/criptograf.jpg"
-summary: "Em agosto de 2020 entrou em vigor a LEI nº13709, de 14 de agosto de 2018, mais conhecida por Lei Geral de Proteção de Dados (LGPD), lei de proteção de dados. Ela que regulamenta o tratamento de dados pessoais."
+summary: "A criptografia de ponta-a-ponta, de forma resumida, é uma ferramenta de segurança que permite que seus dados sejam protegidos."
 type: post_blog
 draft: false
 

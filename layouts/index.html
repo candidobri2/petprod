@@ -19,7 +19,7 @@
     <!-- Ícones Redes Sociais -->
     <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
       {{ range .Site.Params.social }}
-      <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}" target="_blank" rel="noopener" ><i class="{{.icon}}"></i></a></li>
+      <li class="h4 mb-3"><a class="text-white" href="{{.URL | safeURL }}" target="_blank" rel="noopener" ><i class="{{.icon}}"></i></a></li>
       {{ end }}
     </ul>
   </div>
@@ -229,7 +229,7 @@
             </div>
             <img class="img-fluid rounded-circle mb-4 d-inline-block" src="{{.image | absURL }}" alt="client-image">
             <h4 class="text-white">{{.name }}</h4>
-            <h6 class="text-black">{{ .designation | safeHTML}}</h6>
+            <h6 class="text-dark">{{ .designation | safeHTML}}</h6>
             <!--Cor setada:text-light mb-4-->
           </div>
           {{ end }}

@@ -7,62 +7,49 @@ team:
       image : "images/team/anselmo.png"
       designation : "Tutor"
 
-    - title : "Vinícius Campos"
-      image : "images/team/vinishow.png"
-      designation : "Coordenador Geral"
-
     - title : "Rebeka Parente"
-      image : "images/team/rebeka.png"
-      designation : "Assessora da Coordenação Geral"
+      image : "images/team/bekinha.jpg"
+      designation : "Coordenadora de Gente e Gestão"
 
-
-    - title : "Pedro Lucas"
-      image : "images/team/pl.png"
-      designation : "Coordenador de Gestão Interna"
-    
-    - title : "Adriano Neto"
-      image : "images/team/adriano.png"
-      designation : "Assessor de Gestão Interna"
-
-    - title : "Mauro Vitor"
-      image : "images/team/maurao.png"
-      designation : "Assessor de Gestão Interna"
-   
-    - title : "Ana Luiza"
-      image : "images/team/luiza.jpg"
-      designation : "Coordenadora de Marketing"
-    
-    - title : "Edgar Queiroz"
-      image : "images/team/edgar.png"
-      designation : "Assessor de Marketing"
-      
-    - title : "Lucas Farias"
-      image : "images/team/lucasfarias.png"
-      designation : "Assessor de Marketing"  
-
-    - title : "Camila Pará"
-      image : "images/team/camila.png"
-      designation : "Coordenadora de Pesquisa e Ensino"
-      
     - title : "Candido Brito"
       image : "images/team/candido2.jpg"
-      designation : "Assessor de Pesquisa e Ensino"
-
-    - title : "Naiarlisson Fernandes"
-      image : "images/team/nai.png"
-      designation : "Assessor de Pesquisa e Ensino"
+      designation : "Coordenador de Gente e Gestão"
     
-    - title : "Samuel Fernandes"
-      image : "images/team/samuel2.png"
-      designation : "Coordenador de Extensão"
-
     - title : "Gabriel Mota"
-      image : "images/team/gabriel.png"
-      designation : "Assessor de Extensão"          
+      image : "images/team/mota.jpg"
+      designation : "Coordenador de Pesquisa e Ensino"
+
+    - title : "Edgar Queiroz"
+      image : "images/team/edgar.png"
+      designation : "Coordenador de Extensão" 
 
     - title : "Lucas Fernandes"
       image : "images/team/lucasfer.png"
-      designation : "Assessor de Extensão"
+      designation : "Coordenador de Marketing"
+
+    - title : "Pedro Lucas"
+      image : "images/team/pl.jpg"
+      designation : "Assessor a definir"
+   
+    - title : "Ana Luiza"
+      image : "images/team/analu.jpeg"
+      designation : "Assessora a definir"
+
+    - title : "Camila Pará"
+      image : "images/team/camila.png"
+      designation : "Assessora a definir"
+
+    - title : "Naiarlisson Fernandes"
+      image : "images/team/nai.jpg"
+      designation : "Assessor a definir"
+    
+    - title : "Samuel Fernandes"
+      image : "images/team/samuel.jpg"
+      designation : "Assessor a definir"          
+      
+    - title : "Vinícius Campos"
+      image : "images/team/vinishow.png"
+      designation : "Assessor a definir"
       
 
 #Equipes egressas

@@ -1,5 +1,5 @@
 ---
-title: "O futuro da produtividade: o que é comoditização digital e como ela se relaciona com o mercado competitivo - BlogsPET #06 (Especial OnePage)"
+title: "O futuro da produtividade: o que é comoditização digital e como ela se relaciona com o mercado competitivo - Blog #06 (Especial OnePage)"
 date: 2021-03-25T19:18:00+06:00
 author: "Lucas Farias"
 image: "images/blog/blog6.png"

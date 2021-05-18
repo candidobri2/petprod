@@ -1,5 +1,5 @@
 ---
-title: "A difícil escolha: Implementar ou não a criptografia de ponta-a-ponta nas redes sociais? - BlogsPET #04 (Especial OnePage)"
+title: "A difícil escolha: Implementar ou não a criptografia de ponta-a-ponta nas redes sociais? - Blog #04 (Especial OnePage)"
 date: 2021-02-25T18:00:00+06:00
 author: "Rebeka Parente"
 image: "images/blog/criptograf.jpg"

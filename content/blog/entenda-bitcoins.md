@@ -1,5 +1,5 @@
 ---
-title: "Entenda sobre Bitcoins e sua supervalorização - BlogsPET #01"
+title: "Entenda sobre Bitcoins e sua supervalorização - Blog #01"
 author: "Edgar Queiroz/Gabriel Mota"
 date: 2021-01-14T19:14:34+06:00
 image: "images/blog/bitcoin.jpg"

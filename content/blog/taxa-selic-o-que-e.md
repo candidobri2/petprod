@@ -1,6 +1,6 @@
 ---
 title: "O que é a Taxa Selic e porque você deveria se preocupar com ela - Blog #07"
-date: 2021-04-14T19:18:00+06:00
+date: 2021-04-15T19:18:00+06:00
 author: "Fabiano Araujo, Michele Zavattaro e Samuel Fernandes."
 image: "images/blog/selic.jpg"
 summary: "Você sabe o que é a taxa Selic? Entende como ela se relaciona com o mercado financeiro do Brasil? Para início de conversa, lhe adiantamos que existem duas taxas Selic e para conhecer a sua dinâmica, o Blog do PET Produção trouxe o GEE para explicar o que é essa taxa e como as suas mudanças impactam a economia do Brasil."

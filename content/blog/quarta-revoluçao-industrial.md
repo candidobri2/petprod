@@ -1,5 +1,5 @@
 ---
-title: "Estamos preparados para a 4° Revolução Industrial? - BlogsPET #02 (Especial OnePage)"
+title: "Estamos preparados para a 4° Revolução Industrial? - Blog #02 (Especial OnePage)"
 date: 2021-01-28T19:18:00+06:00
 author: "Candido Brito"
 image: "images/blog/quarta-revolução.png"

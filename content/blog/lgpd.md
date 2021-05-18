@@ -1,5 +1,5 @@
 ---
-title: "LGPD e suas oportunidades para a Engenharia de Produção - BlogsPET #03"
+title: "LGPD e suas oportunidades para a Engenharia de Produção - Blog #03"
 date: 2021-02-10T18:00:00+06:00
 author: "Adriano Neto"
 image: "images/blog/dados.jpg"

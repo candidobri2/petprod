@@ -2,7 +2,7 @@
 title: "A importância da representatividade LGBTQ+ na atualidade - Blog #09"
 date: 2021-06-30T19:18:00+06:00
 author: "Naiarlisson Fernandes"
-image: "images/blog/selic.jpg"
+image: "images/blog/representatividade.png"
 summary: "Em homenagem ao mês de junho, gostaríamos de contar um pouco da história que motiva o movimento LGBTQIA+!"
 type: post_blog
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "A nocividade da simplificação do sucesso - Blog #09"
+title: "A nocividade da simplificação do sucesso - Blog #10"
 date: 2021-07-22T19:18:00+06:00
 author: "Gabriel Mota"
 image: "images/blog/sucesso.jpeg"
@@ -64,3 +64,6 @@ Admirar pessoas não é errado, é importante para que tenhamos boas referência
 Bezos sem dúvidas tem méritos pelos seus feitos, mas isso não veio de modo simples, ele precisou adquirir conhecimento acadêmico e de mercado antes de tudo, e mais importante, tinha condições para iniciar seu negócio.
 
 Notamos então como é fácil levantar uma quantidade imensa de problemas e trazer lógicas simplificadas para o mundo real, sejam vídeos, livros, ou nas redes sociais tais meios aceitam qualquer suposição que alguém queira inventar. Por isso, fique atento e sempre lance um olhar de dúvida para o que você ver na internet.
+
+
+Texto inspirado nas Newsletters do [startupdareal](https://www.instagram.com/startupdareal) e [numerofobia](https://www.instagram.com/numerofobia)

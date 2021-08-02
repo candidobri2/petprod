@@ -52,7 +52,7 @@ Por exemplo, pense na Amazon, empresa desenvolvedora de padrões e que gerencia 
 ### 3) Desaceleração da taxa de crescimento da produtividade.
 *Até onde vai a produtividade?* Nos últimos anos, existe um grande debate sobre a [estagnação secular](https://voxeu.org/content/secular-stagnation-facts-causes-and-cures) nos países desenvolvidos. Essa desaceleração da taxa de crescimento pode ser vista no Gráfico 1, onde na última análise (2007-2015) a produtividade do trabalho nos EUA cresceu apenas 1,2% ao ano, sendo consideravelmente baixo mesmo com a Crise Financeira.
 
-1. 2. 3. 4. **Gráfico 1 - Crescimento anual médio da produtividade do trabalho do setor privado nos Estados Unidos**
+1.2. 3. 4. **Gráfico 1 - Crescimento anual médio da produtividade do trabalho do setor privado nos Estados Unidos**
 
 {{< figure src="/images/blog/graficoblog6.jpg#center" height="80%" width="80%" description="" >}} 
 

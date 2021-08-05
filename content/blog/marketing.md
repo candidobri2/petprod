@@ -43,6 +43,9 @@ Entender o mindset do seu público e compreender como usar a tecnologia para for
 
 Muito mais que designs visualmente agradáveis, o marketing digital deve entender o cliente como pessoa e não como uma massa consumista, além de usar das vantagens tecnológicas para transmitir valores pelos serviços ou produtos da empresa. Na prática a manutenção de uma relação horizontal com o público é essencial, pois é onde existe uma troca entre cliente e o produtor, cabendo a empresa se comportar também como pessoa para entender as necessidades do seu público e elaborar formas de auxiliar com seu serviço, a fim de fidelizá-los como clientes efetivos e satisfeitos com o que foi prometido e oferecido, formando os chamados “advogados da marca” que indicam a empresa pela sua qualidade, tudo isso baseado em estratégias após as análises dos dados armazenados e disponibilizados pelas redes sociais para tornar essa estratégia mais precisa.
 
+{{< figure src="/images/blog/marketing_digital.jpeg#center" height="auto" width="auto" description="" >}}
+
+
 ### Cases de sucesso no Marketing digital:
 
 #### Magazine Luiza
@@ -57,6 +60,8 @@ Quando se fala na Magazine Luiza é impossível não pensar na famosa Lu, assist
 A Lu se tornou a identidade da empresa, pois ela humaniza os serviços e produtos da Magazine Luiza, sendo por meio dela que a empresa se personifica para ter uma relação melhor com os clientes, já que ela está sempre ativa nos canais de comunicação da empresa para auxiliar os compradores, tirar dúvidas e interagir com o público.
 
 Você sabia que a Lu faz reels de memes, grava vídeos para o Youtube e ainda escreve para blogs?
+
+{{< figure src="/images/blog/magalu_insta.jpeg#center" height="auto" width="auto" description="" >}}
 
 Essa postura está sendo cada vez mais valorizada atualmente, uma vez que a conexão e transmissão de valores com o cliente é valorizada, no Instagram vemos a Lu digital influencer que publica memes, no Youtube temos a Lu passando várias dicas de produtos e até mesmo jogando o famoso League of Legends, além de oferecer suporte técnico no site da loja, e também pelo aplicativo, onde ela tira as dúvidas dos clientes no ato da compra. Logo, essa humanização cria muito mais que uma relação produtor e consumidor, cria uma relação de troca de valores que é a interação essencial para fidelizar os clientes e conquistar novos outros.
 

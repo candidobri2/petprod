@@ -1,6 +1,6 @@
 ---
 title: "Entenda sobre Bitcoins e sua supervalorização - Blog #01"
-author: "Edgar Queiroz e Gabriel Mota"
+author: "Edgar Queiroz e Gabriel Mota."
 date: 2021-01-14T19:14:34+06:00
 image: "images/blog/bitcoin.jpg"
 description: "Com a atual cotação de Bitcoin para Reais Brasileiros (aproximadamente R$190mil/BTC), se você tivesse comprado R$500 em Bitcoins em 2011, teria hoje, em 2021, aproximadamente R$190 milhões em reais."

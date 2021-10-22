@@ -7,49 +7,61 @@ team:
       image : "images/team/anselmo.png"
       designation : "Tutor"
 
-    - title : "Rebeka Parente"
-      image : "images/team/bekinha.jpg"
-      designation : "Coordenadora de Gente e Gestão"
-
-    - title : "Candido Brito"
-      image : "images/team/candido2.jpg"
-      designation : "Coordenador de Gente e Gestão"
+    - title : "Luiza Joaquina"
+      image : "images/team/luiza.png"
+      designation : "Coordenadora Geral"
     
-    - title : "Gabriel Mota"
-      image : "images/team/mota.jpg"
+    - title : "Gabriel Amarante"
+      image : "images/team/amarante.png"
       designation : "Coordenador de Pesquisa e Ensino"
 
     - title : "Edgar Queiroz"
       image : "images/team/edgar.png"
-      designation : "Coordenador de Extensão" 
+      designation : "Coordenador de Gestão Interna" 
 
-    - title : "Lucas Fernandes"
-      image : "images/team/lucasfer.png"
+    - title : "Alice Alves"
+      image : "images/team/alice.png"
       designation : "Coordenador de Marketing"
-
-    - title : "Pedro Lucas"
-      image : "images/team/pl.jpg"
-      designation : "Assessor a definir"
-   
-    - title : "Ana Luiza"
-      image : "images/team/analu.jpeg"
-      designation : "Assessora a definir"
-
-    - title : "Camila Pará"
-      image : "images/team/camila.png"
-      designation : "Assessora a definir"
-
-    - title : "Naiarlisson Fernandes"
-      image : "images/team/nai.jpg"
-      designation : "Assessor a definir"
-    
-    - title : "Samuel Fernandes"
-      image : "images/team/samuel.jpg"
-      designation : "Assessor a definir"          
       
-    - title : "Vinícius Campos"
-      image : "images/team/vinishow.png"
-      designation : "Assessor a definir"
+    - title : "Carla Letícia"
+      image : "images/team/carla.png"
+      designation : "Coordenadora de Extensão"
+
+    - title : "Samuel Fernandes"
+      image : "images/team/samu1.png"
+      designation : "Assessor Geral"   
+
+    - title : "Ana Beatriz"
+      image : "images/team/ana1.png"
+      designation : "Assessora de Extensão"
+
+    - title : "Gabriel Araújo"
+      image : "images/team/araujo.png"
+      designation : "Assessor de Extensão"
+
+    - title : "Deoclécio da Silva"
+      image : "images/team/deo.png"
+      designation : "Assessor de Marketing"
+   
+    - title : "Rebeka Parente"
+      image : "images/team/bekinha.png"
+      designation : "Assessora de Marketing"
+ 
+    - title : "Naiarlisson Fernandes"
+      image : "images/team/nai1.png"
+      designation : "Assessor de Gestão Interna" 
+
+    - title : "Gabriel Mota"
+      image : "images/team/mota.png"
+      designation : "Assessor de Gestão Interna"
+
+    - title : "Lívia Christine"
+      image : "images/team/livia.png"
+      designation : "Assessora de Pesquisa e Ensino"       
+      
+    - title : "Letícia Elen"
+      image : "images/team/leticia.png"
+      designation : "Assessora de Pesquisa e Ensino"
       
 
 #Equipes egressas

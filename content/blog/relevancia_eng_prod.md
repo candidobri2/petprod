@@ -41,7 +41,7 @@ Em resumo, o Engenheiro de Produção lida com a otimização e gestão de proce
 
 Se quiser saber mais sobre cada uma dessas áreas de atuação [Clique Aqui e Conheça o PETCast Produção UFC](https://open.spotify.com/show/2GZf80sg6O26P597TxssvB), disponível no Spotify!
 
-### Panorama atual do curso no mercado
+### Panorama atual no mercado
 
 Apesar do curso ser relativamente novo, a profissão está entre aquelas que seguem em crescimento constante, mesmo diante de um cenário de desaceleração econômica. Essa grande procura por esses profissionais existe porque possuem uma sólida formação científica, com visão sistêmica suficiente para encarar os problemas de maneira global. Ou seja, são profissionais polivalentes que lidam com diferentes áreas e habilidades, o que é extremamente necessário na atual conjuntura do mercado de trabalho.
 

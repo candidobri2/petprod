@@ -3,13 +3,11 @@ title: "Gestão Ambiental: sua relevância dentro e fora da empresa."
 date: 2022-01-25T19:18:00+06:00
 author: "Gabriel Araújo"
 image: "images/blog/capasustentavel.jpg"
-summary: "Quer entender sobre a importância da Gestão Ambiental no meio empresarial? Visite nosso décimo primeiro artigo do Blog e entenda mais sobre o assunto!"
+summary: "Desde a 1ª Revolução Industrial o homem degrada o meio ambiente em prol do desenvolvimento tecnológico. Entretanto, foi só após a Segunda Guerra Mundial que os danos ambientais ficaram mais evidentes. A Gestão Ambiental é um segmento de uma das áreas da Engenharia de Produção, que trabalha basicamente buscando o desenvolvimento sustentável. Mas você sabe como ela faz isso e qual é a importância dela? Então, o PET Produção vai te falar tudo isso!"
 type: post_blog
 draft: false
 
 ---
-Desde a 1ª Revolução Industrial o homem degrada o meio ambiente em prol do desenvolvimento tecnológico. Entretanto, foi só após a Segunda Guerra Mundial que os danos ambientais ficaram mais evidentes. A Gestão Ambiental é um segmento de uma das áreas da Engenharia de Produção, que trabalha basicamente buscando o desenvolvimento sustentável. Mas você sabe como ela faz isso e qual é a importância dela? Então, o PET Produção vai te falar tudo isso!
-
 ### Então, o que é Gestão Ambiental?
 
 

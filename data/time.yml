@@ -9,59 +9,24 @@ team:
 
     - title : "Luiza Joaquina"
       image : "images/team/luiza.png"
-      designation : "Coordenadora Geral"
-    
-    - title : "Gabriel Amarante"
-      image : "images/team/amarante.png"
-      designation : "Coordenador de Pesquisa e Ensino"
-
-    - title : "Edgar Queiroz"
-      image : "images/team/edgar.png"
-      designation : "Coordenador de Gestão Interna" 
+      designation : "Bolsista PET Produção"
 
     - title : "Alice Alves"
       image : "images/team/alice.png"
-      designation : "Coordenadora de Marketing"
-      
-    - title : "Carla Letícia"
-      image : "images/team/carla.png"
-      designation : "Coordenadora de Extensão"
-
-    - title : "Samuel Fernandes"
-      image : "images/team/samu1.png"
-      designation : "Assessor Geral"   
-
-    - title : "Ana Beatriz"
-      image : "images/team/ana1.png"
-      designation : "Assessora de Extensão"
+      designation : "Bolsista PET Produção"
 
     - title : "Gabriel Araújo"
       image : "images/team/araujo.png"
-      designation : "Assessor de Extensão"
+      designation : "Bolsista PET Produção"
 
     - title : "Deoclécio da Silva"
       image : "images/team/deo.png"
-      designation : "Assessor de Marketing"
-   
-    - title : "Rebeka Parente"
-      image : "images/team/bekinha.png"
-      designation : "Assessora de Marketing"
- 
-    - title : "Naiarlisson Fernandes"
-      image : "images/team/nai1.png"
-      designation : "Assessor de Gestão Interna" 
-
-    - title : "Gabriel Mota"
-      image : "images/team/mota.png"
-      designation : "Assessor de Gestão Interna"
+      designation : "Bolsista PET Produção" 
 
     - title : "Lívia Christine"
       image : "images/team/livia.png"
-      designation : "Assessora de Pesquisa e Ensino"       
+      designation : "Bolsista PET Produção"       
       
-    - title : "Letícia Elen"
-      image : "images/team/leticia.png"
-      designation : "Assessora de Pesquisa e Ensino"
       
 
 #Equipes egressas

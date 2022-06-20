@@ -12,7 +12,7 @@ team:
       designation : "Bolsista PET Produção"
 
     - title : "Alice Alves"
-      image : "images/team/alice.png"
+      image : "images/team/Alice2.png"
       designation : "Bolsista PET Produção"
 
     - title : "Gabriel Araújo"
@@ -28,10 +28,28 @@ team:
       designation : "Bolsista PET Produção"
       
     - title : "Aline Santos"
-      image : "images/team/Aline1.png"
+      image : "images/team/Aline2.png"
       designation : "Bolsista PET Produção"  
       
+    - title : "Laissa Maria"
+      image : "images/team/lai1.png"
+      designation : "Bolsista PET Produção"  
       
+    - title : "João Pedro"
+      image : "images/team/jp1.png"
+      designation : "Bolsista PET Produção"  
+      
+    - title : "Mariana Ribeiro"
+      image : "images/team/mari1.png"
+      designation : "Bolsista PET Produção"  
+      
+    - title : "Sarah Ellen"
+      image : "images/team/sarah1.png"
+      designation : "Bolsista PET Produção"  
+      
+    - title : "Grasiele Alves"
+      image : "images/team/Grasi1.png"
+      designation : "Bolsista PET Produção" 
       
 
 #Equipes egressas

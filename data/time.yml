@@ -6,6 +6,10 @@ team:
     - title : "Prof. Anselmo Pitombeira"
       image : "images/team/anselmo.png"
       designation : "Tutor"
+      
+    - title : "Prof. Breno Barros"
+      image : "images/team/Breno1.png"
+      designation : "Co-Tutor"
 
     - title : "Luiza Joaquina"
       image : "images/team/luiza.png"

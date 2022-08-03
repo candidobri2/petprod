@@ -81,14 +81,13 @@ service:
   item:
     - title : "Missão"
       icon : "ti-target"
-      content : "Desenvolver potenciais acadêmico e profissional dos integrantes do grupo e alunos de graduação por meio de atividades 
-      de <b>ensino, pesquisa e extensão</b>, proporcionando melhorias para a sociedade."
+      content : "Desenvolver potenciais acadêmico e profissional dos petianos e dos graduandos, por meio de atividades de <b>ensino, pesquisa e extensão</b>, 
+      contribuindo para o curso de Engenharia de Produção da UFC."
       highlighted : false
 
     - title : "Visão"
       icon : "ti-eye"
-      content : "Ser reconhecido como um <b>grupo de referência</b> na tríade – ensino, pesquisa e extensão – pela comunidade
-      de Engenharia de Produção no estado do Ceará até 2021."
+      content : "Tornar-se a maior referência na <b>tríade universitária</b> entre os PET's do Ceará até 2023"
       highlighted : true
 
     - title : "Valores"

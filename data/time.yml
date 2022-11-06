@@ -11,32 +11,12 @@ team:
       image : "images/team/Breno1.png"
       designation : "Co-Tutor"
 
-    - title : "Luiza Joaquina"
-      image : "images/team/luiza.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Alice Alves"
-      image : "images/team/Alice2.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Gabriel Araújo"
-      image : "images/team/araujo.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Deoclécio da Silva"
-      image : "images/team/deo.png"
-      designation : "Bolsista PET Produção" 
-
     - title : "Lívia Christine"
       image : "images/team/livia.png"
       designation : "Bolsista PET Produção"
       
     - title : "Aline Santos"
       image : "images/team/Aline2.png"
-      designation : "Bolsista PET Produção"  
-      
-    - title : "Laissa Maria"
-      image : "images/team/lai1.png"
       designation : "Bolsista PET Produção"  
       
     - title : "João Pedro"
@@ -54,6 +34,22 @@ team:
     - title : "Grasiele Alves"
       image : "images/team/Grasi1.png"
       designation : "Bolsista PET Produção" 
+
+    - title : "Raul Slash Pereira Ribeiro"
+      image : "images/team/slash1.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Marcos Cauã do Nascimento Sampaio"
+      image : "images/team/marcos1.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Vitoria Fernandes da Silva Almeida"
+      image : "images/team/vitoria1.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Guilherme dos Santos Mendes"
+      image : "images/team/guilherme.png"
+      designation : "Bolsista PET Produção"
       
 
 #Equipes egressas

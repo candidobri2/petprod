@@ -10,29 +10,25 @@ team:
     - title : "Prof. Breno Barros"
       image : "images/team/Breno1.png"
       designation : "Co-Tutor"
-
-    - title : "Lívia Christine"
-      image : "images/team/livia.png"
-      designation : "Bolsista PET Produção"
-      
+   
     - title : "Aline Santos"
-      image : "images/team/Aline2.png"
+      image : "images/team/aline.png"
       designation : "Bolsista PET Produção"  
       
     - title : "João Pedro"
-      image : "images/team/jp1.png"
+      image : "images/team/jp.png"
       designation : "Bolsista PET Produção"  
       
     - title : "Mariana Ribeiro"
-      image : "images/team/mari1.png"
+      image : "images/team/mari.png"
       designation : "Bolsista PET Produção"  
       
     - title : "Sarah Ellen"
-      image : "images/team/sarah1.png"
+      image : "images/team/sarah.png"
       designation : "Bolsista PET Produção"  
       
     - title : "Grasiele Alves"
-      image : "images/team/Grasi1.png"
+      image : "images/team/grasi.png"
       designation : "Bolsista PET Produção" 
 
     - title : "Raul Slash Pereira Ribeiro"

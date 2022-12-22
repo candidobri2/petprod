@@ -57,7 +57,7 @@ name = "Notícias"
 weight = 7
 
 [[menu.main]]
-URL = "http://localhost:1313/#contato"
+URL = "contato"
 name = "Contato"
 weight = 8
 
@@ -71,7 +71,7 @@ logo = "images/logo-pet.png"
 theme_color = "#08829b" 
 # contact info
 # phone = ""
-email = "petprodufc714@gmail.com"
+email = "petprodufc@gmail.com"
 address = "Bloco 735, Centro de Tecnologia, Campus do Pici, Universidade Federal do Ceará, Fortaleza - CE"
 
 

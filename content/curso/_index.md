@@ -2,7 +2,7 @@
 title: "O curso"
 description: "This is a meta description."
 draft: false
-author_image : "images/about/prod.png"
+author_image : "images/about/prod.jpg"
 author_signature : "images/about/signature.png"
 --- 
 

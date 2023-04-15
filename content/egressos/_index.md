@@ -79,4 +79,8 @@ draft: false
 * Weiner Mendonça Nobre Lima 
 * Wendel Coelho Silva 
 * Yago Azevedo Custódio 
-* Yvna Leorne Rocha de Pinho Pessoa 
+* Yvna Leorne Rocha de Pinho Pessoa
+* Marcos Cauã do Nascimento Sampaio
+* Aline Keller dos Santos
+* João Pedro de Sousa Targino 
+* Mariana Silva Ribeiro

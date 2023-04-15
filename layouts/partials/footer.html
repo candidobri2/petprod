@@ -53,15 +53,15 @@
             <div class="col" style="display:block;" id='mapDIV'></div>
 <script>
       var map = L.map(document.getElementById('mapDIV'), {
-      center: [-3.74439, -38.5769],
+      center: [-3.7458116, -38.578899],
       zoom: 16,
       });
       var basemap = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
           });
           basemap.addTo(map);
-      var earthquakeMarker = L.marker([-3.74439, -38.5769], 
+      var earthquakeMarker = L.marker([-3.7458116, -38.578899], 
     {title: 'PET Produção'});
-    earthquakeMarker.bindPopup("Bloco 714 (1º andar), Centro de Tecnologia, Campus do Pici, Universidade Federal do Ceará, Fortaleza, CE");
+    earthquakeMarker.bindPopup("Bloco 735, Centro de Tecnologia, Campus do Pici, Universidade Federal do Ceará, Fortaleza, CE");
     earthquakeMarker.addTo(map);  
 </script>
         <!--MAPA-->

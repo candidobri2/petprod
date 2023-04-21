@@ -11,17 +11,45 @@ team:
       image : "images/team/Breno1.png"
       designation : "Co-Tutor"
    
-    - title : "Aline Santos"
-      image : "images/team/aline.png"
+    - title : "Ana Gabriela"
+      image : "images/team/gabi.png"
       designation : "Bolsista PET Produção"  
       
-    - title : "João Pedro"
-      image : "images/team/jp.png"
+    - title : "André Azevedo"
+      image : "images/team/andre.png"
       designation : "Bolsista PET Produção"  
       
-    - title : "Mariana Ribeiro"
-      image : "images/team/mari.png"
+    - title : "Lyssa Melo"
+      image : "images/team/lyssa.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Kamilly Vitória"
+      image : "images/team/kamilly.png"
       designation : "Bolsista PET Produção"  
+
+    - title : "Luiz Gustavo"
+      image : "images/team/gustavo.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Otávio Lima"
+      image : "images/team/otavio.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Paulo Henrique"
+      image : "images/team/ph.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Yasmin Matos"
+      image : "images/team/yasmin.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Bruno Mendes"
+      image : "images/team/bruno.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Glauco Lopes"
+      image : "images/team/glauco.png"
+      designation : "Bolsista PET Produção"
       
     - title : "Sarah Ellen"
       image : "images/team/sarah.png"
@@ -33,10 +61,6 @@ team:
 
     - title : "Raul Slash Pereira Ribeiro"
       image : "images/team/slash1.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Marcos Cauã do Nascimento Sampaio"
-      image : "images/team/marcos1.png"
       designation : "Bolsista PET Produção"
 
     - title : "Vitoria Fernandes da Silva Almeida"

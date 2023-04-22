@@ -11,12 +11,12 @@ team:
       image : "images/team/Breno1.png"
       designation : "Co-Tutor"
    
-    - title : "Ana Gabriela"
+    - title : "Gabriela Queiroz"
       image : "images/team/gabi.png"
       designation : "Bolsista PET Produção"  
       
     - title : "André Azevedo"
-      image : "images/team/andre.png"
+      image : "images/team/andre1.png"
       designation : "Bolsista PET Produção"  
       
     - title : "Lyssa Melo"
@@ -31,7 +31,7 @@ team:
       image : "images/team/gustavo.png"
       designation : "Bolsista PET Produção"
 
-    - title : "Otávio Lima"
+    - title : "Otávio Paes"
       image : "images/team/otavio.png"
       designation : "Bolsista PET Produção"
 
@@ -59,15 +59,15 @@ team:
       image : "images/team/grasi.png"
       designation : "Bolsista PET Produção" 
 
-    - title : "Raul Slash Pereira Ribeiro"
+    - title : "Raul Slash"
       image : "images/team/slash1.png"
       designation : "Bolsista PET Produção"
 
-    - title : "Vitoria Fernandes da Silva Almeida"
+    - title : "Vitoria Almeida"
       image : "images/team/vitoria1.png"
       designation : "Bolsista PET Produção"
 
-    - title : "Guilherme dos Santos Mendes"
+    - title : "Guilherme Mendes"
       image : "images/team/guilherme.png"
       designation : "Bolsista PET Produção"
       

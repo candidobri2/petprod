@@ -9,15 +9,7 @@ team:
       
     - title : "Prof. Breno Barros"
       image : "images/team/Breno1.png"
-      designation : "Co-Tutor"
-   
-    - title : "Gabriela Queiroz"
-      image : "images/team/gabi.png"
-      designation : "Bolsista PET Produção"  
-      
-    - title : "André Azevedo"
-      image : "images/team/andre1.png"
-      designation : "Bolsista PET Produção"  
+      designation : "Co-Tutor"   
       
     - title : "Lyssa Melo"
       image : "images/team/lyssa.png"
@@ -27,49 +19,18 @@ team:
       image : "images/team/kamilly.png"
       designation : "Bolsista PET Produção"  
 
-    - title : "Luiz Gustavo"
-      image : "images/team/gustavo.png"
-      designation : "Bolsista PET Produção"
-
     - title : "Otávio Paes"
       image : "images/team/otavio.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Paulo Henrique"
-      image : "images/team/ph.png"
       designation : "Bolsista PET Produção"
 
     - title : "Yasmin Matos"
       image : "images/team/yasmin.png"
       designation : "Bolsista PET Produção"
 
-    - title : "Bruno Mendes"
-      image : "images/team/bruno.png"
-      designation : "Bolsista PET Produção"
-
     - title : "Glauco Lopes"
       image : "images/team/glauco.png"
       designation : "Bolsista PET Produção"
       
-    - title : "Sarah Ellen"
-      image : "images/team/sarah.png"
-      designation : "Bolsista PET Produção"  
-      
-    - title : "Grasiele Alves"
-      image : "images/team/grasi.png"
-      designation : "Bolsista PET Produção" 
-
-    - title : "Raul Slash"
-      image : "images/team/slash1.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Vitoria Almeida"
-      image : "images/team/vitoria1.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Guilherme Mendes"
-      image : "images/team/guilherme.png"
-      designation : "Bolsista PET Produção"
       
 
 #Equipes egressas

@@ -31,6 +31,53 @@ team:
       image : "images/team/glauco.png"
       designation : "Bolsista PET Produção"
       
+    - title : "Davi de Lima"
+      image : "images/team/davi.png"
+      designation : "Bolsista PET Produção" 
+
+    - title : "Alice Benevides"
+      image : "images/team/aliceb.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Pedro Lucas"
+      image : "images/team/pedrinho.png"
+      designation : "Bolsista PET Produção"  
+
+    - title : "Giovanna Victória"
+      image : "images/team/giovanna.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Rebeca Iaci"
+      image : "images/team/rebeca.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Gustavo Castro"
+      image : "images/team/castro.png"
+      designation : "Bolsista PET Produção"
+      
+    - title : "Maíza Nara"
+      image : "images/team/maiza.png"
+      designation : "Bolsista PET Produção"   
+
+    - title : "Yasmin Maia"
+      image : "images/team/yas maia.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Levi Israel"
+      image : "images/team/levi.png"
+      designation : "Bolsista PET Produção"
+      
+    - title : "Victor do Amaral"
+      image : "images/team/victor.png"
+      designation : "Bolsista PET Produção"      
+      
+    - title : "Izadora Braga"
+      image : "images/team/izadora.png"
+      designation : "Bolsista PET Produção"   
+
+    - title : "Juliane Maia"
+      image : "images/team/juliane.png"
+      designation : "Bolsista PET Produção"      
       
 
 #Equipes egressas

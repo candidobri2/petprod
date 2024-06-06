@@ -8,7 +8,7 @@ type: post_blog
 draft: false
 
 ---
-#### INTRODUÇÃO
+#### Introdução
 
 O estoque é um dos ativos cruciais para qualquer empresa e, seja no varejo, na manufatura, no setor de serviços alimentícios ou em outros campos, os materiais e produtos finais são a base do negócio. Uma gestão inadequada do estoque pode até ameaçar a sobrevivência da empresa, no entanto, é importante reconhecer que o estoque também pode ser visto como uma responsabilidade. Além disso, manter um estoque grande traz consigo vários riscos potenciais para as empresas, que incluem a possibilidade de deterioração, roubo, danos, obsolescência ou perda, especialmente no caso de produtos perecíveis.  
  

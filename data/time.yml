@@ -12,23 +12,23 @@ team:
       designation : "Co-Tutor"   
       
     - title : "Lyssa Melo"
-      image : "images/team/lyssa1.png"
+      image : "images/team/lyssa2.png"
       designation : "Bolsista PET Produção"
 
     - title : "Kamilly Vitória"
-      image : "images/team/kamilly1.png"
+      image : "images/team/kamilly2.png"
       designation : "Bolsista PET Produção"  
 
     - title : "Otávio Paes"
-      image : "images/team/otavio1.png"
+      image : "images/team/otavio2.png"
       designation : "Bolsista PET Produção"
 
     - title : "Yasmin Matos"
-      image : "images/team/yasmin1.png"
+      image : "images/team/yas2.png"
       designation : "Bolsista PET Produção"
 
-    - title : "Glauco Lopes"
-      image : "images/team/glauco1.png"
+    - title : "Glauco Bezerra"
+      image : "images/team/glauco2.png"
       designation : "Bolsista PET Produção"
       
     - title : "Davi de Lima"

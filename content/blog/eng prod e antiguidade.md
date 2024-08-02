@@ -45,4 +45,3 @@ Assim, esses exemplos históricos nos mostram que a essência da Engenharia de P
 Dessa maneira, ao refletirmos sobre a influência da Engenharia de Produção nas grandes construções da Antiguidade, podemos apreciar ainda mais o legado dessas civilizações e a evolução contínua das práticas e conhecimentos que moldam o mundo moderno
 
 {{< figure src="/images/blog/blogalice5.jpg#center" height="40%" width="55%" description="" >}}
-

@@ -1,6 +1,6 @@
 ---
 title: "A Indústria de Alimentos"
-author: "Juliane Faria"
+author: "Juliane Maria"
 date: 2024-09-30T18:00:00+06:00
 image: "images/blog/blogjuliane1.jpg"
 description: "This is meta description."

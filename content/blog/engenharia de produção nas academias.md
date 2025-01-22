@@ -1,7 +1,7 @@
 ---
 title: "A Aplicação da Engenharia de Produção nas Academias"
 author: "Victor Sampaio"
-date: 2024-01-22T16:00:00+06:00
+date: 2025-01-21T16:00:00+06:00
 image: "images/blog/blogvictor1.jpg"
 description: "This is meta description."
 type: post_blog

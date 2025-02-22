@@ -2,7 +2,7 @@
 title: "Uma análise econômica cearense do setor de alimentos industrializados"
 author: "Kamily Monteiro"
 date: 2025-02-08T16:00:00+06:00
-image: "images/blog/kamilly 1.jpg"
+image: "images/blog/Kamilly 1.1.jpg"
 description: "This is meta description."
 type: post_blog
 draft: false
@@ -25,7 +25,7 @@ O setor de alimentos industrializados possui grande influência na economia bras
 ##### **Principais produtos:**
 -  Carnes, pescados e derivados (25,1%); Laticínios (16,5%); Cereais, chás e cafés (16,5%). 
 
-{{< figure src="/images/blog/kamilly 2.jpg#center" height="50%" width="55%" description="" >}}
+{{< figure src="/images/blog/Kamilly 2.1.jpg#center" height="50%" width="55%" description="" >}}
 
  O Brasil, hoje, é o **maior exportador de alimentos industrializados do mundo** em volume e o 5° em valor monetário, exercendo sua liderança, segundo BTG Pactual, como maior exportador mundial de soja (56% do total de exportações), milho (31%), café (27%), açúcar (44%), suco de laranja (76%), carne bovina (24%) e carne de frango (33%). 
  Contudo, é possível visualizar a relevância desse setor para a economia cearense e brasileira, salientando que ele é responsável por **7% do PIB do estado**, assim como **10,8% do PIB do Brasil**.
@@ -52,7 +52,9 @@ Por atividades agrícolas: os desmatamentos que ocorrem em terras para que seja 
 
 Os impactos industriais desse setor dizem respeito à emissão de gases de efeito estufa por indústrias processadoras de alimentos, a poluição por produtos industriais na natureza, portanto, tudo aquilo que envolve a atividade industrial que acarreta danos ambientais.
 
-{{< figure src="/images/blog/kamilly 3.jpg#center" height="50%" width="55%" description="" >}}
+
+{{< figure src="/images/blog/Kamilly 3.1.jpg#center" height="50%" width="55%" description="" >}}
+
 
 Por atividades logísticas, são os impactos decorrentes do transporte, manuseio e armazenagem dos alimentos industrializados, ou seja, a poluição causada pelos combustíveis dos transportes desses produtos, a escolha de embalagens que não são biodegradáveis ou reutilizáveis, a falta de cuidado com os lotes de armazenamentos, tudo isso ligada à emissão de gases poluentes e o desperdício de alimentos.
 

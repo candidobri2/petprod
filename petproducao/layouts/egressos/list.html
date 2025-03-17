@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+  {{ partial "page-title.html" . }}
+
+
+<!-- team -->
+{{ if .Site.Data.time.egressos.enable }}
+{{ with .Site.Data.time.egressos }}
+<section class="section bg-cover" data-background="{{`images/backgrounds/bg_gm.png`|relURL}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+<!--Tinha um comando para botar o titulo aqui:<h2 class="section-title">{{ .title | markdownify }}</h2>-->
+      </div>
+      {{ range .team_member }}
+      <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ .image | absURL }}" class="img-ajustar-card card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">{{.title }}</h4>
+            <p class="text-light font-secondary">{{.designation }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /team -->
+
+  <section class="section pt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div style="text-align: center;">
+        <h3 id="tutores">Tutores</h3>
+        <hr>
+        <ul>
+        <li><p><a href="http://lattes.cnpq.br/0287587032901286">Rogério Teixeira Mâsih</a></p>
+        </li>
+        <li><p><a href="http://lattes.cnpq.br/5012570076716704">Heráclito Lopes Jaguaribe Pontes</a></p>
+        </li>
+        <li><p><a href="http://lattes.cnpq.br/5661587413564713">Anselmo Pitombeira Neto</a></p>
+        </li>
+        </ul>
+        <h3 id="petianos-egressos">Petianos Egressos</h3>
+        <hr>
+      </div>
+        <div class="col-md-12 div-em-colunas">
+          <div style="text-align: center;">
+            {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{ end }}

@@ -1,0 +1,56 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+  {{ template "_internal/google_analytics.html" . }}
+  {{ "<!-- mobile responsive meta -->" | safeHTML }}
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+  {{ hugo.Generator }}
+
+  <style>
+    :root{
+      --primary-color:{{ .Site.Params.theme_color }};
+    }
+  </style>
+
+  {{ "<!-- plugins -->" | safeHTML }}
+  {{ range .Site.Params.plugins.css }}
+  <link rel="stylesheet" href="{{ .URL | absURL }} ">
+  {{ end }}
+
+  {{ "<!-- Main Stylesheet -->" | safeHTML }}
+  {{ $styles := resources.Get "css/style.css" | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+
+  <!--
+
+  {{ "Favicon" | safeHTML }}
+  link rel="shortcut icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon"
+  <link rel="icon" href="{{ `static/images/favicon.png` | absURL }} " type="image/x-icon">
+
+-->
+<!-- PARA O COUNTER UP -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+  crossorigin=""/>  
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+  crossorigin=""></script>
+  <style>
+      #mapDIV{
+          height: 350px;
+          width: 1200px;
+          border: solid 5px white;
+      }
+</style>
+
+<link rel="stylesheet" href="owlCarousel/dist/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="owlCarousel/dist/assets/owl.theme.default.min.css">
+
+</head>

@@ -1,0 +1,275 @@
+{{ define "main" }}
+  <!-- Banner principal -->
+  <section class="hero-area bg-primary overflow-hidden" id="parallax"> 
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-11 mx-auto mb-3">
+          <div style="text-align: center;">
+          <h1 class="text-white font-tertiary mb-5">{{ .Site.Data.homepage.banner.title | safeHTML }}</h1>
+          </div>
+        </div>
+      </div>
+   <!-- IMAGEM DE FUNDO DA HOME -->
+    <div class="layer-bg w-100 cover">
+              <img class="img-fluid w-100" src="{{`images/illustrations/capaPetianos2022.png` | relURL}}" alt="bg-shape">
+          </div>
+    </div>
+
+
+    <!-- Ícones Redes Sociais -->
+    <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
+      {{ range .Site.Params.social }}
+      <li class="h4 mb-3"><a class="text-white" href="{{.URL | safeURL }}" target="_blank" rel="noopener" ><i class="{{.icon}}"></i></a></li>
+      {{ end }}
+    </ul>
+  </div>
+    <!-- /Fim ícones redes sociais -->
+
+
+  </section>
+  <!-- Fim Banner Principal -->
+
+
+
+  <!-- Textinho Resumo Sobre -->
+  {{ if .Site.Data.homepage.sobre.enable }}
+  
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto text-center">
+          {{ with .Site.Data.homepage.sobre }}
+          <div style="text-align: center;">
+          <h4 class="card-title">{{.content | markdownify}}</h4>
+        </div>
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  {{ end }}
+  <!-- Fim Textinho Resumo Sobre -->
+
+  
+  <!-- IMPACTOS
+  
+  {{ if .Site.Data.homepage.skill.enable }}
+  {{ with .Site.Data.homepage.skill }}
+  
+  
+  <section class="section bg-primary position-relative testimonial-bg-shapes"> 
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="text-white section-title">{{ .title | markdownify }}</h2> 
+        </div>
+        {{ range .item }}
+        <div class="col-md-4 mb-4">
+          <div class="card {{if .highlighted }} active-bg-primary {{end}} hover-shadow shadow">
+            <div class="card-body text-center px-4 py-5">
+              <i class="{{.icon }} icon mb-5 d-inline-block"></i>
+              <h4 class="mb-4">{{.title}}</h4>      
+            <font size="5"><span class="contar"><p>{{.content | markdownify}}</p></span></font>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    COUNT UP--
+    <script type="text/javascript">
+      $(".contar").counterUp({delay:15,time:2500});
+    </script>
+    COUNT UP--
+  </section>
+
+  
+
+  {{ end }}
+  {{ end }}
+
+  <!- Fim IMPACTO DO PET PRODUÇÃO -->
+
+  
+<!--PETCast-->
+{{ if .Site.Data.homepage.podcast.enable }}
+<section class="section bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .Site.Data.homepage.podcast.title | markdownify }}</h2>
+      </div>
+    </div>
+    {{ partial "client-slider2.html" . }}
+  </div>
+</section>
+{{ end }}
+<!--FIM PETCAST-->
+
+
+<!-- Últimas notícias -->
+  {{ if .Site.Data.homepage.noticias.enable }}
+  
+  <section class="section bg-cover" data-background="{{`images/backgrounds/bg_gm.png`|relURL}}">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title">{{.Site.Data.homepage.noticias.title | markdownify }}</h2>
+        </div>
+        {{ range first 3 .Site.RegularPages }}
+        {{ .Render "post" }}
+        {{ end }}
+      </div>
+      
+    </div>
+  </section>
+  
+  {{ end }}
+
+  <!-- Fim Últimas Notícias -->
+
+
+  {{ if .Site.Data.homepage.service.enable }}
+  {{ with .Site.Data.homepage.service }}
+  <!-- CULTURA -->
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title">{{ .title | markdownify }}</h2>
+        </div>
+        {{ range .item }}
+        <div class="col-md-4 mb-4">
+          <div class="card {{if .highlighted }} active-bg-primary {{end}} hover-shadow shadow">
+            <div class="card-body text-center px-4 py-5">
+              <i class="{{.icon }} icon mb-5 d-inline-block"></i>
+              <h4 class="section-title mb-4">{{.title}}</h4>
+              <p>{{ .content | safeHTML }}</p>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /CULTURA -->
+  {{ end }}
+  {{ end }}
+
+
+  {{ if .Site.Data.homepage.projetos.enable }}
+
+  <!-- portfolio (PROJETOS) -->
+  <section class="section" data-background="{{`images/backgrounds/bg_gm.png`|relURL}}">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title ">{{ .Site.Data.homepage.projetos.title | markdownify }}</h2>
+        </div>
+      </div>
+      <div class="row shuffle-wrapper">
+        {{ $item:= .Site.Data.homepage.projetos.item_show }}
+        {{ range first $item .Site.Data.projetos.item }}
+        <div class="col-lg-4 col-12 mb-4 shuffle-item">
+          <div class="position-relative rounded hover-wrapper">
+            <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+            {{ if and ( ne .project_url "" ) ( ne .project_url "/projetos" ) }}
+            <div class="hover-overlay">
+              <div class="hover-content">
+                <a class="btn btn-light btn-sm" href="{{ .project_url2 | safeURL }}">{{.title}}</a>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+      <!-- Bendito código do botão--Tem que colocar fora da primeira div row, mas dentro da container--> 
+        <div class="row">
+          <div class="col-12 text-center">
+            {{ with .Site.Data.homepage.projetos }}
+            {{ if .button.enable }}
+            {{ with .button }}
+            <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+            {{ end }}
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+    </div>
+  </section>
+  <!-- /portfolio -->
+  {{ end }}
+
+
+  {{ if .Site.Data.homepage.testimonial.enable }}
+  {{ with .Site.Data.homepage.testimonial }}
+
+
+  <!-- FALA PETIANO -->
+  <section class="section bg-primary position-relative testimonial-bg-shapes">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title text-white mb-5">{{ .title | markdownify }}</h2>
+        </div>
+        <div class="col-lg-10 mx-auto testimonial-slider">
+          {{ range .item }}
+          <!-- slider-item -->
+          <div class="text-center testimonial-content">
+            <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
+            <div style="text-align: center;">
+            <p class="text-white mb-4 col">{{.content | safeHTML}}</p>
+            </div>
+            <img class="img-fluid rounded-circle mb-4 d-inline-block" src="{{.image | absURL }}" alt="client-image">
+            <h4 class="text-white">{{.name }}</h4>
+            <h6 class="text-dark">{{ .designation | safeHTML}}</h6>
+            <!--Cor setada:text-light mb-4-->
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- IMAGENS INÚTEIS DE FUNDO DA SEÇÃO "testimonial"
+
+    <img src="{{`images/backgrounds/map.png` | relURL }}" alt="map" class="img-fluid bg-map">
+    <img src="{{`images/illustrations/dots-group-v.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-1">
+    <img src="{{`images/illustrations/leaf-orange.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-2">
+    <img src="{{`images/illustrations/dots-group-sm.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-3">
+    <img src="{{`images/illustrations/leaf-pink-round.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-4">
+    <img src="{{`images/illustrations/leaf-cyan.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-5">
+
+
+    -->
+
+    <!-- IMAGENS INÚTEIS DE FUNDO DA SEÇÃO "testimonial" -->
+
+
+  </section>
+
+  {{ end }}
+  {{ end }}
+
+
+  {{ if .Site.Data.homepage.clients_logo_slider.enable }}
+  <!-- client logo slider -->
+  <section class="section pb-0">
+    <div class="container">
+      {{ partial "client-slider.html" . }}
+    </div>
+  </section>
+  <!-- /client logo slider -->
+  {{ end }}
+
+  
+
+{{ end }}

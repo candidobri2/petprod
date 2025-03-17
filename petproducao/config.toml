@@ -1,0 +1,112 @@
+# default configuration
+baseURL = "http://www.petprod.ufc.br"
+languageCode = "pt-br"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "PET Produção | UFC"
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+
+
+# menu
+[[menu.main]]
+URL = "sobre"
+name = "Nossa história"
+weight = 2
+
+[[menu.main]]
+URL = "projetos"
+name = "Projetos"
+weight = 3
+
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 4
+
+[[menu.main]]
+URL = "time"
+name = "Nosso time"
+weight = 5
+
+[[menu.main]]
+URL = "curso"
+name = "O curso"
+weight = 6
+
+[[menu.main]]
+URL = "noticias"
+name = "Notícias"
+weight = 7
+
+[[menu.main]]
+URL = "contato"
+name = "Contato"
+weight = 8
+
+
+
+# default parameters
+[params]
+home = "Home"
+logo = "images/logo-pet.png"
+# theme color
+theme_color = "#08829b" 
+# contact info
+# phone = ""
+email = "petproducao@ufc.br"
+address = "Bloco 735, Centro de Tecnologia, Campus do Pici, Universidade Federal do Ceará, Fortaleza - CE"
+
+
+# meta description
+author = "PET Produção"
+description = "Programa de Educação Tutorial do curso de Engenharia de Produção Mecânica da UFC"
+# google analytics
+google_analytics_id = "UA-174155419-1" # Your ID
+# copyright
+copyright = "&copy; Desenvolvido por PET Engenharia de Produção UFC - 2020 - Tema de [Hugo](https://gethugothemes.com)"
+
+
+# contact
+[params.contact]
+enable = false
+form_action = "#" # contact form works with : https://formspree.io
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# social site
+[[params.social]]
+URL = "https://pt-br.facebook.com/petprod.ufc/"
+icon = "ti-facebook"
+
+[[params.social]]
+URL = "https://www.instagram.com/petproducaoufc/"
+icon = "ti-instagram"
+
+[[params.social]]
+URL = "https://www.youtube.com/channel/UCCHhMa5d70H0yUTB6fQ8nPg"
+icon = "ti-youtube"
+
+[[params.social]]
+URL = "https://www.linkedin.com/company/petproducaoufc/"
+icon = "ti-linkedin"

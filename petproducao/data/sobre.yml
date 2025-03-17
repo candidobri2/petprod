@@ -1,0 +1,81 @@
+#Triade
+triade:
+  enable : true
+  title : "Tríade"
+  item:
+  - title : "Ensino"
+    icon : "ti-pencil"
+    content : "O pilar do ensino está relacionado a atividades que possibilitam a **capacitação do estudante** e o preparam para atuar no âmbito profissional. Palestras, monitorias e minicursos constituem as iniciativas do PET."
+    highlighted : true
+
+  - title : "Pesquisa"
+    icon : "ti-search"
+    content : "A pesquisa acadêmica consiste em atividades fundamentais para o enriquecimento do conhecimento dos estudantes e professores e para o crescimento do curso e da comunidade científica."
+    highlighted : true
+  - title : "Extensão"
+    icon : "ti-world"
+    content : "A extensão acadêmica é uma ação desenvolvida junto à sociedade, que proporciona a aproximação e a integração da comunidade universitária com o público externo, e garante a transmissão de conhecimentos e experiências."
+    highlighted : true
+# work process
+valores:
+  enable : true
+  title : "Entenda nossos valores"
+  item:
+  - title : "Brilho no olho"
+    icon : "images/icons/brilho.png"
+    content : "Significa a garra, o amor pelo que faz, a boa vontade de realizar suas responsabilidades apesar dos pesares."
+    
+  - title : "Busca constante pelo conhecimento"
+    icon : "images/icons/conhecimento.png"
+    content : "É predisposição por aprender, humildade intelectual e atitude para uma melhoria contínua no processo de aprendizagem de cada petiano."
+    
+  - title : "Ser protagonista"
+    icon : "images/icons/protagonista.png"
+    content : "É ser aquela(e) que deseja fazer a diferença, ser proativo e entregar o seu melhor em cada ato."
+
+  - title : "A genialidade está em não desistir"
+    icon : "images/icons/genio.png"
+    content : "Não é preciso de um gênio para realizar seus desejos e sim a força para não desistir deles mesmo quando parece impossível"
+
+  - title : "Integridade"
+    icon : "images/icons/integridade.png"
+    content : "Ser honesto e sincero com os valores do PET. Suas atitudes enquanto petiano devem condizer com os valores do programa"
+
+  - title : "Faço parte dessa história"
+    icon : "images/icons/historia.png"
+    content : "Se reconhecer dentro do programa e se sentir parte da entidade. Saber que você constrói o programa e o programa constrói você."
+
+  - title : "Unidos por um propósito"
+    icon : "images/icons/unidos.png"
+    content : "União e trabalho em equipe para atingir um objetivo maior. Um objetivo de evolução e crescimento do PET Produção"
+
+#Movimento PET
+pet:
+  enable: true
+  title: "Mas o que é PET?"
+# team
+team:
+  enable: true
+  title : "Faço parte dessa história"
+  team_member:
+    - title : "2014"
+      image : "images/team/pet1.jpg"
+      designation : ""
+      
+    - title : "2016"
+      image : "images/team/pet5.jpg"
+      designation : ""
+      
+    - title : "2018"
+      image : "images/team/pet7.png"
+      designation : ""
+  button:
+    enable : true
+    label : "Petianos Egressos"
+    URL : "egressos"
+
+# client logo slider
+clients_logo_slider:
+  enable : true
+  title : "Parceiros"
+  # clients logo comes from 'data/homepage.yml' file

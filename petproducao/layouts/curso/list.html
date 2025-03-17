@@ -1,0 +1,86 @@
+{{ define "main" }}
+
+<!-- título -->
+<section class="page-title-alt bg-primary position-relative overflow-hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="text-white font-tertiary">{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</section>
+<!--fim título-->
+
+<!--sobre o curso-->
+<section class="section pt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div style="text-align: justify;">
+            <h1>{{ .Content | safeHTML }}</h1>
+            </div>
+      </div>
+      <div class="col-md-4 text-center drag-lg-top">
+        <div class="shadow-down mb-4">
+          <img src="{{.Params.author_image | absURL }}" alt="author"
+            class="img-fluid w-100 rounded-lg border-thick border-white">
+        
+    </div>
+  </div>
+</section>
+<!-- /about -->
+
+
+
+  {{ if .Site.Data.curso.testimonial.enable }}
+  {{ with .Site.Data.curso.testimonial }}
+
+
+  <!-- FALA PETIANO -->
+  <section class="section bg-primary position-relative testimonial-bg-shapes">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title text-white mb-5">{{ .title | markdownify }}</h2>
+        </div>
+        <div class="col-lg-10 mx-auto testimonial-slider">
+          {{ range .item }}
+          <!-- slider-item -->
+          <div class="text-center testimonial-content">
+            <h4 class="section-title text-white mb-5">{{.name }}</h4>
+            	<div style="text-align: justify;">
+            <p class="text-white col">{{.content | safeHTML}}</p>
+            	</div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {{ end }}
+  {{ end }}
+
+  {{ if .Site.Data.curso.clients_logo_slider.enable }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .Site.Data.curso.clients_logo_slider.title | markdownify }}</h2>
+      </div>
+    </div>
+    <div class="client-logo-slider d-flex align-items-center">
+  {{ range .Site.Data.curso.clients_logo_slider.item }}
+  {{ if and ( ne .URL "" ) ( ne .URL "#" ) }}
+  <a href="{{ .URL | safeURL }}" target="_blank" rel="noopener" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="{{.logo | absURL}}" alt="client-logo"></a>
+  {{ else }}
+  <span class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="{{.logo | absURL}}" alt="client-logo"></span>
+  {{ end }}
+  {{ end }}
+</div>
+  </div>
+</section>
+{{ end }}
+
+  {{ end }}

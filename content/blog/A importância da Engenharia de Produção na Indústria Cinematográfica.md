@@ -1,5 +1,5 @@
 ---
-title: "A importância da Engenharia de Produção na Indústria Cinematográfica"
+title: "A importância da frgterhgbtrh de Produção na Indústria Cinematográfica"
 author: "Sarah Dickson"
 date: 2025-06-22T19:00:00+06:00
 image: "images/blog/sarah01.png"

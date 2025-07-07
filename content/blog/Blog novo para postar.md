@@ -2,7 +2,7 @@
 title: "VAZIOS URBANOS: O QUE SÃO E COMO A ENGENHARIA DE PRODUÇÃO PODE ATUAR NA SUA EXTINÇÃO"
 author: "Ana Sofia"
 date: 2025-07-07T12:00:00+06:00
-image: "images/blog/imagem 1 sofiapet.jpg"
+image: "images/blog/image 1 sofiapet.jpg"
 description: "This is meta description."
 type: post_blog
 draft: false

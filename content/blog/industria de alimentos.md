@@ -9,18 +9,16 @@ draft: false
 
 ---
 
-
-<<<<<<< HEAD
 #### INTRODUÇÃO
 Você já imaginou como funciona a indústria de alimentos? Como é possível fabricar inúmeros produtos, todos com qualidade excepcional para consumo e dentro dos parâmetros de legislação? Nem sempre foi assim e, para te mostrar isso, primeiro vamos voltar um pouco nossa história, às antigas civilizações, e traçar um caminho até chegar ao modelo atual da indústria alimentícia.
 
 #### A HISTÓRIA
-=======
+
 
 Você já imaginou como funciona a indústria de alimentos? Como é possível fabricar inúmeros produtos, todos com qualidade excepcional para consumo e dentro dos parâmetros de legislação? Nem sempre foi assim e, para te mostrar isso, primeiro vamos voltar um pouco nossa história, às antigas civilizações, e traçar um caminho até chegar ao modelo atual da indústria alimentícia.
 
 #### A história
->>>>>>> 01c2b93 (Inicialização do repositório e adição dos arquivos)
+
 Os povos antigos tinham costumes nômades, deslocando-se periodicamente em busca de abrigos e de alimento, mas foi a partir do conhecimento a respeito da agricultura e da dominação e criação de animais que foi possível a transição de civilizações sedentárias. Esse processo, conhecido como Revolução Agrícola, permitiu o desenvolvimento de outras técnicas de sobrevivência como, por exemplo, métodos primitivos de conservação de alimentos (a salga, a secagem e a fermentação).
 
 
@@ -39,11 +37,11 @@ Atualmente, para cumprir os parâmetros mundiais de comercialização, a indúst
 
 Sendo assim, o processo de produção industrial de alimentos envolve uma série de etapas que permitem a transformação de uma matéria-prima inicial ao produto final pronto para consumo. As principais etapas são: aquisição de matéria-prima, processamento e a embalagem do alimento, em que este processo garantirá a proteção contra contaminação, a vida útil além de assegurar o transporte e o armazenamento adequado.
 
-<<<<<<< HEAD
+
 #### A ENGENHARIA DE PRODUÇÃO NA INDÚSTRIA DE ALIMENTOS
-=======
+
 #### A Engenharia de Produção na Indústria de Alimentos
->>>>>>> 01c2b93 (Inicialização do repositório e adição dos arquivos)
+
 Pode-se observar que a produção de alimentos exige uma longa cadeia de produção pensada criteriosamente para atender não apenas aos parâmetros exigidos pelas normas, mas também para o favorecimento da empresa que produz o alimento. Nesse cenário, a Engenharia de Produção desempenha um papel crucial, otimizando cada uma das etapas de processamentos e produção. Algumas técnicas, como a gestão da cadeia de suprimentos, garantem que as matérias-primas estejam disponíveis no tempo certo, utilizando a automação e tecnologias de produção para otimização dos processos de fabricação, a fim de reduzir desperdícios e melhorar a eficiência.
 
 Confira agora algumas técnicas utilizadas na Engenharia de Produção dentro do processo de fabricação de alimentos:
@@ -61,9 +59,7 @@ Lean Manufacturing é uma filosofia que visa maximizar a eficiência dos process
 **Just-in-Time:**   
 Outra metodologia baseada na minimização de desperdícios é o Just-in-Time, que visa produzir apenas o necessário, no momento certo, evitando acúmulo de produtos no estoque. Quando se trata de alimento, estamos falando em produtos com um prazo de validade e ter estoques de produtos assim pode resultar em grandes perdas, portanto produzir na quantidade certa permite gerenciar produtos com mais precisão.
 
-<<<<<<< HEAD
-#### CONCLUSÃO
-=======
+
 #### Conclusão
->>>>>>> 01c2b93 (Inicialização do repositório e adição dos arquivos)
+
 A Engenharia de Produção é fundamental na produção de alimentos, otimizando cada etapa do processo produtivo. Com o uso das metodologias, o processo se torna mais eficiente, seguro e com qualidade adequada, atendendo aos padrões exigidos. À medida que o mercado evolui, vale destacar que um bom profissional irá se adequar às demandas do mercado, utilizando de novas tecnologias e melhores aprimoramentos a fim de obter melhor qualidade ao alimento.

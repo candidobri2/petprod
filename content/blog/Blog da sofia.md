@@ -1,5 +1,5 @@
 ---
-title: "Vazios urbanos: Oque são e como a Engenharia de Produção pode atuar na sua extinção"
+title: "Vazios urbanos: O que são e como a Engenharia de Produção pode atuar na sua extinção"
 author: "Ana Sofia"
 date: 2025-07-07T12:00:00+06:00
 image: "images/blog/image 1 sofiapet.jpg"

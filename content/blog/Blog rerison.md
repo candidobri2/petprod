@@ -1,8 +1,8 @@
 ---
 title: "A Engenharia de Produção e seu Papel nas Startups Inovadoras"
 author: "Rerison Silva"
-date: 2025-08-02T19:00:00+06:00
-image: "images/blog/Rerison1.png"
+date: 2025-08-04T19:00:00+06:00
+image: "images/blog/rerison1.png"
 description: "This is meta description."
 type: post_blog
 draft: false
@@ -30,7 +30,7 @@ Startups são capazes de transformar mercados tradicionais por meio da inovaçã
 
 - **● Nubank:** No Brasil, temos o exemplo notável de Cristina Junqueira, engenheira de produção formada pela USP e co-fundadora do Nubank. Ela ajudou a revolucionar o burocrático setor financeiro brasileiro com uma fintech focada na simplicidade e na experiência do cliente, demonstrando na prática como a visão estratégica da Engenharia de Produção é um diferencial competitivo.
 
-{{< figure src="/images/blog/Rerison2.png#center" height="50%" width="55%" description="" >}}
+{{< figure src="/images/blog/rerison2.png#center" height="50%" width="55%" description="" >}}
 
 
 #### O Papel do Engenheiro de Produção nas Startups
@@ -53,7 +53,7 @@ Entre as principais ferramentas, destacam-se:
 
 - **● Definição de KPIs (Indicadores-Chave de Desempenho):** Ajuda a monitorar as métricas corretas desde o início para embasar decisões estratégicas.
 
-{{< figure src="/images/blog/Rerison3.png#center" height="50%" width="55%" description="" >}}
+{{< figure src="/images/blog/rerison3.png#center" height="50%" width="55%" description="" >}}
 
 Com esse arsenal, o engenheiro de produção não apenas otimiza a operação, mas também ajuda a construir uma cultura de melhoria contínua e crescimento sustentável, fundamental para obter os melhores resultados.
 
@@ -64,6 +64,6 @@ Startups têm o poder de transformar mercados e impactar diretamente a vida das 
 Em um cenário cada vez mais dinâmico, fica a reflexão: quais problemas da sociedade ainda esperam por uma solução inovadora? E qual será a próxima startup a transformar nosso modo de viver?
 
 
-{{< figure src="/images/blog/Rerison4.png#center" height="50%" width="55%" description="" >}}
+{{< figure src="/images/blog/rerison4.png#center" height="50%" width="55%" description="" >}}
 
 

@@ -20,7 +20,7 @@ team:
       designation : "Bolsista PET Produção"  
 
     - title : "Beatriz Bolner"
-      image : "images/team/Beatriz.png"
+      image : "images/team/beatriz.png"
       designation : "Bolsista PET Produção"
 
     - title : "Davi de Lima"
@@ -28,15 +28,15 @@ team:
       designation : "Bolsista PET Produção"
 
     - title : "Giovanna Victória"
-      image : "images/team/Giovanna.png"
+      image : "images/team/giovanna.png"
       designation : "Bolsista PET Produção"
       
     - title : "Izadora Braga"
-      image : "images/team/Izadora.png"
+      image : "images/team/izadora.png"
       designation : "Bolsista PET Produção" 
 
     - title : "Jaqueline Silva"
-      image : "images/team/Jaqueline.png"
+      image : "images/team/jaqueline.png"
       designation : "Bolsista PET Produção"
 
     - title : "João Pedro"
@@ -44,15 +44,15 @@ team:
       designation : "Bolsista PET Produção"  
 
     - title : "José Everton"
-      image : "images/team/Everton.png"
+      image : "images/team/everton.png"
       designation : "Bolsista PET Produção"
 
     - title : "Juliane Maia"
-      image : "images/team/Juliane.png"
+      image : "images/team/juliane.png"
       designation : "Bolsista PET Produção"
 
     - title : " Kamille Costa"
-      image : "images/team/Kamille.png"
+      image : "images/team/kamille.png"
       designation : "Bolsista PET Produção"
       
     - title : "Maíza Nara"
@@ -60,11 +60,11 @@ team:
       designation : "Bolsista PET Produção"   
 
     - title : "Miguel Neto"
-      image : "images/team/Miguel.png"
+      image : "images/team/miguel.png"
       designation : "Bolsista PET Produção"
 
     - title : "Rerison Silva"
-      image : "images/team/Rerison.png"
+      image : "images/team/rerison.png"
       designation : "Bolsista PET Produção"
       
     - title : "Sarah Dickson"
@@ -72,11 +72,11 @@ team:
       designation : "Bolsista PET Produção"      
       
     - title : "Victor do Amaral"
-      image : "images/team/Victor.png"
+      image : "images/team/victor.png"
       designation : "Bolsista PET Produção"   
 
     - title : "Yasmim Maia"
-      image : "images/team/yas Maia.png"
+      image : "images/team/yas maia.png"
       designation : "Bolsista PET Produção"      
       
 

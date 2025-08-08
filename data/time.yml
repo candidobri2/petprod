@@ -11,72 +11,72 @@ team:
       image : "images/team/breno2.1.jpg"
       designation : "Co-Tutor"   
       
-    - title : "Lyssa Melo"
-      image : "images/team/lyssa2.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Kamilly Vitória"
-      image : "images/team/kamilly2.png"
-      designation : "Bolsista PET Produção"  
-
-    - title : "Otávio Paes"
-      image : "images/team/otavio2.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Yasmin Matos"
-      image : "images/team/yas2.png"
-      designation : "Bolsista PET Produção"
-
-    - title : "Glauco Bezerra"
-      image : "images/team/glauco2.png"
-      designation : "Bolsista PET Produção"
-      
-    - title : "Davi de Lima"
-      image : "images/team/davi.png"
-      designation : "Bolsista PET Produção" 
-
     - title : "Alice Benevides"
       image : "images/team/aliceb.png"
       designation : "Bolsista PET Produção"
 
-    - title : "Pedro Lucas"
-      image : "images/team/pedrinho.png"
+    - title : "Ana Sofia"
+      image : "images/team/Sofia2.png"
       designation : "Bolsista PET Produção"  
 
+    - title : "Beatriz Bolner"
+      image : "images/team/Beatriz.png"
+      designation : "Bolsista PET Produção"
+
+    - title : "Davi de Lima"
+      image : "images/team/davi.png"
+      designation : "Bolsista PET Produção"
+
     - title : "Giovanna Victória"
-      image : "images/team/giovanna.png"
+      image : "images/team/Giovanna.png"
+      designation : "Bolsista PET Produção"
+      
+    - title : "Izadora Braga"
+      image : "images/team/Izadora.png"
+      designation : "Bolsista PET Produção" 
+
+    - title : "Jaqueline Silva"
+      image : "images/team/Jaqueline.png"
       designation : "Bolsista PET Produção"
 
-    - title : "Rebeca Iaci"
-      image : "images/team/rebeca.png"
+    - title : "João Pedro"
+      image : "images/team/jpcar.png"
+      designation : "Bolsista PET Produção"  
+
+    - title : "José Everton"
+      image : "images/team/Everton.png"
       designation : "Bolsista PET Produção"
 
-    - title : "Gustavo Castro"
-      image : "images/team/castro.png"
+    - title : "Juliane Maia"
+      image : "images/team/Juliane.png"
+      designation : "Bolsista PET Produção"
+
+    - title : " Kamille Costa"
+      image : "images/team/Kamille.png"
       designation : "Bolsista PET Produção"
       
     - title : "Maíza Nara"
       image : "images/team/maiza.png"
       designation : "Bolsista PET Produção"   
 
-    - title : "Yasmin Maia"
-      image : "images/team/yas maia.png"
+    - title : "Miguel Neto"
+      image : "images/team/Miguel.png"
       designation : "Bolsista PET Produção"
 
-    - title : "Levi Israel"
-      image : "images/team/levi.png"
+    - title : "Rerison Silva"
+      image : "images/team/Rerison.png"
       designation : "Bolsista PET Produção"
       
-    - title : "Victor do Amaral"
-      image : "images/team/victor.png"
+    - title : "Sarah Dickson"
+      image : "images/team/sarahdk.png"
       designation : "Bolsista PET Produção"      
       
-    - title : "Izadora Braga"
-      image : "images/team/izadora.png"
+    - title : "Victor do Amaral"
+      image : "images/team/Victor.png"
       designation : "Bolsista PET Produção"   
 
-    - title : "Juliane Maia"
-      image : "images/team/juliane.png"
+    - title : "Yasmim Maia"
+      image : "images/team/yas Maia.png"
       designation : "Bolsista PET Produção"      
       
 

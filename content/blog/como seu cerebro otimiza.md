@@ -1,7 +1,7 @@
 ---
 title: "Como seu cérebro otimiza decisões (e o que isso tem a ver com engenharia)"
 author: "Victor do Amaral Sampaio Pinheiro"
-date: 2025-09-22T01:00:00+06:00
+date: 2025-09-29T01:00:00+06:00
 image: "images/blog/photo_5084575533223316294_x.jpg"
 description: "This is meta description."
 type: post_blog

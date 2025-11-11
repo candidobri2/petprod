@@ -1,7 +1,7 @@
 ---
 title: "Engenharia de Produção e Saúde: como a gestão enxuta pode transformar hospitais"
 author: "José Everton"
-date: 2025-11-7T16:00:00+06:00
+date: 2025-11-07T16:00:00+06:00
 image: "images/blog/fotolaboratórioeverton.jpg"
 description: "This is meta description."
 type: post_blog
@@ -10,7 +10,6 @@ draft: false
 ---
 
 
-*Foto: Mateus Lotif / Fortaleza EC*  
 
 O sistema de saúde enfrenta desafios constantes: longas filas, desperdício de recursos, sobrecarga de profissionais e processos muitas vezes lentos e ineficientes. Em meio a esse cenário, surge uma abordagem capaz de transformar a forma como hospitais e unidades de saúde operam, o pensamento enxuto. Originado na indústria, esse conceito tem se mostrado uma poderosa ferramenta para tornar o cuidado com o paciente mais eficiente, ágil e sustentável.
 

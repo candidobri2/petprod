@@ -1,7 +1,7 @@
 ---
 title: "Low-Code/No-Code na engenharia de produção: A nova habilidade do engenheiro moderno"
 author: "Kamille Costa"
-date: 2025-12-08T16:00:00+06:00
+date: 2025-12-09T16:00:00+06:00
 image: "images/blog/capa.png"
 description: "This is meta description."
 type: post_blog

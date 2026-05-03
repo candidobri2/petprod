@@ -2,7 +2,7 @@
 title: "Engenharia de Produção nos bastidores de festivais de música"
 author: "Letizia Sampaio"
 date: 2026-05-03T18:00:00+06:00
-image: "images/blog/imagem1letizia.png"
+image: "images/blog/imagem1letizia.PNG"
 description: "This is meta description."
 type: post_blog
 draft: false
@@ -35,7 +35,7 @@ Para que tudo funcione de forma eficiente, esses processos precisam ser padroniz
 
 É interessante perceber que um festival pode ser comparado a um sistema produtivo. Nesse contexto, o palco pode ser visto como uma linha de produção, o show como o produto final e o público como o cliente. Já as filas funcionam como processos que quando organizados precisam garantir eficiência e qualidade.
 
-{{< figure src="/images/blog/imagem2letizia.png#center" height="50%" width="55%" description="" >}}
+{{< figure src="/images/blog/imagem2letizia.PNG#center" height="50%" width="55%" description="" >}}
 
 #### Gestão de riscos:
 
@@ -50,7 +50,7 @@ Por esse motivo, são definidos planos de emergência, rotas de evacuação e es
 
 - A coordenação de pessoas, equipamentos e atividades exige planejamento detalhado e integração entre diferentes equipes. É um evento que mostra como a organização pode transformar um espaço comum em algo altamente estruturado.
 
-{{< figure src="/images/blog/imagem3letizia.png#center" height="50%" width="55%" description="" >}}
+{{< figure src="/images/blog/imagem3letizia.PNG#center" height="50%" width="55%" description="" >}}
 
 - **2. Lollapalooza**
 
@@ -68,7 +68,7 @@ Por esse motivo, são definidos planos de emergência, rotas de evacuação e es
 
 - A padronização também é essencial, já que o público espera a mesma qualidade em todas as apresentações. Além disso, a alta demanda por ingressos exige sistemas eficientes para lidar com grandes volumes de acesso. Isso mostra como a organização precisa estar preparada para operar em grande escala.
 
-{{< figure src="/images/blog/imagem4letizia.png#center" height="50%" width="55%" description="" >}}
+{{< figure src="/images/blog/imagem4letizia.PNG#center" height="50%" width="55%" description="" >}}
 
 #### Dados e melhoria contínua
 

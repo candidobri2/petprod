@@ -37,7 +37,6 @@ Para que tudo funcione de forma eficiente, esses processos precisam ser padroniz
 
 {{< figure src="/images/blog/imagem2letizia.png#center" height="50%" width="55%" description="" >}}
 
-
 #### Gestão de riscos:
 
 Eventos de grande porte envolvem riscos que precisam ser considerados com antecedência. Isso inclui desde falhas técnicas até questões relacionadas à segurança e às condições climáticas.
@@ -52,7 +51,6 @@ Por esse motivo, são definidos planos de emergência, rotas de evacuação e es
 - A coordenação de pessoas, equipamentos e atividades exige planejamento detalhado e integração entre diferentes equipes. É um evento que mostra como a organização pode transformar um espaço comum em algo altamente estruturado.
 
 {{< figure src="/images/blog/imagem3letizia.png#center" height="50%" width="55%" description="" >}}
-
 
 - **2. Lollapalooza**
 
@@ -71,7 +69,6 @@ Por esse motivo, são definidos planos de emergência, rotas de evacuação e es
 - A padronização também é essencial, já que o público espera a mesma qualidade em todas as apresentações. Além disso, a alta demanda por ingressos exige sistemas eficientes para lidar com grandes volumes de acesso. Isso mostra como a organização precisa estar preparada para operar em grande escala.
 
 {{< figure src="/images/blog/imagem4letizia.png#center" height="50%" width="55%" description="" >}}
-
 
 #### Dados e melhoria contínua
 

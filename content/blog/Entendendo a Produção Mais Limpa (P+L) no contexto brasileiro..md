@@ -29,7 +29,7 @@ A rede teve como objetivos reduzir impactos ambientais, disseminar práticas de 
 
 Ademais, o Plano de Ação para Produção e Consumo Sustentáveis (PPCS) propõe uma abordagem integrada entre produção e consumo, reconhecendo a relação de interdependência entre essas duas dimensões. A produção influencia o consumo, por meio do design e do marketing, enquanto o consumo influencia a produção, a partir das escolhas dos consumidores. Nesse contexto, práticas como boicotes a produtos prejudiciais ao meio ambiente podem levar empresas a adotarem mudanças significativas. 
 
-{{< figure src="/images/blog/davismd2.jpeg#center" height="50%" width="55%" description="" >}}
+{{< figure src="/images/blog/davismd3.jpeg#center" height="50%" width="55%" description="" >}}
 
 O plano estabelece seis prioridades principais: aumento da reciclagem, educação para o consumo sustentável, agenda ambiental na administração pública, compras públicas sustentáveis, construções sustentáveis e promoção do varejo e consumo sustentáveis. Ele também destaca a necessidade de maior atenção ao consumo, especialmente em países em desenvolvimento, onde historicamente o foco esteve mais na produção. 
 

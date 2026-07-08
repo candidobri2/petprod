@@ -1,50 +1,30 @@
 ---
-title: "A arte de prever para prover: a Engenharia de Produção por trás da Copa do Mundo"
-author: " Rerisson Silva"
+title: "Engenharia de Produção e moda como a pesquisa de tendências pode prever a demanda"
+author: " Pedro Henrique"
 date: 2026-07-08T16:00:00+06:00
-image: "images/blog/fauzan-saari-AmhdN68wjPc-unsplash.jpg"
+image: "images/blog/pexels-cottonbro-7610408.jpg"
 description: "This is meta description."
 type: post_blog
 draft: false
 
 ---
 
-A cada quatro anos, o mundo para. O maior evento esportivo do planeta está de volta. A Copa do Mundo mobiliza bilhões de espectadores, movimenta bilhões de dólares e desperta emoções que atravessam fronteiras, culturas e gerações.
-Para muitos jogadores, é a realização de um sonho. Para milhões de torcedores, é a esperança de ver sua seleção levantar a taça. No caso do Brasil, é a busca pelo tão sonhado hexa, a sexta estrela que simbolizaria mais um capítulo na história do futebol nacional.
-Mas a Copa do Mundo vai muito além dos gols, das comemorações e da disputa pelo título. Por trás de cada partida existe uma operação extremamente complexa, envolvendo milhões de pessoas, centenas de profissionais e uma grande quantidade de recursos. Para que tudo funcione de forma eficiente, é necessário planejar, coordenar e tomar decisões constantemente. Nesse contexto, a Copa do Mundo também se torna um exemplo prático de conceitos amplamente estudados na Engenharia de Produção. 
+A base para qualquer gestão empresarial de sucesso é a tomada de decisões embasadas em dados. O gerenciamento de uma cadeia de produção não é diferente; para produzir de acordo com as demandas do mercado, evitando excesso ou falta de estoque, muitas empresas trabalham com métodos de predição de demanda, sejam qualitativos, sejam quantitativos. Todavia, na indústria da moda, isso ainda é um desafio, uma vez que os métodos de previsão de demanda tradicionais não funcionam tão bem, devido às particularidades do mercado, como: incertezas inerentes na oferta e na demanda, processo de fornecimento longo e inflexível, ciclo de vida curto dos produtos, vasta variedade de produtos, alta propensão à compra impulsiva, sazonalidade dos produtos e preferência por um conjunto específico de atributos em relação a outro.
 
-{{< figure src="/images/blog/fauzan-saari-AmhdN68wjPc-unsplash.jpg#center" height="50%" width="55%" description="" >}}
+{{< figure src="/images/blog/pexels-cottonbro-7610408.jpg#center" height="50%" width="55%" description="" >}} 
 
-#### A arte de prever para prover  
+Entretanto, há uma prática que vem ganhando cada vez mais espaço no mercado têxtil, que pode ser associada aos métodos de previsão de demanda qualitativos e que obtém resultados favoráveis na indústria da moda, sendo usada amplamente por empresas do setor: a pesquisa de tendências.
+Por definição, a previsão de demanda qualitativa é um método que utiliza agentes sociais para mapear o mercado, considerando fatores como opiniões do público consumidor, tendências de mercado e características dos produtos.
+No mercado têxtil, popularmente conhecido como o mercado da moda, essa previsão acontece observando o ambiente em que o consumidor está inserido, uma vez que o meio no qual alguém pertence molda o seu perfil de compra. Para além de suprir as necessidades humanas, como pudor e conforto, este mercado é sustentado pela sua capacidade de ditar funções e classes sociais.
 
-Antes mesmo do primeiro jogo acontecer, os organizadores da Copa do Mundo precisam responder a uma pergunta fundamental: quantas pessoas irão participar do evento? A resposta para essa questão influencia praticamente todas as decisões relacionadas à organização do torneio. Se você quisesse prever quantos torcedores irão aos estádios, quanto alimento será consumido ou quantos profissionais serão necessários para operar o evento, a solução seria simples: bastaria consultar uma bola de cristal.
-O problema é que essa bola de cristal não existe. Ou melhor, ela não existe da forma como imaginamos. Na Engenharia de Produção, somos capazes de construir nossa própria "bola de cristal" por meio de métodos de previsão de demanda. Utilizando dados históricos, tendências, modelos estatísticos e informações do cenário atual, conseguimos estimar acontecimentos futuros e reduzir as incertezas do planejamento.
-É claro que nenhuma previsão é perfeita. No entanto, quanto mais informações disponíveis e mais adequado for o método utilizado, mais próxima da realidade essa "bola de cristal" se torna. Em eventos da magnitude da Copa do Mundo, essa capacidade de prever é fundamental, pois dela dependem decisões relacionadas à logística, segurança, transporte, alimentação e à alocação de recursos.
-Afinal, antes de prover recursos, é preciso prever necessidades. E é justamente nessa arte de prever para prover que a Engenharia de Produção entra em campo.
+{{< figure src="/images/blog/pexels-anastasia-shuraeva-8084481.jpg#center" height="50%" width="55%" description="" >}} 
+
+Nesse contexto, a pesquisa de tendências, ora conhecida como coolhunting, ora conhecida como fashion forecasting, emerge como uma ferramenta de pesquisa e gestão capaz de analisar os objetos de desejo do público-alvo de uma marca e, por meio deles, antecipar comportamentos do consumidor. Diferente de outras metodologias tradicionais, a pesquisa de tendências nasce da observação do cotidiano; os agentes “fogem” do seu escritório e observam o ordinário em busca de combustível para o criativo. Essa “fuga” pode acontecer por meio de várias abordagens; a mais popular, hoje, é a análise do conteúdo consumido pelo público-alvo de uma empresa nas redes sociais. Essa análise revela coisas como: cores, tecidos, cortes e texturas que estão presentes no imaginário daquele grupo, permitindo, assim, que a marca se planeje e se adapte aos desejos dele. É importante frisar que essa é somente uma abordagem, que pode ou não ser combinada com outras, a fim de obter os resultados desejados.
+Dessa forma, informações que antes não seriam levadas em consideração em modelos matemáticos muito mais complexos, que dependem de dados estatísticos voláteis, ou em pesquisas com especialistas, que não necessariamente representam os desejos do consumidor, podem ser observadas de perto. Por meio da interpretação de todas essas informações, é possível inferir os próximos produtos da temporada; assim, a empresa consegue organizar onde depositar seus esforços. Organizando seu estoque e linha de produção, a empresa evita excessos na aquisição de produtos ou gargalos de produção. A redução desses problemas implica no aumento substancial das receitas da empresa.
+
+{{< figure src="/images/blog/pexels-cottonbro-6069072.jpg#center" height="50%" width="55%" description="" >}}
+
+Do ponto de vista da Engenharia de Produção, a pesquisa de tendências pode ser considerada uma ferramenta de previsão completa, pois, além de trabalhar com os pilares da predição qualitativa, atuando em cima de agentes sociais, ela tem como fim aumentar a eficiência de uma linha de produção.
+Portanto, mais do que um recurso associado ao design e à criatividade, a pesquisa de tendências pode ser compreendida como uma importante ferramenta de previsão qualitativa de demanda. Sua aplicação demonstra que a Engenharia de Produção e a moda não são áreas dissociadas, mas, sim, campos complementares, cuja integração contribui para processos mais eficientes, redução de desperdícios e maior aderência entre a produção e as expectativas do mercado consumidor.
 
 
-#### Movimentando milhões de pessoas  
-
-Depois de prever a demanda, surge outro grande desafio: fazer com que tudo chegue ao lugar certo, no momento certo e na quantidade certa. É nesse momento que a logística entra em campo.
-Durante uma Copa do Mundo, milhões de torcedores se deslocam entre cidades, países e estádios para acompanhar os jogos. Além disso, seleções, equipes técnicas, jornalistas, equipamentos de transmissão, alimentos e diversos outros recursos precisam estar disponíveis exatamente quando forem necessários.
-Um único jogo da Copa do Mundo pode reunir dezenas de milhares de torcedores em um estádio. Para atender essa demanda, é necessário garantir o funcionamento de sistemas de transporte, serviços de alimentação, equipes de segurança e infraestrutura de apoio. Qualquer falha em um desses elementos pode gerar atrasos, filas e impactos em toda a operação do evento. 
-Por isso, a logística desempenha um papel fundamental na Copa do Mundo. Rotas precisam ser planejadas, estoques devem ser dimensionados adequadamente e diferentes sistemas de transporte precisam funcionar de forma integrada. Assim como ocorre nas organizações, o objetivo é garantir eficiência operacional, reduzir desperdícios e assegurar que todas as atividades aconteçam conforme o planejado.
-Nesse contexto, a Engenharia de Produção contribui por meio do planejamento logístico, da otimização de processos e da gestão eficiente dos recursos, transformando uma operação extremamente complexa em uma experiência capaz de atender milhões de pessoas simultaneamente.
-
-{{< figure src="/images/blog/igor-batista-MPhf5gE1qrI-unsplash.jpg#center" height="50%" width="55%" description="" >}}
-
-#### Transformando dados em decisões   
-
-Prever demandas e planejar operações é apenas parte do desafio. Em um evento da magnitude da Copa do Mundo, milhares de informações são geradas a cada instante, tornando fundamental a utilização de sistemas capazes de coletar, processar e transformar dados em decisões.
-Desde a venda de ingressos até o monitoramento dos estádios, a tecnologia da informação está presente em praticamente todas as etapas da competição. Sistemas digitais permitem acompanhar o fluxo de torcedores, monitorar operações logísticas, controlar acessos e fornecer informações em tempo real para os responsáveis pela organização do evento.
-Além de aumentar a eficiência operacional, essas ferramentas também contribuem para reduzir riscos e apoiar decisões mais rápidas e precisas. Dessa forma, a tecnologia se torna uma importante aliada da Engenharia de Produção, permitindo que informações sejam transformadas em ações capazes de garantir o sucesso de operações complexas como a Copa do Mundo.
-
-{{< figure src="/images/blog/transferir.jfif#center" height="50%" width="55%" description="" >}}
-
-#### Quando os dados entram em campo 
-
-Imagine que uma partida da Copa do Mundo está prestes a começar. Milhares de torcedores estão chegando ao estádio, centenas de ônibus estão em circulação e equipes de segurança acompanham toda a movimentação. Nesse cenário, uma simples decisão tomada alguns minutos tarde demais pode gerar filas, atrasos e até comprometer a experiência dos espectadores.
-Para evitar esse tipo de problema, os organizadores precisam enxergar o que está acontecendo em tempo real. É nesse momento que a Tecnologia da Informação entra em campo. Sistemas de monitoramento, controle de acesso, venda de ingressos e análise de dados permitem acompanhar operações complexas e fornecer informações que auxiliam a tomada de decisão.
-Assim como um técnico utiliza informações para ajustar sua estratégia durante uma partida, os responsáveis pela organização da Copa utilizam dados para adaptar operações, corrigir falhas e garantir que o evento funcione da melhor forma possível.
-
-{{< figure src="/images/blog/torcedores-limpam-o-estadio-e-viralizam-na-web.jpg#center" height="50%" width="55%" description="" >}}
